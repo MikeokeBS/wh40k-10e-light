@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="56ef-b534-fd47-c972" name="Xenos - Tau" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="90cd-b18e-995e-33c4" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4996-479f-a98e-48c3" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b398-f64b-b89a-9641" name="Aun’Shi" hidden="false" collective="false" import="true" targetId="6c86-13dd-c431-5ada" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="32ec-1aac-cb21-4eb8" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="1c29-0558-dc7f-3387" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fb34-a725-d20c-44a7" name="Aun’Va" hidden="false" collective="false" import="true" targetId="c191-440b-5bc1-f1d3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b6a7-103f-cb73-32f8" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="6afc-6b22-54dd-77f4" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1d18-2c10-11b2-d68d" name="Breacher Team" hidden="false" collective="false" import="true" targetId="c4df-2611-6c80-93ba" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="69ad-18f3-2ed3-0ea1" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6129-199e-9f6c-f2e4" name="Broadside Battlesuits" hidden="false" collective="false" import="true" targetId="216d-cec0-f84c-68b5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="63b9-af59-efdc-a1ad" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9439-bd92-dc2b-5d9a" name="Cadre Fireblade" hidden="false" collective="false" import="true" targetId="9a4a-1157-dbb0-97b6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="923a-7b42-5890-ad81" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8ebf-2e82-53e8-17cb" name="Commander Farsight" hidden="false" collective="false" import="true" targetId="2606-eabb-8c9c-e7bc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="db74-1612-067c-c4a8" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="c7f6-2ffd-8a08-5651" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1ce2-a426-28c0-6c00" name="Commander in Coldstar Battlesuit" hidden="false" collective="false" import="true" targetId="093c-1dba-ada5-129c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2653-2bef-c87c-dac0" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a949-fc6e-d26f-93c8" name="Commander in Crisis Battlesuit" hidden="false" collective="false" import="true" targetId="c4fb-90e1-69aa-c498" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="89df-dd3b-cb97-0a32" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b0e2-6a2a-576b-4dda" name="Commander in Enforcer Battlesuit" hidden="false" collective="false" import="true" targetId="b732-2afc-1e99-2dc9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="47e0-0645-9801-ac74" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9ecc-e48c-cae0-260c" name="Commander Shadowsun" hidden="false" collective="false" import="true" targetId="be83-689f-ec75-bc60" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6491-4264-252b-5c9c" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="38e0-7793-8be5-238a" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8907-fa85-baa7-485a" name="Crisis Battlesuits" hidden="false" collective="false" import="true" targetId="d040-7b89-0ad9-b377" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b2c4-c53f-634b-2abe" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="20df-9c86-a7f7-ca43" name="Darkstrider" hidden="false" collective="false" import="true" targetId="ccdf-8036-0a22-5fd1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="baa6-45ff-ea80-114a" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="d663-601f-e4a8-7ae0" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9b17-be37-d437-741c" name="Devilfish" hidden="false" collective="false" import="true" targetId="a58e-c720-49ca-547e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7823-9287-6488-6776" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1fe6-e8e7-dcb6-ca4e" name="Ethereal" hidden="false" collective="false" import="true" targetId="126d-aa14-520c-6baa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6c7d-5bbe-7c75-c793" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0dcf-c2b7-dc54-1d93" name="Firesight Team" hidden="false" collective="false" import="true" targetId="3d60-42e2-775e-f56a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dd76-8aed-b5ad-2ccb" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1b94-afc2-69ca-c603" name="Ghostkeel Battlesuit" hidden="false" collective="false" import="true" targetId="467b-33e3-419e-1e29" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="97cd-d12d-3a0c-4b87" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cdbb-41f6-856c-f5fe" name="Hammerhead Gunship" hidden="false" collective="false" import="true" targetId="de82-ac7e-ba66-e20e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4bf7-1d7a-47a3-bca3" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="64ce-1fa3-656b-b408" name="Kroot Carnivores" hidden="false" collective="false" import="true" targetId="2e6c-d040-b4e6-f8e5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5ec4-ea8d-aa9b-148c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3fe9-4e81-9964-ba84" name="Tidewall Droneport" hidden="false" collective="false" import="true" targetId="422a-8ea2-b969-c8e9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b18b-41b8-29f6-19a7" name="New CategoryLink" hidden="false" targetId="56a8-7143-031e-072a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d384-7bca-130c-be46" name="Tactical Drones" hidden="false" collective="false" import="true" targetId="ce1d-9223-3796-210a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="089a-43ef-0f22-0314" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a260-55bb-bd6f-20b8" name="Sun Shark Bomber" hidden="false" collective="false" import="true" targetId="65da-f84e-d648-4488" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5025-f55c-c188-dd00" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8b0f-fff3-55cc-d44e" name="Strike Team" hidden="false" collective="false" import="true" targetId="a0be-e4ef-baeb-6a09" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7992-b75a-e888-9131" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e72c-31fc-01ab-53f9" name="Stormsurge" hidden="false" collective="false" import="true" targetId="55b8-be9e-2ec9-1a3b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bc80-879d-0cd3-03d9" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="da99-135e-d8e3-ec6f" name="Stealth Battlesuits" hidden="false" collective="false" import="true" targetId="3f00-fe16-e152-f751" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3ab7-6652-2392-6bdd" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cb40-d972-9d22-c697" name="Sky Ray Gunship" hidden="false" collective="false" import="true" targetId="7faa-090a-5fbf-aca4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dd35-f9fb-64fe-c18a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b51a-14ce-241c-ce8a" name="Riptide Battlesuit" hidden="false" collective="false" import="true" targetId="7a89-fae0-8dc5-3e35" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9235-cfd0-ac93-862a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3f50-94b1-b7f4-15d7" name="Razorshark Strike Fighter" hidden="false" collective="false" import="true" targetId="f008-6b93-9df5-08e1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0aa4-5cd9-5860-656b" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d2f9-e53c-fb9b-2a3c" name="Piranhas" hidden="false" collective="false" import="true" targetId="95ad-913a-38c3-d561" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="16b6-89b3-7f40-2065" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="48d8-c20a-e311-c17a" name="Pathfinder Team" hidden="false" collective="false" import="true" targetId="be53-6a52-3d89-8ddc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a8b0-d9d4-7b12-62ef" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e925-8f6b-464d-aa52" name="Longstrike" hidden="false" collective="false" import="true" targetId="ac1b-ca96-7a4e-b2db" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7201-7d52-78d9-b5cf" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="b662-db59-7b7d-9ba6" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="dd86-8ed7-8132-6e1f" name="Krootox Riders" hidden="false" collective="false" import="true" targetId="0108-bd0a-7d0d-e6da" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6bb1-e52d-3896-30d6" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="85ae-e48b-7f75-2627" name="Kroot Shaper" hidden="false" collective="false" import="true" targetId="4ad4-4d38-8ed4-c193" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5336-32ed-6585-4812" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3b63-0f36-0dd5-9637" name="Kroot Hounds" hidden="false" collective="false" import="true" targetId="7f18-4afe-45b6-6c31" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b7a7-98e2-99dd-d584" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7b13-b353-711c-441b" name="Kroot Farstalkers" hidden="false" collective="false" import="true" targetId="1f58-6030-6149-4773" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="194b-e96b-deb4-34c3" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="25d5-7b8d-8c2f-fc44" name="Tidewall Gunrig" hidden="false" collective="false" import="true" targetId="b66d-fa06-c5ad-6b6c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2116-3f0d-7a0b-9b44" name="New CategoryLink" hidden="false" targetId="56a8-7143-031e-072a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="488d-e7bb-dc82-e140" name="Tidewall Shieldline" hidden="false" collective="false" import="true" targetId="1325-422d-0617-2f5d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f4fe-cd78-9c31-2180" name="New CategoryLink" hidden="false" targetId="56a8-7143-031e-072a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9ef1-8ab7-d920-818e" name="Vespid Stingwings" hidden="false" collective="false" import="true" targetId="8453-1806-a0b2-fe6a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9ead-c1df-50b4-f580" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b1ec-947d-9467-eb2f" name="R’varna Battlesuit" hidden="false" collective="false" import="true" targetId="f1d0-9b67-9dc9-94b4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4e77-e97c-4a07-ac50" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b717-b53a-134a-a288" name="Y’vahra Battlesuit" hidden="false" collective="false" import="true" targetId="d997-1a4c-f2c0-c72b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d9d6-ecfe-1c62-59ab" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7c23-511a-f3dd-79a4" name="Tetras" hidden="false" collective="false" import="true" targetId="6972-cb34-c9a5-4051" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="177a-220c-c5bb-3f13" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9c8e-68dd-ef58-800f" name="Remora Stealth Drones" hidden="false" collective="false" import="true" targetId="69c4-aa7d-8754-1c56" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d872-707f-1d2f-64cc" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="00c5-8561-66c2-accd" name="Ta’unar Supremacy Armour" hidden="false" collective="false" import="true" targetId="31c9-7cff-7785-f0b6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="98c8-8cc8-c62c-2b65" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c147-3312-3340-97e4" name="Barracuda" hidden="false" collective="false" import="true" targetId="8a94-21ac-4e14-2c27" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4d60-a507-4225-4fe0" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3b1f-7c0c-3231-521a" name="Tiger Shark" hidden="false" collective="false" import="true" targetId="07ef-391d-d81a-0635" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5887-1e84-89c5-7ac6" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e56c-f5f1-69bf-2032" name="AX-1-0 Tiger Shark" hidden="false" collective="false" import="true" targetId="918f-eabf-abfa-7c6f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="35c2-e761-ded5-3786" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="977a-d899-831a-66a0" name="Manta" hidden="false" collective="false" import="true" targetId="23f4-cf4b-4041-cb0d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c0bc-69bf-965f-004a" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="6c86-13dd-c431-5ada" name="Aun’Shi" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7971-d591-a2f2-07fc" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c191-440b-5bc1-f1d3" name="Aun’Va" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="022a-e534-c6c7-cace" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c4df-2611-6c80-93ba" name="Breacher Team" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="216d-cec0-f84c-68b5" name="Broadside Battlesuits" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="4301-3688-9cda-4275" name="1 Broadside Battlesuit" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8645-83a9-b82c-2d62" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9a4a-1157-dbb0-97b6" name="Cadre Fireblade" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f4ce-bab7-ea46-50cc" name="Kauyon" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2606-eabb-8c9c-e7bc" name="Commander Farsight" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e349-5501-7c25-2f2b" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="093c-1dba-ada5-129c" name="Commander in Coldstar Battlesuit" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="1970-8d0e-f994-c21b" name="Kauyon" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c4fb-90e1-69aa-c498" name="Commander in Crisis Battlesuit" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="faf4-3bcb-b038-e926" name="Kauyon" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b732-2afc-1e99-2dc9" name="Commander in Enforcer Battlesuit" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f50c-53c8-a6dd-5c66" name="Kauyon" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="be83-689f-ec75-bc60" name="Commander Shadowsun" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9685-433a-74c0-bb3d" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d040-7b89-0ad9-b377" name="Crisis Battlesuits" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6d8c-7efe-a6a2-32b8" name="3 Crisis Battlesuits" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cc72-a679-01f7-e7a9" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ccdf-8036-0a22-5fd1" name="Darkstrider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="903a-3a03-0308-98e1" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a58e-c720-49ca-547e" name="Devilfish" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="126d-aa14-520c-6baa" name="Ethereal" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="daa2-add0-a921-d8b1" name="Kauyon" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3d60-42e2-775e-f56a" name="Firesight Team" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f388-e09e-aa1c-f348" name="Kauyon" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="467b-33e3-419e-1e29" name="Ghostkeel Battlesuit" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="de82-ac7e-ba66-e20e" name="Hammerhead Gunship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2e6c-d040-b4e6-f8e5" name="Kroot Carnivores" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="696a-33e8-c6f7-aab1" name="10 Kroot Carnivores" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="afd8-834e-9dbb-9351" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="422a-8ea2-b969-c8e9" name="Tidewall Droneport" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="65da-f84e-d648-4488" name="Sun Shark Bomber" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a0be-e4ef-baeb-6a09" name="Strike Team" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="55b8-be9e-2ec9-1a3b" name="Stormsurge" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3f00-fe16-e152-f751" name="Stealth Battlesuits" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="660f-9869-f600-9160" name="3 Stealth Battlesuits" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="346a-8f6b-6be2-dd62" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7faa-090a-5fbf-aca4" name="Sky Ray Gunship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7a89-fae0-8dc5-3e35" name="Riptide Battlesuit" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="235.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f008-6b93-9df5-08e1" name="Razorshark Strike Fighter" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="95ad-913a-38c3-d561" name="Piranhas" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="8d36-8273-4868-c580" name="1 Piranha" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="75eb-7343-a28c-7320" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="be53-6a52-3d89-8ddc" name="Pathfinder Team" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ac1b-ca96-7a4e-b2db" name="Longstrike" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9301-7f59-f4e7-d217" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0108-bd0a-7d0d-e6da" name="Krootox Riders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="de85-4acf-48a7-d27e" name="1 Krootox Rider" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1e9a-6395-291c-a918" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4ad4-4d38-8ed4-c193" name="Kroot Shaper" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="5696-c25a-2fa1-4de2" name="Kauyon" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7f18-4afe-45b6-6c31" name="Kroot Hounds" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="971d-c4a5-68aa-453a" name="4 Kroot Hounds" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3efa-d963-e4e6-4e32" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1f58-6030-6149-4773" name="Kroot Farstalkers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b66d-fa06-c5ad-6b6c" name="Tidewall Gunrig" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1325-422d-0617-2f5d" name="Tidewall Shieldline" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="b05e-fa25-2713-cdb4" name="Tidewall Defence Platform" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d817-1085-8f87-3fed" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8453-1806-a0b2-fe6a" name="Vespid Stingwings" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f1d0-9b67-9dc9-94b4" name="R’varna Battlesuit" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="235.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d997-1a4c-f2c0-c72b" name="Y’vahra Battlesuit" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="235.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6972-cb34-c9a5-4051" name="Tetras" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="178f-204d-5ad0-1a20" name="2 Tetras" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d707-a116-f589-7c6f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="69c4-aa7d-8754-1c56" name="Remora Stealth Drones" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ce1d-9223-3796-210a" name="Tactical Drones" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="83af-7a0f-2093-4231" name="4 Tactical Drones" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1e96-cd25-03d1-aa33" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="31c9-7cff-7785-f0b6" name="Ta’unar Supremacy Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="790.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8a94-21ac-4e14-2c27" name="Barracuda" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="07ef-391d-d81a-0635" name="Tiger Shark" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="275.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="918f-eabf-abfa-7c6f" name="AX-1-0 Tiger Shark" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="315.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="23f4-cf4b-4041-cb0d" name="Manta" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="2100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7423-9cd0-0362-f8a6" name="z" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="cd2b-e318-11d5-67c6" name="Kauyon" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dade-86ea-afed-8618" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="a571-5344-3fac-a054" name="Exemplar of the Kauyon" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c562-b640-76ab-4fc0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ea23-13f0-50eb-d8cf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0ce5-7549-d8ef-1584" name="Puretide Engram Neurochip" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="558e-5aa4-cff7-1eb0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8601-d611-910a-a54f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="eb89-7f84-53fd-f548" name="Through Unity, Devastation" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5697-d350-ab0d-65d5" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a992-511f-39e6-a332" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="6412-e120-2a8e-7884" name="Precision of the Patient Hunter" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7f9f-b202-f1dc-0dbc" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="53ff-77c6-1ef8-adae" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

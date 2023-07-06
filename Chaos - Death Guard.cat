@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="9af9-71ac-0032-ef12" name="Chaos - Death Guard" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="d07c-1c7d-1bf6-6d03" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a8f9-995c-1f2c-00de" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5bf9-0abd-585b-e239" name="Death Guard Daemon Prince" hidden="false" collective="false" import="true" targetId="f054-ea08-ec1b-7a38" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7115-4ca1-c346-e8f0" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="77a9-8c9e-2142-c559" name="Death Guard Daemon Prince with Wings" hidden="false" collective="false" import="true" targetId="f44a-6b54-ad46-aa92" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9983-12ed-7d6d-0743" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ec03-92e0-4c21-60fb" name="Typhus" hidden="false" collective="false" import="true" targetId="4e29-9aac-c6c5-3cbd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="752f-4c12-08cf-0852" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="44f1-72d0-e9a1-8c8d" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4773-3d9d-00be-3b48" name="Death Guard Chaos Lord" hidden="false" collective="false" import="true" targetId="c086-4fd9-56df-e707" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dc4c-20ff-4b8e-e9aa" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="87bd-eddd-25e3-d96b" name="Death Guard Chaos Lord in Terminator Armour" hidden="false" collective="false" import="true" targetId="1c78-5142-ccd1-752c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a3ae-f941-2428-8fe2" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a899-46c1-5fce-ed0d" name="Lord of Virulence" hidden="false" collective="false" import="true" targetId="9ae0-f6d5-b571-7c15" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cc50-7b7d-0fd9-9087" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fb60-d362-c877-c261" name="Lord of Contagion" hidden="false" collective="false" import="true" targetId="649c-ec34-c505-b2b7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2603-a3c6-f6d0-cea9" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8b23-9149-4b61-89db" name="Death Guard Sorcerer in Terminator Armour" hidden="false" collective="false" import="true" targetId="d43e-52ac-1c3a-b5dc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ef50-61fe-53c6-9b3d" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5b11-d3cd-b738-15f1" name="Malignant Plaguecaster" hidden="false" collective="false" import="true" targetId="82a9-70fa-ef69-a08a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2f71-a0e1-7510-d340" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ba1d-9be6-64fa-35cd" name="Plague Marines" hidden="false" collective="false" import="true" targetId="1088-21d0-b7cc-be73" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="570f-bb75-ab26-5f00" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0605-ea2e-1a23-239b" name="Death Guard Cultists" hidden="false" collective="false" import="true" targetId="9f17-c0f2-3b10-5b67" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6795-ab0d-eb84-c54b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a804-dbeb-5574-da7c" name="Poxwalkers" hidden="false" collective="false" import="true" targetId="ce54-ed52-b11c-5d42" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b0fc-2c42-e0de-3097" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4dc2-d754-c831-ed41" name="Noxious Blightbringer" hidden="false" collective="false" import="true" targetId="aa7c-dd68-482a-bdc1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="615b-a67f-5807-a487" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="eb6e-bd2e-2b2c-9c44" name="Foul Blightspawn" hidden="false" collective="false" import="true" targetId="068d-85ea-d9d5-cfb8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8b7e-2393-a7ee-bfd3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5a41-7cb1-6dcb-040a" name="Biologus Putrifier" hidden="false" collective="false" import="true" targetId="e46a-e4bb-1435-309d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9b0d-043f-d0b1-32b1" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2651-8b9c-3595-215e" name="Tallyman" hidden="false" collective="false" import="true" targetId="6283-125e-177b-2ab4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="85bb-6584-a3f9-9c1b" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bbd8-855e-6b38-59ad" name="Plague Surgeon" hidden="false" collective="false" import="true" targetId="e653-9d7e-a765-211c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="558b-f457-8f04-038d" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f6ea-5d1f-196d-f0a3" name="Blightlord Terminators" hidden="false" collective="false" import="true" targetId="90d0-2002-4bb6-5400" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="02a4-c980-6917-ff28" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8d18-75e3-eee8-2f51" name="Deathshroud Terminators" hidden="false" collective="false" import="true" targetId="7829-4dc2-6077-1f74" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0d68-bce7-7a52-2686" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4914-263b-ce11-2828" name="Death Guard Helbrute" hidden="false" collective="false" import="true" targetId="1953-aba3-a66c-0f0b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="914a-63a0-95f8-c3e4" name="Vehicle" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7407-9e44-faa1-34b9" name="Death Guard Chaos Spawn" hidden="false" collective="false" import="true" targetId="ea7a-4c19-8e59-26e9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ac82-0d3b-60b8-a5e0" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cc83-7616-b34e-4b3f" name="Myphitic Blight-Haulers" hidden="false" collective="false" import="true" targetId="a87d-e997-bf92-60e9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e718-5d37-463c-594c" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b754-21cb-cc15-3364" name="Foetid Bloat-Drone" hidden="false" collective="false" import="true" targetId="28a4-dfd6-2a1e-54e3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="239d-cd93-b19a-504d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ea8a-27cd-2be1-72c8" name="Plagueburst Crawler" hidden="false" collective="false" import="true" targetId="a6ec-0a90-107a-410d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a386-9005-132c-a65d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="af87-3d17-e68f-832d" name="Death Guard Land Raider" hidden="false" collective="false" import="true" targetId="186b-798e-abfa-4fa3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f405-2176-7559-6807" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fceb-5a84-0a95-8563" name="Death Guard Predator Annihilator" hidden="false" collective="false" import="true" targetId="f770-6f77-de7c-3c3f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b3f0-49f8-0acc-9a1f" name="Vehicle" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="15aa-756a-1fc4-2d45" name="Death Guard Predator Destructor" hidden="false" collective="false" import="true" targetId="d90b-97b1-6628-34d5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8cbc-f89f-5b1d-1043" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0ea2-c521-c300-146e" name="Death Guard Defiler" hidden="false" collective="false" import="true" targetId="86b5-1924-775c-2e93" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="25a6-08af-f687-df3a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="987d-661c-c0c5-fa79" name="Death Guard Rhino" hidden="false" collective="false" import="true" targetId="1837-9480-1df7-d23c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b384-2764-cc67-1af9" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="afbc-bac6-8eef-badd" name="Mortarion" hidden="false" collective="false" import="true" targetId="c649-a8e1-84ce-32be" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3ae0-7df1-66ee-fbf0" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="a52b-74f6-f96c-1ade" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="612b-214d-0c17-e9d7" name="Death Guard Icon Bearer" hidden="false" collective="false" import="true" targetId="232c-cc62-d1fa-72e1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d122-1f7a-773c-dcff" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="281a-d14a-8f37-0015" name="Miasmic Malignifier" hidden="false" collective="false" import="true" targetId="07ba-d0ce-918b-84de" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a73e-e59b-a600-9d07" name="New CategoryLink" hidden="false" targetId="56a8-7143-031e-072a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="b416-afde-e114-f560" name="Plague Company" hidden="false" collective="false" import="true" type="upgrade">
+      <entryLinks>
+        <entryLink id="f2cc-1737-14e6-1e60" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e46a-e4bb-1435-309d" name="Biologus Putrifier" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="8f52-0600-0845-b866" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="90d0-2002-4bb6-5400" name="Blightlord Terminators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="424d-0cba-1efd-eb22" name="5 Blightlord Terminators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="159f-f577-3914-54ac" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="175.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c086-4fd9-56df-e707" name="Death Guard Chaos Lord" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="5af3-acfa-4e10-fd71" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1c78-5142-ccd1-752c" name="Death Guard Chaos Lord in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="1ffd-df40-6fc6-7978" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ea7a-4c19-8e59-26e9" name="Death Guard Chaos Spawn" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9f17-c0f2-3b10-5b67" name="Death Guard Cultists" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="d413-9926-8eca-35c0" name="10 Death Guard Cultists" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="aae0-fde6-0ca6-fc8f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f054-ea08-ec1b-7a38" name="Death Guard Daemon Prince" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="716d-89a0-96b6-b669" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f44a-6b54-ad46-aa92" name="Death Guard Daemon Prince with Wings" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="32f1-80f8-8ea0-ba41" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="215.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d90b-97b1-6628-34d5" name="Death Guard Predator Destructor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1837-9480-1df7-d23c" name="Death Guard Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d43e-52ac-1c3a-b5dc" name="Death Guard Sorcerer in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="69f4-4d3f-8018-c7a0" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7829-4dc2-6077-1f74" name="Deathshroud Terminators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="45cc-dab2-0bdd-64f1" name="3 Deathshroud Terminators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f23a-2428-cde8-a990" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="28a4-dfd6-2a1e-54e3" name="Foetid Bloat-Drone" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="068d-85ea-d9d5-cfb8" name="Foul Blightspawn" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="6880-d73c-6cb5-1969" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="649c-ec34-c505-b2b7" name="Lord of Contagion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="d4fb-f42f-9055-9460" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9ae0-f6d5-b571-7c15" name="Lord of Virulence" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f21e-f155-3d6b-b5ab" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1088-21d0-b7cc-be73" name="Plague Marines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6a3a-343d-9ad9-4bf3" name="5 Plague Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="adf7-d2e0-17ce-cea6" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="b334-2469-4950-ec58" name="7 Plague Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="097d-a86c-2113-599b" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="782b-af1b-9b4a-1e53" name="10 Plague Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dd78-9c4b-89a2-87f7" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e653-9d7e-a765-211c" name="Plague Surgeon" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="260c-4800-c75a-c903" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a6ec-0a90-107a-410d" name="Plagueburst Crawler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="175.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ce54-ed52-b11c-5d42" name="Poxwalkers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="58c2-a67f-7e1d-57e3" name="10 Poxwalkers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3e06-6f54-575e-62e3" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6283-125e-177b-2ab4" name="Tallyman" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="acef-d000-cc6f-a5c5" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4e29-9aac-c6c5-3cbd" name="Typhus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e5f1-2a65-1dfa-8b02" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="86b5-1924-775c-2e93" name="Death Guard Defiler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="205.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1953-aba3-a66c-0f0b" name="Death Guard Helbrute" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="232c-cc62-d1fa-72e1" name="Death Guard Icon Bearer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="c4b3-a8df-cb91-aa70" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="186b-798e-abfa-4fa3" name="Death Guard Land Raider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="250.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f770-6f77-de7c-3c3f" name="Death Guard Predator Annihilator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="82a9-70fa-ef69-a08a" name="Malignant Plaguecaster" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="6be0-3b07-c12d-5d9b" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="07ba-d0ce-918b-84de" name="Miasmic Malignifier" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c649-a8e1-84ce-32be" name="Mortarion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fafe-118c-7c77-7d06" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="370.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a87d-e997-bf92-60e9" name="Myphitic Blight-Haulers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <selectionEntries>
+        <selectionEntry id="0292-701a-4652-e518" name="Myphitic Blight-Hauler" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="98c3-ad4e-da72-89b3" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="aa7c-dd68-482a-bdc1" name="Noxious Blightbringer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="8f19-e9f9-00b9-1f9b" name="Plague Company" hidden="false" collective="false" import="true" targetId="a896-f074-14bb-925b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="a896-f074-14bb-925b" name="Plague Company" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5fea-8b01-bd7c-ad60" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="d931-2d77-e6d5-6cb8" name="Deadly Pathogen" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7b90-b7b8-068d-c80c" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7c08-2a63-fbdb-9ac5" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="cea2-45fc-9ca1-a48a" name="Living Plague" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4892-35a2-9733-c28b" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cd20-53de-9007-7990" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="bf23-2fb4-65b9-6f3f" name="Shamblerot" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="70b3-a944-08e0-261a" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7543-6868-6fed-b0bf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="04d3-02ef-c5c8-ebb3" name="The Droning" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1186-3e65-e5e8-d634" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3436-aa14-b364-fcfc" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

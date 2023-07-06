@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="f1b6-3641-4b02-9cf2" name="Imperium - Agents of the Imperium" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <categoryEntries>
+    <categoryEntry id="f258-5fc5-4deb-6b0b" name="Retinue" publicationId="5602-a76d-2811-707d" hidden="false"/>
+    <categoryEntry id="2d8e-eb8f-f7e7-df16" name="Character" publicationId="5602-a76d-2811-707d" hidden="false"/>
+  </categoryEntries>
+  <forceEntries>
+    <forceEntry id="0223-e609-c582-017e" name="Agents of the Imperium Detachment" hidden="false">
+      <categoryLinks>
+        <categoryLink id="dcf9-484c-3465-3128" name="Retinue" hidden="false" targetId="f258-5fc5-4deb-6b0b" primary="false"/>
+        <categoryLink id="1ac9-a349-44af-3c40" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="false"/>
+      </categoryLinks>
+    </forceEntry>
+  </forceEntries>
+  <entryLinks>
+    <entryLink id="e7eb-0c78-0ed1-54cf" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8790-9fac-9dcd-4804" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e089-b76e-ce24-caed" name="Callidus Assassin" hidden="false" collective="false" import="true" targetId="20a0-cb4b-0ddc-b2d7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1193-8632-4241-922b" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="c0d5-3745-7c63-6f53" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+        <categoryLink id="1176-060a-2328-0837" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3edc-885f-be2f-e599" name="Culexus Assassin" hidden="false" collective="false" import="true" targetId="c93e-dc08-7a18-e24f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2b44-ce03-ed16-0c48" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="2c3e-0e1c-7f37-16d9" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+        <categoryLink id="b2af-9368-1aea-a451" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="60cf-48b1-5af7-b1e2" name="Eversor Assassin" hidden="false" collective="false" import="true" targetId="3950-1d1e-73b2-7fee" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4f4e-8f86-6172-b350" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="8ad7-d482-98bb-b87e" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+        <categoryLink id="c09b-5064-5a45-3a09" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7cf9-dd2c-9ac8-9051" name="Exaction Squad" hidden="false" collective="false" import="true" targetId="aca5-c230-bb95-63bc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7d73-bef4-a5ef-7704" name="New CategoryLink" hidden="false" targetId="f258-5fc5-4deb-6b0b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="09eb-48ba-54db-13a3" name="Imperial Navy Breachers" hidden="false" collective="false" import="true" targetId="3835-7a01-ecac-f844" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f835-80c4-ee06-0709" name="New CategoryLink" hidden="false" targetId="f258-5fc5-4deb-6b0b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3dd7-f50f-0093-d0f6" name="Inquisitor" hidden="false" collective="false" import="true" targetId="ea78-1ac4-4d70-08a7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="af93-23bd-f8bc-f6b7" name="New CategoryLink" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+        <categoryLink id="3114-12e4-c9db-6d5c" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9212-ef3e-f00e-3f02" name="Inquisitor Coteaz" hidden="false" collective="false" import="true" targetId="8f73-c398-f11a-3fcb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0e1b-3579-5eca-a70f" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="a62c-2c00-cede-ed50" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="8c53-a4da-002e-f71a" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4463-78f5-fe9b-6579" name="Inquisitor Eisenhorn" hidden="false" collective="false" import="true" targetId="cccd-621a-8bbc-99aa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="aa48-cdf3-bc1c-58ef" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="1936-a10e-8ff7-dfd0" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="5ab5-7c3f-daed-3879" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4146-f2f8-b84d-c3e5" name="Inquisitor Greyfax" hidden="false" collective="false" import="true" targetId="0c47-aaf1-0193-3684" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="83c6-db08-def5-c9e7" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="abcb-5b42-a518-9b87" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="7736-3309-6530-cf94" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="caf9-468f-7a52-866b" name="Inquisitor Karamazov" hidden="false" collective="false" import="true" targetId="1a13-f894-beae-0b0e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8ca8-54b1-29d0-2d4d" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="a89c-86ea-7a47-fb5d" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+        <categoryLink id="e871-8ae3-818d-3302" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bb64-a248-5f82-0120" name="Inquisitorial Henchmen" hidden="false" collective="false" import="true" targetId="7a76-3554-4b29-b2b7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7b49-47c3-1b16-4b9a" name="New CategoryLink" hidden="false" targetId="f258-5fc5-4deb-6b0b" primary="false"/>
+        <categoryLink id="c2ab-ff6b-1ed8-b282" name="New CategoryLink" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e6f1-6eb8-d8c1-0e20" name="Lord Inquisitor Kyria Draxus" hidden="false" collective="false" import="true" targetId="1ba8-407b-51b3-f7de" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3cf3-63a5-f5e2-5e0d" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="c4b9-dd9f-54e0-2457" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+        <categoryLink id="af3a-a902-f091-1336" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fe98-aa74-28bd-8207" name="Rogue Trader Entourage" hidden="false" collective="false" import="true" targetId="17b5-f2a3-9468-63e6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="57d2-f890-08d3-7ee3" name="New CategoryLink" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+        <categoryLink id="8073-8604-16f9-c3e1" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="734e-08ee-aa48-f33c" name="Retinue" hidden="false" targetId="f258-5fc5-4deb-6b0b" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3bd1-7cf6-254e-8b57" name="Subductor Squad" hidden="false" collective="false" import="true" targetId="f31d-97b3-b70e-a45d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="de65-0487-340a-e7fc" name="New CategoryLink" hidden="false" targetId="f258-5fc5-4deb-6b0b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1c18-6785-59f1-b6dc" name="Vigilant Squad" hidden="false" collective="false" import="true" targetId="f9ad-fcea-a863-bd73" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="62b0-55c2-a564-702c" name="BattleLine" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="false"/>
+        <categoryLink id="ec42-de38-4aa7-68d6" name="New CategoryLink" hidden="false" targetId="f258-5fc5-4deb-6b0b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c7b6-6d08-1d2e-1aa0" name="Vindicare Assassin" hidden="false" collective="false" import="true" targetId="b052-ebf4-15c1-b2f6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="253b-a164-a9c2-a35f" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="false"/>
+        <categoryLink id="53db-c0bb-b8d9-f981" name="Character" hidden="false" targetId="2d8e-eb8f-f7e7-df16" primary="true"/>
+        <categoryLink id="f11d-06ac-a392-5941" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5239-3eb1-420e-156d" name="Voidsmen-at-Arms" hidden="false" collective="false" import="true" targetId="8272-78de-3020-81fb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="131c-e6dd-11e2-d321" name="New CategoryLink" hidden="false" targetId="f258-5fc5-4deb-6b0b" primary="true"/>
+        <categoryLink id="8abb-c3a5-1ef9-65b2" name="BattleLine" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="20a0-cb4b-0ddc-b2d7" name="Callidus Assassin" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b9eb-b99c-5e58-727e" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c93e-dc08-7a18-e24f" name="Culexus Assassin" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4463-4e05-fdc8-785d" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3950-1d1e-73b2-7fee" name="Eversor Assassin" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="84cd-26bb-21b1-ba78" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="aca5-c230-bb95-63bc" name="Exaction Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="3840-f5b7-ac74-3995" name="5 Exaction Squad" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f6e8-a7be-ee97-52be" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0f45-5414-b3af-28b5" name="10-11 Exaction Squad" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9d7b-31c0-0dd9-2f7c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3835-7a01-ecac-f844" name="Imperial Navy Breachers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ea78-1ac4-4d70-08a7" name="Inquisitor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8f73-c398-f11a-3fcb" name="Inquisitor Coteaz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4aa8-0dca-794b-c2a1" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cccd-621a-8bbc-99aa" name="Inquisitor Eisenhorn" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="77d2-36f6-5335-a024" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0c47-aaf1-0193-3684" name="Inquisitor Greyfax" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6ba0-4f8e-cbd4-5562" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1a13-f894-beae-0b0e" name="Inquisitor Karamazov" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b891-c7a8-9b01-577f" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7a76-3554-4b29-b2b7" name="Inquisitorial Henchmen" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="9695-4883-5213-abac" name="4 Inquisitorial Acolytes" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ca59-1cb8-552f-b916" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2b79-e29b-af03-5704" name="4 Inquisitorial Acolytes, 1 Gun Servitor and 1 Mystic" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b931-4c9b-4028-dead" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="f51e-56de-f576-9775" name="10 Inquisitorial Acolytes" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4a97-9154-88fb-3a2c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="c6fe-e1b8-d83f-e80b" name="10 Inquisitorial Acolytes, 2 Gun Servitors and 2 Mystics" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="64d1-e571-af1f-8ad4" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0ebc-2011-ffa3-022a" name="Jokaero" hidden="false" collective="false" import="true" type="model">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="10d0-c6e4-b19f-e647" name="Daemonhost" hidden="false" collective="false" import="true" type="model">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1ba8-407b-51b3-f7de" name="Lord Inquisitor Kyria Draxus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="26b2-6bb6-f887-cf97" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="17b5-f2a3-9468-63e6" name="Rogue Trader Entourage" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="caca-88ac-8153-a31d" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f31d-97b3-b70e-a45d" name="Subductor Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f9ad-fcea-a863-bd73" name="Vigilant Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b052-ebf4-15c1-b2f6" name="Vindicare Assassin" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="93fd-86c8-9a54-80b8" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8272-78de-3020-81fb" name="Voidsmen-at-Arms" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6370-d68c-f7bd-b8dd" name="5 Voidsmen-at-Arms" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2f54-acbc-ef76-4f97" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+</catalogue>

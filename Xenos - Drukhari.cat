@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="0d1a-3c64-7c70-d376" name="Xenos - Drukhari" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="90cd-b18e-995e-33c4" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4996-479f-a98e-48c3" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="72b8-7c04-722d-9f96" name="Archon" hidden="false" collective="false" import="true" targetId="e6bd-611e-9737-e5e1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6ea8-7a1d-8319-31ab" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2cf8-64cf-68e4-fe01" name="Beastmaster" hidden="false" collective="false" import="true" targetId="1ef8-6ab7-820f-a7ff" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6664-e440-d7fb-cc15" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="20da-299d-a3e1-d31f" name="Court of the Archon" hidden="false" collective="false" import="true" targetId="7c30-c001-f000-3c67" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0501-452f-dcea-278d" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="750a-109f-7d27-4f55" name="Cronos" hidden="false" collective="false" import="true" targetId="c2e4-d800-5439-7864" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d8ce-14e3-05db-3b86" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="62d1-565c-f3e4-19cb" name="Drazhar" hidden="false" collective="false" import="true" targetId="5878-b991-3e1b-64c7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6c3a-4d94-ff99-2b6e" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="5b2f-72c0-fe71-5705" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="874e-7063-9376-83f6" name="Grotesques" hidden="false" collective="false" import="true" targetId="779f-0e4c-20d5-51de" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="538e-7b46-c32e-82ad" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3d1c-fbbe-16dc-cb4d" name="Haemonculus" hidden="false" collective="false" import="true" targetId="2bcf-8a8d-6b2f-9b0b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c79e-8fc9-1dd3-a0b8" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fcf3-05cf-0078-af39" name="Hellions" hidden="false" collective="false" import="true" targetId="4624-6ee1-dbf4-9477" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1211-5584-3474-058d" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="27a9-1111-6688-5ff6" name="Incubi" hidden="false" collective="false" import="true" targetId="2e26-f8f4-1514-ccbf" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="24ba-7b79-6b96-3fd7" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2551-af9b-bc1e-01c0" name="Kabalite Warriors" hidden="false" collective="false" import="true" targetId="968c-4afb-9fd2-29a8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7beb-808f-c08e-3034" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9beb-0174-fda5-6f27" name="Lelith Hesperax" hidden="false" collective="false" import="true" targetId="57f3-ef21-afb8-0a08" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="645c-9e62-6abc-d1ea" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="9940-ee62-302e-6404" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fe86-2f4f-4ceb-1148" name="Raider" hidden="false" collective="false" import="true" targetId="9d08-0602-1330-e26d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="442f-1c61-f1b9-da49" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ac03-d8f1-33da-15e8" name="Mandrakes" hidden="false" collective="false" import="true" targetId="5520-9a5d-9eb4-5c79" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3d27-cfe0-46d9-3e86" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c55f-c41d-cc3a-cdba" name="Ravager" hidden="false" collective="false" import="true" targetId="799b-9b74-0ed5-c5d6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c623-b58e-8ba9-b5c6" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4641-2b15-570a-e0f1" name="Razorwing Jetfighter" hidden="false" collective="false" import="true" targetId="ae87-9fcd-6b20-6567" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c385-3d07-44e3-861d" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6a76-4352-1c98-61f6" name="Reavers" hidden="false" collective="false" import="true" targetId="7c3e-9054-fd36-3455" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="71d1-2ee7-44bf-44c4" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="278b-c3dd-1095-adbb" name="Scourges" hidden="false" collective="false" import="true" targetId="a034-5a9f-45bf-af19" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3a8e-72bc-b1cc-758a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4db5-c957-d053-daff" name="Talos" hidden="false" collective="false" import="true" targetId="4cb9-50d5-3224-e1ac" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d381-2f3d-add9-1d35" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8676-c9ef-5e79-166d" name="Succubus" hidden="false" collective="false" import="true" targetId="4fab-164e-112a-6add" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="545f-3734-a7e3-f9fa" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="dc9f-d854-0bc2-5488" name="Urien Rakarth" hidden="false" collective="false" import="true" targetId="a99d-e7e9-cff2-cdd5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="de3a-f037-e9cf-8d7b" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="8a2f-f7bb-e129-8f6f" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3010-175d-6952-e4b2" name="Venom" hidden="false" collective="false" import="true" targetId="7b9b-d31a-f6ae-2c37" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="54c5-2a41-b952-401c" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1319-7bde-e400-9607" name="Voidraven Bomber" hidden="false" collective="false" import="true" targetId="c003-3375-dcd5-9adb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8919-ebe3-fb91-5f98" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="26b7-3488-c9ad-b7c8" name="Wracks" hidden="false" collective="false" import="true" targetId="9af9-066b-e99b-082c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1229-2cbf-80b0-f806" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="698a-d34f-5817-7fce" name="Wyches" hidden="false" collective="false" import="true" targetId="230c-1288-0776-132d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4f5a-e774-48a9-35bb" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d273-8ecb-0035-8266" name="Tantalus" hidden="false" collective="false" import="true" targetId="5649-1698-5f37-26b9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5c5e-9634-769c-bb82" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="e6bd-611e-9737-e5e1" name="Archon" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="becc-8057-52df-a494" name="Realspace Raiders" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1ef8-6ab7-820f-a7ff" name="Beastmaster" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="af94-4151-ecc9-3ece" name="Realspace Raiders" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7c30-c001-f000-3c67" name="Court of the Archon" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c2e4-d800-5439-7864" name="Cronos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="7b30-86f2-8385-cd6c" name="1 Cronos" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3614-48be-1552-b0f7" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5878-b991-3e1b-64c7" name="Drazhar" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="82c9-19f1-0010-3bfd" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="779f-0e4c-20d5-51de" name="Grotesques" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="7821-80c6-235c-357e" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="6e86-36b1-07cc-63ca" name="3 Grotesques" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="79b1-3b05-fda1-c53d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2bcf-8a8d-6b2f-9b0b" name="Haemonculus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="df1d-85fd-3a66-8261" name="Realspace Raiders" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4624-6ee1-dbf4-9477" name="Hellions" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="2573-044f-388d-69ec" name="5 Hellions" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0851-d232-9871-7330" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2e26-f8f4-1514-ccbf" name="Incubi" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="46c2-0762-8e3d-6c62" name="5 Incubi" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="226f-bcad-b7e3-3c8b" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="968c-4afb-9fd2-29a8" name="Kabalite Warriors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="57f3-ef21-afb8-0a08" name="Lelith Hesperax" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="40d7-39d5-b30e-e3c7" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5520-9a5d-9eb4-5c79" name="Mandrakes" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="a9b9-5269-1acb-4c1b" name="5 Mandrakes" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1f53-8ebf-cca5-96da" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9d08-0602-1330-e26d" name="Raider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="799b-9b74-0ed5-c5d6" name="Ravager" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ae87-9fcd-6b20-6567" name="Razorwing Jetfighter" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7c3e-9054-fd36-3455" name="Reavers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="72ea-5a1d-0ce5-9a3a" name="3 Reavers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d06b-ef9a-e938-3721" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a034-5a9f-45bf-af19" name="Scourges" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1dc6-1818-5327-977d" name="5 Scourges" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="64d7-2b85-be90-3a1b" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4fab-164e-112a-6add" name="Succubus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="82c1-8ac9-ab2d-dd52" name="Realspace Raiders" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4cb9-50d5-3224-e1ac" name="Talos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="e742-e1e7-6d05-dc95" name="1 Talos" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="886a-9104-0c3e-83e4" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a99d-e7e9-cff2-cdd5" name="Urien Rakarth" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d9c4-080a-82da-37ea" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7b9b-d31a-f6ae-2c37" name="Venom" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c003-3375-dcd5-9adb" name="Voidraven Bomber" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9af9-066b-e99b-082c" name="Wracks" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1af7-fe9a-fe91-f6b7" name="5 Wracks" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bbc3-0822-025b-8530" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="230c-1288-0776-132d" name="Wyches" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5649-1698-5f37-26b9" name="Tantalus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="230.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="cd2b-e318-11d5-67c6" name="Realspace Raiders" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dade-86ea-afed-8618" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="a571-5344-3fac-a054" name="Crucible of Malediction" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c562-b640-76ab-4fc0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ea23-13f0-50eb-d8cf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0ce5-7549-d8ef-1584" name="Labyrinthine Cunning" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="558e-5aa4-cff7-1eb0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8601-d611-910a-a54f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="eb89-7f84-53fd-f548" name="The Art of Pain" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5697-d350-ab0d-65d5" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a992-511f-39e6-a332" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="6412-e120-2a8e-7884" name="Blood Dancer" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7f9f-b202-f1dc-0dbc" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="53ff-77c6-1ef8-adae" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

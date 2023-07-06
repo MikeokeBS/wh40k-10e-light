@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="247d-73a0-4f86-7f8b" name="Imperium - Adepta Sororitas" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="09fa-44f0-4e7c-8452" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="83e8-5636-9d95-2ef7" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="63a5-2aad-204a-f84d" name="Morvenn Vahl" hidden="false" collective="false" import="true" targetId="6329-93e2-d6e6-b8f7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8b41-aeed-e35e-74ad" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="92b7-ad94-9368-3514" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7ec6-be61-1125-d0eb" name="Canoness" hidden="false" collective="false" import="true" targetId="3c7d-a828-334c-9cb8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9e79-460d-c795-49eb" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7b48-f77f-45b2-81b8" name="Palatine" hidden="false" collective="false" import="true" targetId="bcf7-f876-88f4-a28e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c181-70c4-1d68-4ae3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="de53-3e62-6789-c568" name="Junith Eruita" hidden="false" collective="false" import="true" targetId="a6fd-1b3c-5b19-ba9b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1414-2a75-b7dd-cf4f" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="d4ef-ab27-a8cb-9f74" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="05bc-3134-4a16-48c2" name="Missionary" hidden="false" collective="false" import="true" targetId="b3eb-099e-98d9-d753" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="275d-33e9-b59b-3164" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="69e9-18aa-56d4-2a4d" name="Saint Celestine" hidden="false" collective="false" import="true" targetId="4168-5f37-28f8-3d20" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0b5c-707c-4140-19c6" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="a0f9-bae5-6e7e-4e06" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9fde-aac2-416a-e535" name="Triumph of Saint Katherine" hidden="false" collective="false" import="true" targetId="4845-803d-dc6b-c751" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9401-53cb-07b2-0515" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="7642-3696-ea48-3fee" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cf2b-a13e-45b2-c4cf" name="Daemonifuge" hidden="false" collective="false" import="true" targetId="832d-9f15-63b4-92b6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="366f-9cb8-6955-4080" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="0393-b688-5f3c-719a" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fc67-7c34-6fff-d683" name="Battle Sisters Squad" hidden="false" collective="false" import="true" targetId="5200-f6c1-531a-e598" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9ee7-cda3-5f86-dea2" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8727-2632-daa9-2280" name="Sisters Novitiate Squad" hidden="false" collective="false" import="true" targetId="6680-7b00-ace4-dffa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="15a7-d16e-2e64-8a14" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b202-e01e-2392-3e51" name="Aestred Thurga and Agathae Dolan" hidden="false" collective="false" import="true" targetId="9031-12e4-176d-f268" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a6c3-2792-048b-b02e" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="fab7-689e-dcaa-c7bd" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a4aa-06d2-dd47-0273" name="Imagifier" hidden="false" collective="false" import="true" targetId="331c-22a7-f901-1178" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="07ee-d3cd-1e67-511b" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="04c4-bf49-4435-fd29" name="Dialogus" hidden="false" collective="false" import="true" targetId="3b4c-972c-8a88-1d57" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3ced-139b-b512-b61e" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8821-aabd-3d38-9f35" name="Preacher" hidden="false" collective="false" import="true" targetId="9b59-bc07-ae81-3bd1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="68a9-895c-d933-3544" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="54da-23e6-223f-055d" name="Celestian Sacresants" hidden="false" collective="false" import="true" targetId="6468-14cb-ee0a-34c7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1427-bd41-c840-c570" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bd3b-c98b-5eae-bcde" name="Hospitaller" hidden="false" collective="false" import="true" targetId="9a5f-c2b5-0214-fab8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6034-75b1-fc0c-a95a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8b7c-ce15-1838-e3d4" name="Dogmata" hidden="false" collective="false" import="true" targetId="ec44-381b-c7e2-eb34" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7e2a-f706-6d71-29fb" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="577f-c48d-484b-ded8" name="Paragon Warsuits" hidden="false" collective="false" import="true" targetId="6af8-ab4a-de1f-2cc0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="95b7-1e35-c2f0-11e4" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e151-c839-604d-5126" name="Repentia Squad" hidden="false" collective="false" import="true" targetId="b697-e0c6-cf14-9e6f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8da8-d1b5-903b-5071" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="486c-9043-d231-7341" name="Crusaders" hidden="false" collective="false" import="true" targetId="2ef8-a49f-0e3d-74c8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fe39-4019-9e85-0aa3" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3ce9-fd23-be3f-d9ed" name="Death Cult Assassins" hidden="false" collective="false" import="true" targetId="bb25-acaa-3d87-9fa2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f5d2-f0ff-2544-f22b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f526-f1b6-95fb-3dd4" name="Dominion Squad" hidden="false" collective="false" import="true" targetId="8e2d-c807-e17b-1e70" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e97a-88e1-de24-5c3e" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c794-d643-bb97-da5f" name="Seraphim Squad" hidden="false" collective="false" import="true" targetId="e5d3-386f-021e-687d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="aeb0-31de-30c5-6fc2" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c5ae-f7ca-0461-886e" name="Zephyrim Squad" hidden="false" collective="false" import="true" targetId="3a50-f117-863c-2afd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fb56-1c40-a852-aa16" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9a47-1264-8c04-d009" name="Retributor Squad" hidden="false" collective="false" import="true" targetId="5d61-7f8e-9a44-f566" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5a5c-64b4-d4e9-b78c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3ab6-b99b-759b-ca3e" name="Mortifiers" hidden="false" collective="false" import="true" targetId="ece3-1728-a7a5-3e50" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2399-0665-ecbb-535a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="af93-fde9-0ef2-d2af" name="Penitent Engines" hidden="false" collective="false" import="true" targetId="d93f-b457-2621-82f1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="750d-00c4-2c60-bc60" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="56ff-a2de-496b-b69a" name="Exorcist" hidden="false" collective="false" import="true" targetId="a25a-cbaf-23c8-03ab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e7d2-eba7-9182-21d4" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="87b5-758e-a358-4551" name="Castigator" hidden="false" collective="false" import="true" targetId="f512-59d7-108e-c601" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c38b-732c-b093-69cd" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6957-d745-6be3-e471" name="Sororitas Rhino" hidden="false" collective="false" import="true" targetId="ce16-ad86-eb57-4794" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3074-8119-20d7-7108" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2bb9-5cae-c2b0-1050" name="Immolator" hidden="false" collective="false" import="true" targetId="3801-0373-7870-21ab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3e63-f452-f6a8-cf82" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="841f-75e3-d3df-7f68" name="10 Arco-flagellants" hidden="false" collective="false" import="true" targetId="6e6f-6e95-fe44-0171" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8c88-af54-1454-9d53" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7cab-700e-982d-f5bf" name="3 Arco-flagellants" hidden="false" collective="false" import="true" targetId="f55e-2d5c-ac8e-3645" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bb11-c437-6eae-aee8" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="9031-12e4-176d-f268" name="Aestred Thurga and Agathae Dolan" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2965-9512-d51e-0741" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f55e-2d5c-ac8e-3645" name="3 Arco-flagellants" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6e6f-6e95-fe44-0171" name="10 Arco-flagellants" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5200-f6c1-531a-e598" name="Battle Sisters Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3c7d-a828-334c-9cb8" name="Canoness" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="a2e3-9235-0c7e-ed76" name="Hallowed Martyrs" hidden="false" collective="false" import="true" targetId="5081-85d5-d81b-64e6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f512-59d7-108e-c601" name="Castigator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6468-14cb-ee0a-34c7" name="Celestian Sacresants" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="7f6e-dde2-d795-6877" name="5 Celestian Sacresants" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="240f-fa1e-d380-a2e1" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2ef8-a49f-0e3d-74c8" name="Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="55c5-d170-a24c-bb0e" name="2 Crusaders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3a00-a426-ba10-5eda" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="832d-9f15-63b4-92b6" name="Daemonifuge" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f447-fbcc-ebec-1668" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bb25-acaa-3d87-9fa2" name="Death Cult Assassins" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="bc91-4799-0978-c63e" name="2 Death Cult Assassins" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2964-7aee-0b50-efcd" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3b4c-972c-8a88-1d57" name="Dialogus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="27cd-bb75-ac2e-94ce" name="Hallowed Martyrs" hidden="false" collective="false" import="true" targetId="5081-85d5-d81b-64e6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ec44-381b-c7e2-eb34" name="Dogmata" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f37f-ff7e-8278-786f" name="Hallowed Martyrs" hidden="false" collective="false" import="true" targetId="5081-85d5-d81b-64e6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8e2d-c807-e17b-1e70" name="Dominion Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a25a-cbaf-23c8-03ab" name="Exorcist" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9a5f-c2b5-0214-fab8" name="Hospitaller" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ff61-9e24-f4d8-97b4" name="Hallowed Martyrs" hidden="false" collective="false" import="true" targetId="5081-85d5-d81b-64e6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="331c-22a7-f901-1178" name="Imagifier" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="95c2-fd6d-f024-ec38" name="Hallowed Martyrs" hidden="false" collective="false" import="true" targetId="5081-85d5-d81b-64e6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3801-0373-7870-21ab" name="Immolator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a6fd-1b3c-5b19-ba9b" name="Junith Eruita" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="93d0-434d-3d66-edcc" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b3eb-099e-98d9-d753" name="Missionary" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="24f7-26e2-4525-e099" name="Hallowed Martyrs" hidden="false" collective="false" import="true" targetId="5081-85d5-d81b-64e6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ece3-1728-a7a5-3e50" name="Mortifiers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="754b-2258-3e87-8ed4" name="1 Mortifier" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bd54-a6e8-f014-bc70" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6329-93e2-d6e6-b8f7" name="Morvenn Vahl" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3307-ffe4-2e73-69cf" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bcf7-f876-88f4-a28e" name="Palatine" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="6fb1-f8b3-a378-1f33" name="Hallowed Martyrs" hidden="false" collective="false" import="true" targetId="5081-85d5-d81b-64e6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6af8-ab4a-de1f-2cc0" name="Paragon Warsuits" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="240.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d93f-b457-2621-82f1" name="Penitent Engines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="b6c3-f27c-00ec-4e4b" name="1 Penitent Engine" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1e3b-ac5f-4900-6bf9" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9b59-bc07-ae81-3bd1" name="Preacher" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="2707-675e-dacd-df0f" name="Hallowed Martyrs" hidden="false" collective="false" import="true" targetId="5081-85d5-d81b-64e6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b697-e0c6-cf14-9e6f" name="Repentia Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="d6ba-cd22-dd2d-ff7d" name="5 Repentia" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a9ec-64cb-d94f-803d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5d61-7f8e-9a44-f566" name="Retributor Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4168-5f37-28f8-3d20" name="Saint Celestine" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="86fb-a542-fd39-a2e1" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e5d3-386f-021e-687d" name="Seraphim Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="2d9c-b754-c6bc-af18" name="5 Seraphim" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c850-0686-4240-d32e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6680-7b00-ace4-dffa" name="Sisters Novitiate Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ce16-ad86-eb57-4794" name="Sororitas Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4845-803d-dc6b-c751" name="Triumph of Saint Katherine" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2cf9-0d95-b608-f32d" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3a50-f117-863c-2afd" name="Zephyrim Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="ee05-a850-c135-a31d" name="5 Zephyrim" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cbeb-b171-e7b5-e658" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="5081-85d5-d81b-64e6" name="Hallowed Martyrs" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8fb3-7a35-bc71-986b" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="6d7d-8d14-f42a-f477" name="Blade of Saint Ellynor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bce1-f8a4-8e81-61ec" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3dc2-b61d-11ca-77e6" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="7856-0b0d-a6c5-35c1" name="Litanies of Faith" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1315-a1c9-d3c7-7a03" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2f9a-f466-770a-7390" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="3e45-6ffd-b7d1-98f2" name="Mantle of Ophelia" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2661-a2ff-8a26-eaff" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e845-1f4d-7745-5e42" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="e438-7e13-6873-062c" name="Saintly Example" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="447b-5521-ff0e-60a1" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fd10-50a8-4e26-18e2" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

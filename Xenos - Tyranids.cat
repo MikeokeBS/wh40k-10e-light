@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="25db-0287-fb78-87f2" name="Xenos - Tyranids" revision="3" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="1dfe-84e5-fbca-02c1" name="Hive Tyrant" hidden="false" collective="false" import="true" targetId="5c71-f113-66ff-9731" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5cfb-400e-bb24-b103" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a227-e08d-d940-f75c" name="Winged Hive Tyrant" hidden="false" collective="false" import="true" targetId="c96a-c202-4026-1ade" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e025-1aa4-564a-758a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9db8-eec6-87f2-5387" name="Hyper Adaptation" hidden="false" collective="false" import="true" targetId="8292-3c90-3c87-fef9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="316c-dced-5293-c7bb" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f616-604f-704d-b342" name="The Swarmlord" hidden="false" collective="false" import="true" targetId="4f3f-19f2-e9c9-6ee1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="277a-0276-9c23-fedc" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="bb0c-f3ce-7231-ab00" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2672-e4f7-7eaa-a3ac" name="Broodlord" hidden="false" collective="false" import="true" targetId="3928-31c3-d6e0-d528" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2c5a-d3bb-1d34-3ceb" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="67af-947f-9a4a-5b52" name="Winged Tyranid Prime" hidden="false" collective="false" import="true" targetId="85e9-3330-4ca5-36ba" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d4cf-78b9-b146-0664" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="87ad-0ab5-4300-0e51" name="Tervigon" hidden="false" collective="false" import="true" targetId="5c23-cd5b-0dc2-ff9e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1be5-c89e-1496-8ea2" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4b88-5c19-5c0a-2780" name="Old One Eye" hidden="false" collective="false" import="true" targetId="d09f-ee3c-d58b-d30a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ed6b-80cf-ecf9-1acf" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ba91-d720-230a-e55a" name="Tyranid Warriors with Melee Bio Weapons" hidden="false" collective="false" import="true" targetId="e146-9a7d-159f-0314" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ee12-1383-4b2b-5aa2" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8490-3099-72b0-872d" name="Tyranid Warriors with Ranged Bio Weapons" hidden="false" collective="false" import="true" targetId="52b5-fa2c-0844-b6e1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="94d1-de2d-ee11-bf50" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="14c7-eee3-030d-eed2" name="Termagants" hidden="false" collective="false" import="true" targetId="0215-505a-39af-9da2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="46a9-28b7-9df5-ba11" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="02f9-8314-141a-b436" name="Hormagaunts" hidden="false" collective="false" import="true" targetId="6f88-d765-85fe-b225" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3032-fc98-133a-83f3" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4f66-45d9-4c49-451d" name="Gargoyles" hidden="false" collective="false" import="true" targetId="d18b-ac17-8ac9-769c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0ec5-68af-4eba-54ee" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b513-af3e-3d2e-cecf" name="Toxicrene" hidden="false" collective="false" import="true" targetId="09db-26aa-1da0-c347" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="82df-e933-2707-4c1e" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c3cd-29a3-7098-fa90" name="Tyrant Guard" hidden="false" collective="false" import="true" targetId="f85e-1f40-5a14-dc8b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9f01-86de-2aad-0784" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="61b0-d18b-18ac-f916" name="Neurotyrant" hidden="false" collective="false" import="true" targetId="994e-f573-584a-0329" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5b97-2550-c682-acfc" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ca3c-4d10-7dc6-f462" name="Lictor" hidden="false" collective="false" import="true" targetId="d580-39c8-5ad5-5eec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3fdb-f190-6a1c-561a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1f28-a722-0d4e-c2a1" name="Deathleaper" hidden="false" collective="false" import="true" targetId="5b7b-f880-2a43-865d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dba1-6955-145c-38c9" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="258a-c3df-7cb0-a010" name="Maleceptor" hidden="false" collective="false" import="true" targetId="8abc-8149-4a82-4e11" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8c7b-5364-98f0-c518" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d804-94a9-cc2a-c8f6" name="Pyrovores" hidden="false" collective="false" import="true" targetId="3176-f40f-a96e-46a4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="118c-cea8-b8f8-c71b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0d02-abcf-1527-0833" name="Haruspex" hidden="false" collective="false" import="true" targetId="34f9-6cd4-7d32-9ab3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4115-84b6-6c45-5cf7" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8e4c-30df-f851-b1ff" name="Venomthropes" hidden="false" collective="false" import="true" targetId="3485-7f8b-3f92-a7f0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ea37-1665-5c5c-5a5b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a563-8007-2f96-0dcc" name="Von Ryan&apos;s Leapers" hidden="false" collective="false" import="true" targetId="2df7-c239-f7aa-4c79" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1e69-f240-a55c-8ad5" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4e7a-f00e-40c0-e570" name="Neurogaunts" hidden="false" collective="false" import="true" targetId="3e43-d583-a212-9b81" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3284-e3b2-a45f-9cb5" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fa02-53d1-8d6e-cb04" name="Zoanthropes" hidden="false" collective="false" import="true" targetId="0dab-8386-4093-aa0b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="86c1-9266-d7d9-00c7" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="030e-cd4f-0582-aa1f" name="Genestealers" hidden="false" collective="false" import="true" targetId="e314-11fc-51fd-1ad0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5e4f-2378-ae83-3e6d" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c715-71a8-9152-645d" name="Raveners" hidden="false" collective="false" import="true" targetId="960a-8492-00c3-9586" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="05ca-f205-cc92-45d7" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="99cb-0ea4-e12c-8c51" name="Ripper Swarms" hidden="false" collective="false" import="true" targetId="f653-46a8-997b-3177" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b835-0b70-bc64-5606" name="New CategoryLink" hidden="false" targetId="c55d-c25a-a9a9-3baf" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a61f-1b9c-b00d-cd5b" name="Parasite of Mortrex" hidden="false" collective="false" import="true" targetId="65c5-63b7-1957-15d5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="df6c-a5a7-4989-8526" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2b92-80e4-af89-31fd" name="Mawloc" hidden="false" collective="false" import="true" targetId="c7e7-bdee-d8d3-4dc1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0211-b34f-4912-2adc" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6d7b-6a07-4346-45a1" name="Trygon" hidden="false" collective="false" import="true" targetId="75b3-beee-7123-74d6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="96d3-9a73-b395-111b" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="17e5-c87c-ea94-01ff" name="Mucolid Spores" hidden="false" collective="false" import="true" targetId="90ce-4803-2700-4fe5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5b19-6c04-7c28-2d96" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d419-859b-b6f9-937d" name="Spore Mines" hidden="false" collective="false" import="true" targetId="57e3-0e6e-a0f0-1552" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6802-da11-5935-811b" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="450f-a404-76b9-4344" name="Exocrine" hidden="false" collective="false" import="true" targetId="bde9-5423-6c18-9144" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="02cc-38b9-da54-7ebd" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="97b9-139a-ca5c-a9cf" name="Biovores" hidden="false" collective="false" import="true" targetId="fe79-977d-0bc7-af10" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="82f2-e900-a707-4869" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="56d7-6d53-a7e0-7e13" name="Carnifexes" hidden="false" collective="false" import="true" targetId="9d1b-d85a-238f-b1f8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1e9f-0e0f-a525-29e0" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d033-095f-9f4b-de32" name="Screamer Killer" hidden="false" collective="false" import="true" targetId="af30-74e4-2a69-f6d9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2089-bde1-9de4-751f" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f869-4ed9-48e7-228d" name="Hive Guard" hidden="false" collective="false" import="true" targetId="7ba1-abaa-f2de-cd80" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c89a-fb48-58ff-6c3c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9d13-dd2d-5745-2b69" name="Tyrannofex" hidden="false" collective="false" import="true" targetId="25ca-e26e-7cd0-c538" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8310-591e-0731-2e79" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f53d-88ce-a3a7-61be" name="Tyrannocyte" hidden="false" collective="false" import="true" targetId="ef2c-1544-d4ff-7014" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1d6b-5f62-73ed-cec5" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="334d-1360-5f3f-a6aa" name="Hive Crone" hidden="false" collective="false" import="true" targetId="2724-6082-d15f-f09b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6e98-b356-cb51-b264" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b5f2-fabc-795d-fa15" name="Harpy" hidden="false" collective="false" import="true" targetId="a213-dada-1994-d499" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8f4c-b50b-f950-a250" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d566-9665-0e37-519e" name="Sporocyst" hidden="false" collective="false" import="true" targetId="d035-4e25-c915-0ef5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d804-c6a6-9e84-7f08" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4d1b-5c8f-281f-5a4f" name="Psychophage" hidden="false" collective="false" import="true" targetId="b7ba-ff3f-5af0-0471" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f052-8caa-94d4-9a86" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f97b-ed54-b086-3fc8" name="Barbgaunts" hidden="false" collective="false" import="true" targetId="6d65-13e5-4166-ba33" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a02d-d578-d89f-4d2a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9378-aea8-f7a6-7641" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ccf3-636f-8370-ac1b" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f343-5d29-a22b-61c8" name="Barbed Hierodule" hidden="false" collective="false" import="true" targetId="124a-6e87-8672-846d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7976-8d9c-f8ec-f5ff" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8d64-f530-cf62-233f" name="Scythed Hierodule" hidden="false" collective="false" import="true" targetId="fedf-08cd-5ea2-1745" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8db6-e149-a99f-c084" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="49ca-23ba-caac-0d32" name="Harridan" hidden="false" collective="false" import="true" targetId="5459-e6af-e0df-dfb6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f67f-4ac7-4058-9a24" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9b15-49fa-3db1-6194" name="Hierophant" hidden="false" collective="false" import="true" targetId="07f9-3d95-f173-f29b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a626-7c79-4b10-851f" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="6d65-13e5-4166-ba33" name="Barbgaunts" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="ab94-522c-9005-c8fd" name="Barbgaunts" hidden="false" typeId="0e50-1549-4748-723d" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="aa18-72df-0676-4d82"/>
+            <characteristic name="T" typeId="5451-64f3-8950-c587"/>
+            <characteristic name="Sv" typeId="c9a2-c94e-0929-ae73"/>
+            <characteristic name="W" typeId="1859-2425-e104-918a"/>
+            <characteristic name="Ld" typeId="f91e-ea02-4f57-ea92"/>
+            <characteristic name="OC" typeId="5dcd-049b-00b7-4288"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <selectionEntries>
+        <selectionEntry id="8565-c92e-e5ab-3844" name="5 Barbgaunts" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="345b-590a-394b-15bf" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="2626-88fd-5fd4-3769" name="Barbgaunt x 5" hidden="false" typeId="0e50-1549-4748-723d" typeName="Unit">
+              <characteristics>
+                <characteristic name="M" typeId="aa18-72df-0676-4d82"/>
+                <characteristic name="T" typeId="5451-64f3-8950-c587"/>
+                <characteristic name="Sv" typeId="c9a2-c94e-0929-ae73"/>
+                <characteristic name="W" typeId="1859-2425-e104-918a"/>
+                <characteristic name="Ld" typeId="f91e-ea02-4f57-ea92"/>
+                <characteristic name="OC" typeId="5dcd-049b-00b7-4288"/>
+              </characteristics>
+            </profile>
+            <profile id="c015-b8d7-178b-2049" name="Barbgaunt x 5" hidden="false" typeId="07ec-41f5-6e30-3f7c" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="e4c1-4a82-7c13-a057"/>
+              </characteristics>
+            </profile>
+            <profile id="f0d6-eebb-86dc-dc8e" name="Barbgaunt x 5" hidden="false" typeId="b888-56a4-a418-2a1c" typeName="Keywords">
+              <characteristics>
+                <characteristic name="Keywords (Model)" typeId="8924-30fe-f7ec-e1fc"/>
+                <characteristic name="Keywords (Faction)" typeId="2d83-77b3-4660-51d9"/>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fe79-977d-0bc7-af10" name="Biovores" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="8a4c-4082-aa23-4462" name="Biovore" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1e45-40d3-b2c5-d3b6" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3928-31c3-d6e0-d528" name="Broodlord" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="a175-0758-dec8-32b8" name="Detachment Enhancements" hidden="false" collective="false" import="true" targetId="e419-fe63-b2d9-3a5b" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3626-3c1f-eb92-2975" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9d1b-d85a-238f-b1f8" name="Carnifexes" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+      <selectionEntries>
+        <selectionEntry id="5f57-9b8b-5f80-df96" name="Carnifex" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0341-e9ce-af4f-96bc" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5b7b-f880-2a43-865d" name="Deathleaper" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f144-f9c6-ee8a-7718" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bde9-5423-6c18-9144" name="Exocrine" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d18b-ac17-8ac9-769c" name="Gargoyles" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="b62e-ce7d-12a9-167b" name="10 Gargoyles" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a45c-2227-1782-4e36" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e314-11fc-51fd-1ad0" name="Genestealers" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="45b9-d59d-58ee-139c" name="5 Genestealers" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7400-49db-58ff-9375" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a213-dada-1994-d499" name="Harpy" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="230.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="34f9-6cd4-7d32-9ab3" name="Haruspex" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2724-6082-d15f-f09b" name="Hive Crone" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7ba1-abaa-f2de-cd80" name="Hive Guard" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1b3b-9080-4dee-d1ff" name="3 Hive Guard" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c381-d35b-20bb-52bf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6f88-d765-85fe-b225" name="Hormagaunts" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="c643-254c-e6d4-4cc0" name="10 Hormagaunts" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2cba-b01b-ed74-8691" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d580-39c8-5ad5-5eec" name="Lictor" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8abc-8149-4a82-4e11" name="Maleceptor" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c7e7-bdee-d8d3-4dc1" name="Mawloc" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="90ce-4803-2700-4fe5" name="Mucolid Spores" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="fc79-e462-72a8-672d" name="Mucolid Spore" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ca08-603b-9dd9-e205" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3e43-d583-a212-9b81" name="Neurogaunts" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6d32-5c3e-5cc2-6a7f" name="11 Neurogaunts" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b556-5213-da77-aaf3" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="994e-f573-584a-0329" name="Neurotyrant" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="8e59-2ada-7618-b240" name="Detachment Enhancements" hidden="false" collective="false" import="true" targetId="e419-fe63-b2d9-3a5b" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b03b-7504-d704-c803" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d09f-ee3c-d58b-d30a" name="Old One Eye" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9bf5-351a-32f4-025c" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="65c5-63b7-1957-15d5" name="Parasite of Mortrex" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="b790-94c7-c2db-b7de" name="Detachment Enhancements" hidden="false" collective="false" import="true" targetId="e419-fe63-b2d9-3a5b" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d4f9-f777-be72-c2f4" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b7ba-ff3f-5af0-0471" name="Psychophage" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3176-f40f-a96e-46a4" name="Pyrovores" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="8c7a-0f42-c798-7af7" name="Pyrovore" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c8da-347f-75bb-4e9a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="960a-8492-00c3-9586" name="Raveners" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="5360-b45b-fd0b-3b64" name="3 Raveners" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5e43-8d8c-062c-f726" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f653-46a8-997b-3177" name="Ripper Swarms" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="772d-20ca-92cc-7e67" name="3 Ripper Swarms" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2ce0-8962-20ba-9e77" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="af30-74e4-2a69-f6d9" name="Screamer Killer" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="57e3-0e6e-a0f0-1552" name="Spore Mines" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="7efe-f5b3-9c37-9884" name="3 Spore Mines" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2806-52ac-d2e1-c147" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d035-4e25-c915-0ef5" name="Sporocyst" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0215-505a-39af-9da2" name="Termagants" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="23b2-a6d6-f726-12b5" name="10 Termagants" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4f3d-2ef3-78c8-6c84" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5c23-cd5b-0dc2-ff9e" name="Tervigon" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="7835-aa07-e600-5e7c" name="Detachment Enhancements" hidden="false" collective="false" import="true" targetId="e419-fe63-b2d9-3a5b" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="460d-6e94-f35b-b276" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4f3f-19f2-e9c9-6ee1" name="The Swarmlord" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="58cf-12cd-56b4-aa3c" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="30ab-e0e7-4650-dbb9" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="250.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="09db-26aa-1da0-c347" name="Toxicrene" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="75b3-beee-7123-74d6" name="Trygon" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e146-9a7d-159f-0314" name="Tyranid Warriors with Melee Bio Weapons" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="2b7b-ec29-2892-f37b" name="3 Tyranid Warriors with Melee Bio Weapons" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3b27-99d0-a6bd-f918" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="52b5-fa2c-0844-b6e1" name="Tyranid Warriors with Ranged Bio Weapons" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1f6e-7443-4cff-d2c6" name="3 Tyranid Warriors with Ranged Bio Weapons" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f31b-61ff-a0c3-6c64" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ef2c-1544-d4ff-7014" name="Tyrannocyte" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="25ca-e26e-7cd0-c538" name="Tyrannofex" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f85e-1f40-5a14-dc8b" name="Tyrant Guard" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="cef1-b9cf-5802-731d" name="3 Tyrant Guard" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="40f1-5ba9-c61b-1e29" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3485-7f8b-3f92-a7f0" name="Venomthropes" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="91e0-326c-3d75-a8d4" name="3 Venomthropes" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4977-9371-69eb-f6b2" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2df7-c239-f7aa-4c79" name="Von Ryan&apos;s Leapers" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="9faf-a9bf-a609-ee56" name="3 Von Ryan&apos;s Leapers" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a985-0e21-cd6c-5264" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5c71-f113-66ff-9731" name="Hive Tyrant" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="b73c-bb7c-8300-467d" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="09d2-f381-0c9a-c8c5" name="Detachment Enhancements" hidden="false" collective="false" import="true" targetId="e419-fe63-b2d9-3a5b" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b843-0ac0-a037-c4a2" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="85e9-3330-4ca5-36ba" name="Winged Tyranid Prime" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="c0e3-5772-01af-01cd" name="Detachment Enhancements" hidden="false" collective="false" import="true" targetId="e419-fe63-b2d9-3a5b" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="33a0-ccfa-abfd-b2ff" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0dab-8386-4093-aa0b" name="Zoanthropes" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="9f14-7f9c-8063-22ba" name="3 Zoanthropes" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b8ba-08f8-535a-5a1e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="80fb-7656-eb3b-3f7d" name="Deadly Demise D3" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
+      <profiles>
+        <profile id="dd0f-dd59-83d0-5c51" name="Deadly Demise D3" publicationId="0084-8cf6-b5f0-fa82" hidden="false" typeId="07ec-41f5-6e30-3f7c" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="e4c1-4a82-7c13-a057">Some models have ‘Deadly Demise x’ listed in their 
+abilities. When such a model is destroyed, roll one 
+D6 before removing it from play (if such a model is a 
+Transport, roll before any embarked models disembark). 
+On a 6, each unit within 6&quot; of that model suffers a number 
+of mortal wounds denoted by ‘x’ (if this is a random 
+number, roll separately for each unit within 6&quot;)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5f34-256a-c33a-f907" name="Deep Strike" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
+      <profiles>
+        <profile id="4642-d8fb-d9db-413c" name="Deep Strike" publicationId="0084-8cf6-b5f0-fa82" hidden="false" typeId="07ec-41f5-6e30-3f7c" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="e4c1-4a82-7c13-a057">During the Declare Battle Formations step, if every 
+model in a unit has this ability, you can set it up in 
+Reserves instead of setting it up on the battlefield. 
+If you do, in the Reinforcements step of one of your 
+Movement phases you can set up this unit anywhere 
+on the battlefield that is more than 9&quot; horizontally 
+away from all enemy models</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bf07-1a46-f7ee-f810" name="Shadow in the Warp" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9944-0ab4-1b1d-8c9c" name="Synapse" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c96a-c202-4026-1ade" name="Winged Hive Tyrant" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="b319-6738-76f7-0add" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="6ea2-771c-fa4c-f6ca" name="Detachment Enhancements" hidden="false" collective="false" import="true" targetId="e419-fe63-b2d9-3a5b" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f789-e767-33af-ce90" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b8aa-9c9b-377a-e7f7" name="Leader" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
+      <entryLinks>
+        <entryLink id="6380-d026-3c3d-b4e4" name="Leader" hidden="false" collective="false" import="true" targetId="4c7b-a91c-bf5f-adbf" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="30e8-c8bb-d639-f288" name="Deadly Demise 1" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
+      <profiles>
+        <profile id="dbb0-2147-56e0-0a3b" name="Deadly Demise 1" publicationId="0084-8cf6-b5f0-fa82" hidden="false" typeId="07ec-41f5-6e30-3f7c" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="e4c1-4a82-7c13-a057">Some models have ‘Deadly Demise x’ listed in their 
+abilities. When such a model is destroyed, roll one 
+D6 before removing it from play (if such a model is a 
+Transport, roll before any embarked models disembark). 
+On a 6, each unit within 6&quot; of that model suffers a number 
+of mortal wounds denoted by ‘x’ (if this is a random 
+number, roll separately for each unit within 6&quot;)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fb3c-0b69-d077-bb86" name="Deadly Demise D6" publicationId="c1ac-4d57-086a-f374" hidden="false" collective="false" import="true" type="upgrade">
+      <profiles>
+        <profile id="51af-8870-b772-3552" name="Deadly Demise D6" publicationId="0084-8cf6-b5f0-fa82" hidden="false" typeId="07ec-41f5-6e30-3f7c" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="e4c1-4a82-7c13-a057">Some models have ‘Deadly Demise x’ listed in their 
+abilities. When such a model is destroyed, roll one 
+D6 before removing it from play (if such a model is a 
+Transport, roll before any embarked models disembark). 
+On a 6, each unit within 6&quot; of that model suffers a number 
+of mortal wounds denoted by ‘x’ (if this is a random 
+number, roll separately for each unit within 6&quot;)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8292-3c90-3c87-fef9" name="Hyper Adaptation" hidden="false" collective="false" import="true" type="unit">
+      <entryLinks>
+        <entryLink id="a7fa-a3dd-5ce9-a947" name="Hyper Adaptations" hidden="false" collective="false" import="true" targetId="c6ce-ac77-16f4-962c" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="991c-26ab-b166-1761" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="124a-6e87-8672-846d" name="Barbed Hierodule" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="305.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fedf-08cd-5ea2-1745" name="Scythed Hierodule" hidden="false" collective="false" import="true" type="upgrade">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="305.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5459-e6af-e0df-dfb6" name="Harridan" hidden="false" collective="false" import="true" type="upgrade">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="655.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="07f9-3d95-f173-f29b" name="Hierophant" hidden="false" collective="false" import="true" type="upgrade">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="810.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="e419-fe63-b2d9-3a5b" name="Detachment Enhancements" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5e5e-7e39-6bd7-5d4d" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="0648-c59b-4a8d-17ac" name="Adaptive Biology" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="60e3-e740-a70c-0e0a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="b1a6-2c25-cd3a-9e17" name="Alien Cunning" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a932-7a0c-0894-680f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="6ba2-ab4f-56cb-9d01" name="Perfectly Adapted" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="014f-e3e5-1398-3147" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="8c24-1099-26de-16ff" name="Synaptic Lynchpin" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a645-c5cc-d987-4d75" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="c6ce-ac77-16f4-962c" name="Hyper Adaptations" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ace1-e6b9-754f-5fde" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="dc3f-5f00-8f78-69fe" name="Swarming Instincts" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+          <profiles>
+            <profile id="d1a2-322c-8c06-9426" name="Swarming Instincts" hidden="false" typeId="07ec-41f5-6e30-3f7c" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="e4c1-4a82-7c13-a057">Each time a Tyranids model with this 
+Hyper-adaptation makes an attack that targets an 
+enemy Infantry or Swarm unit, that attack has the 
+[SUSTAINED HITS 1] ability.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <entryLinks>
+            <entryLink id="c31c-e595-ff6d-f201" name="Sustained Hits" hidden="false" collective="false" import="true" targetId="4eab-a919-0082-f43e" type="selectionEntry"/>
+          </entryLinks>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="85a9-e396-5216-b5eb" name="Hyper-Aggression" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="upgrade">
+          <profiles>
+            <profile id="049e-9112-b38f-dc20" name="Hyper-Aggression" hidden="false" typeId="07ec-41f5-6e30-3f7c" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="e4c1-4a82-7c13-a057">Each time a Tyranids model with this 
+Hyper-adaptation makes an attack that targets an 
+enemy Monster or Vehicle unit, that attack has the 
+[LETHAL HITS] ability.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <entryLinks>
+            <entryLink id="157f-5f19-5570-6cd2" name="Lethal Hits" hidden="false" collective="false" import="true" targetId="160a-9e8d-28f4-4943" type="selectionEntry"/>
+          </entryLinks>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="052d-2feb-8867-f274" name="Hive Predators" publicationId="0084-8cf6-b5f0-fa82" hidden="false" collective="false" import="true" type="unit">
+          <profiles>
+            <profile id="0153-e6da-e7c4-cbc3" name="Hive Predators" hidden="false" typeId="07ec-41f5-6e30-3f7c" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="e4c1-4a82-7c13-a057">Each time a Tyranids model with this 
+Hyper-adaptation makes an attack that targets an 
+enemy Character unit, if a Critical Hit is scored, that 
+attack has the [PRECISION] ability.
+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <entryLinks>
+            <entryLink id="5412-2b96-a7f8-53cc" name="Precision" hidden="false" collective="false" import="true" targetId="88fe-6bfb-a5b6-32cf" type="selectionEntry"/>
+          </entryLinks>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

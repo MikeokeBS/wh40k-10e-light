@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="2269-ec97-f808-9c31" name="Imperium - Imperial Knights" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="acb0-b18a-f77a-62e9" name="Canis Rex" hidden="false" collective="false" import="true" targetId="c342-8f61-887a-0953" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4f1a-cdfb-3458-49bd" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="9da9-af63-e149-3b17" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cd45-9020-56ff-2890" name="Armiger Moirax" hidden="false" collective="false" import="true" targetId="5bab-de6c-29c9-997e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="30fe-d863-bd5f-6850" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7b91-25ad-b76b-3d54" name="Armiger Warglaive" hidden="false" collective="false" import="true" targetId="798e-1a6d-0a81-4569" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1243-ac3b-dd34-e40d" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="524e-ea42-0b51-b8df" name="Cerastus Knight Acheron" hidden="false" collective="false" import="true" targetId="61d8-91e8-556a-f6d2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5029-0777-c285-d922" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ef18-e366-75b4-4beb" name="Acastus Knight Porphyrion" hidden="false" collective="false" import="true" targetId="ae18-d529-9f76-f810" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e15b-8bb0-1a18-869a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8b2c-4d74-452a-97d3" name="Cerastus Knight Atrapos" hidden="false" collective="false" import="true" targetId="1677-a88c-1fa1-8901" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e277-1b8a-9dd9-b40f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b898-4510-e99d-4828" name="Cerastus Knight Castigator" hidden="false" collective="false" import="true" targetId="b726-3734-9fdc-c2a5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2334-86f7-4e93-ab5f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7d53-c1ba-0587-3c36" name="Cerastus Knight Lancer" hidden="false" collective="false" import="true" targetId="306f-49ba-3bb8-874d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7e88-69ba-c061-d3c7" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="68cf-f3b2-0cdf-5938" name="Armiger Helverin" hidden="false" collective="false" import="true" targetId="66b9-f025-fbff-51c1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ee59-f1d6-6703-eee0" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4de0-a9e4-7175-5626" name="Acastus Knight Asterius" hidden="false" collective="false" import="true" targetId="85a3-dd78-8db8-52d6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="adaf-f138-40cb-bb94" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f4d8-9550-b6c5-85cf" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="074a-ab50-af7f-35ae" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="711a-9547-1f2f-dbf7" name="Knight Castellan" hidden="false" collective="false" import="true" targetId="393f-59e1-be42-f543" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1c65-23e5-4d38-3410" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fdce-f47d-e84f-3fc7" name="Knight Crusader" hidden="false" collective="false" import="true" targetId="bdf7-fdb8-4969-a4b8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="99eb-90b0-a69f-6553" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b11d-d892-7236-fdb4" name="Knight Errant" hidden="false" collective="false" import="true" targetId="a540-b89f-72d7-b1b1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5e50-a1b1-8b33-375b" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f067-ca7c-7977-f215" name="Knight Gallant" hidden="false" collective="false" import="true" targetId="4a2c-ac74-6359-b5f9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="47ae-95f9-2378-8955" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="eef9-4239-ff18-20cd" name="Knight Paladin" hidden="false" collective="false" import="true" targetId="4bfa-2daa-8ca6-e5f6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="749a-3db9-8fdc-c929" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ca99-6321-3c1a-9b1a" name="Knight Preceptor" hidden="false" collective="false" import="true" targetId="0605-a494-1ffc-e551" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b870-64e4-bb7c-812b" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5fe8-ab26-7298-c75f" name="Knight Valiant" hidden="false" collective="false" import="true" targetId="bd15-a579-960d-b98b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4d2f-7bb6-ef04-d31a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8397-37bd-3b0d-eadc" name="Knight Warden" hidden="false" collective="false" import="true" targetId="ae62-b876-4889-24a6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6bd7-93b1-d0fc-839b" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a0ea-d60b-d0af-b5ab" name="Questoris Knight Magaera" hidden="false" collective="false" import="true" targetId="ecef-8cbc-f98e-602d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f5c9-ae92-9132-dd5b" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="02c7-0d36-5f38-dfd1" name="Questoris Knight Styrix" hidden="false" collective="false" import="true" targetId="bf07-e166-70fe-480d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5cf2-5a26-eb13-73a0" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="c342-8f61-887a-0953" name="Canis Rex" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="eaa9-32cf-4956-6c5c" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="490.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0605-a494-1ffc-e551" name="Knight Preceptor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="da3a-63b1-0a8c-d6ce" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="430.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bd15-a579-960d-b98b" name="Knight Valiant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="3066-3bc9-df6d-6a9c" name="Teleport Strike Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="565.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5bab-de6c-29c9-997e" name="Armiger Moirax" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="798e-1a6d-0a81-4569" name="Armiger Warglaive" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bf07-e166-70fe-480d" name="Questoris Knight Styrix" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f51f-6559-3dbe-19b8" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="490.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="393f-59e1-be42-f543" name="Knight Castellan" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="2c2f-f2c1-2443-b319" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="565.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ae62-b876-4889-24a6" name="Knight Warden" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f18c-bb4c-715a-fc92" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="480.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a540-b89f-72d7-b1b1" name="Knight Errant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f397-a48c-d4db-2439" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="430.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="61d8-91e8-556a-f6d2" name="Cerastus Knight Acheron" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7afb-5740-73a2-40bd" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="445.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ae18-d529-9f76-f810" name="Acastus Knight Porphyrion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="745.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1677-a88c-1fa1-8901" name="Cerastus Knight Atrapos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="440.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b726-3734-9fdc-c2a5" name="Cerastus Knight Castigator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="485.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4a2c-ac74-6359-b5f9" name="Knight Gallant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="e293-8886-2f05-a53b" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="400.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bdf7-fdb8-4969-a4b8" name="Knight Crusader" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ae77-aaf4-28ea-a3b4" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="475.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="306f-49ba-3bb8-874d" name="Cerastus Knight Lancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="495.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ecef-8cbc-f98e-602d" name="Questoris Knight Magaera" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f0d0-7f1c-950b-c557" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="450.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4bfa-2daa-8ca6-e5f6" name="Knight Paladin" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="621c-2d64-f10f-fdea" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="450.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="66b9-f025-fbff-51c1" name="Armiger Helverin" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="85a3-dd78-8db8-52d6" name="Acastus Knight Asterius" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="840.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="fbe7-9e27-0923-d0ce" name="Noble Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="030a-6b71-c4ad-95d7" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="d077-eeb4-9780-47be" name="Banner of Macharius Triumphant" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4175-96e3-6968-7213" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1361-4c94-d6de-031f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="22ca-9390-3881-c4e5" name="Mysterious Guardian" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5572-3d68-2830-04cc" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8591-13cd-2b82-fb3a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="90c8-0b88-e5b1-c860" name="Mythic Hero" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fe19-4dc6-7f1f-5b80" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="41a9-e005-a3f8-bca2" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="7974-4dfa-e39d-d163" name="Revered Knight" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e3f5-9aa3-9f0b-0b8f" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="19b5-84d1-6acd-a885" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="3b64-eb54-8928-1474" name="Unyielding Paragon" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="36ee-4391-2dd9-7eda" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cd57-fc9a-4508-4462" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

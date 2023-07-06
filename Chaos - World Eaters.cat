@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="07fa-6c4b-9d36-1fb4" name="Chaos - World Eaters" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="247f-afca-d9f2-b852" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5482-29c7-3e30-2645" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="aed3-428a-f97f-2c8e" name="World Eaters Land Raider" hidden="false" collective="false" import="true" targetId="14ce-ba89-7b09-8a71" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="01bd-d57b-c33f-2d9c" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6378-55b2-b228-4eb0" name="World Eaters Predator Annhilator" hidden="false" collective="false" import="true" targetId="f593-541b-088e-503b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="59ea-62b0-8d0a-0cb2" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="413c-f378-d161-1d1e" name="World Eaters Predator Destructor" hidden="false" collective="false" import="true" targetId="b3af-4d6f-743f-353b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3133-6640-4d34-6085" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f4a9-013d-d8fd-d2ed" name="Thousand Sons Rhino" hidden="false" collective="false" import="true" targetId="c8ea-235f-4a52-da98" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="592d-1aa4-3225-ca20" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9823-d39b-5429-24f8" name="World Eaters Chaos Spawn" hidden="false" collective="false" import="true" targetId="dd58-851d-0844-40b4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="200c-20cd-0cf0-d25b" name="Beast" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ec7b-8fbc-6812-ce61" name="World Eaters Forgefiend" hidden="false" collective="false" import="true" targetId="7d63-bf88-ef50-2780" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6188-7315-aa45-1eb8" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8466-d94c-62fb-05f6" name="World Eaters Helbrute" hidden="false" collective="false" import="true" targetId="1ce0-5a71-da4a-0a63" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8f08-6a98-c7d7-115b" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5555-e19f-b09c-0e72" name="World Eaters Heldrake" hidden="false" collective="false" import="true" targetId="ccaf-c999-8b6f-ae6e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7ff3-0db1-8a68-2009" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8f6e-8663-33b1-e0ea" name="World Eaters Maulerfiend" hidden="false" collective="false" import="true" targetId="984c-4ebe-1b81-3373" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="300b-914a-3457-dbc1" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d227-fe63-3950-6b04" name="World Eaters Daemon Prince with Wings" hidden="false" collective="false" import="true" targetId="5155-7960-a84f-d997" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a34b-d82d-f824-be2a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="95b7-0899-27a0-ab50" name="World Eaters Daemon Prince" hidden="false" collective="false" import="true" targetId="aa24-734e-45e5-a93a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d286-7348-1889-a5f3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d38f-5b9b-3719-da47" name="World Eaters Defiler" hidden="false" collective="false" import="true" targetId="c129-e4bf-9bab-babe" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7b51-833d-ef78-0b78" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8103-2b59-d201-0cd9" name="Angron" hidden="false" collective="false" import="true" targetId="3eab-a406-2ea8-f659" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bfc5-9b95-528d-2161" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="4702-2774-5c90-4a6e" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="72f5-cb77-0ad4-1a49" name="Eightbound" hidden="false" collective="false" import="true" targetId="5f91-8f63-f8b9-b436" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8bb9-a900-7e51-b905" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0054-6095-2254-94b0" name="Exalted Eightbound" hidden="false" collective="false" import="true" targetId="b245-ba73-9812-ec39" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fc13-ee84-1e79-f75e" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2511-4482-c435-f45a" name="Jakhals" hidden="false" collective="false" import="true" targetId="880c-927b-3873-4a3a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5ee7-3d67-b08e-a5ef" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a5a8-fa11-35a1-b846" name="Kharn the Betrayer" hidden="false" collective="false" import="true" targetId="4803-a4ee-c9c7-4f8d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ad0a-1116-05f6-4a05" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="1f42-48ec-f80a-f7c9" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3df3-6a0d-ed87-6cda" name="Lord Invocatus" hidden="false" collective="false" import="true" targetId="a72f-515f-1d3f-e588" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="463c-3051-fe01-4bd0" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="b544-fe6b-8a56-28a8" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3788-06e9-be98-06e1" name="World Eaters Lord on Juggernaut" hidden="false" collective="false" import="true" targetId="cd38-81d1-20ce-a4f6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ced8-155c-5832-9d63" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9ec9-4e29-5c51-90a9" name="World Eaters Master of Executions" hidden="false" collective="false" import="true" targetId="b7ef-bc10-0202-62bf" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="86ff-f27c-c66d-005f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4d6c-b353-b96d-89c7" name="Khorne Berzerkers" hidden="false" collective="false" import="true" targetId="101d-7fe0-4055-aec7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9331-5c97-d3f0-388f" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0a3d-6d0b-360d-7a29" name="World Eaters Terminator Squad" hidden="false" collective="false" import="true" targetId="18f3-8f3e-6300-0550" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dea7-4d9b-b341-000b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="52c7-5ad9-48f0-58dd" name="Khorne Lord of Skulls" hidden="false" collective="false" import="true" targetId="ca08-e9e0-4c38-045b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="35c3-b974-e5a1-3d79" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="dd58-851d-0844-40b4" name="World Eaters Chaos Spawn" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="aa24-734e-45e5-a93a" name="World Eaters Daemon Prince" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="b168-447f-8b5f-0eb3" name="Berzerker Warband" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5155-7960-a84f-d997" name="World Eaters Daemon Prince with Wings" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+      <entryLinks>
+        <entryLink id="54e0-a82c-3e58-a252" name="Berzerker Warband" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="215.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7d63-bf88-ef50-2780" name="World Eaters Forgefiend" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1ce0-5a71-da4a-0a63" name="World Eaters Helbrute" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ccaf-c999-8b6f-ae6e" name="World Eaters Heldrake" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="215.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="14ce-ba89-7b09-8a71" name="World Eaters Land Raider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="255.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="984c-4ebe-1b81-3373" name="World Eaters Maulerfiend" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="175.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f593-541b-088e-503b" name="World Eaters Predator Annhilator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b3af-4d6f-743f-353b" name="World Eaters Predator Destructor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c8ea-235f-4a52-da98" name="World Eaters Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c129-e4bf-9bab-babe" name="World Eaters Defiler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="210.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3eab-a406-2ea8-f659" name="Angron" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="397c-81a5-8f3d-cedf" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="415.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5f91-8f63-f8b9-b436" name="Eightbound" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="a9a2-f7ad-ec19-e672" name="3 Eightbound" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="50dd-2201-8db7-be8c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="880c-927b-3873-4a3a" name="Jakhals" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="3aae-1df2-9571-0088" name="10 Jakhals" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e584-9a83-fcd3-c691" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b245-ba73-9812-ec39" name="Exalted Eightbound" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="cce3-b0b3-2f19-956a" name="3 Exalted Eightbound" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e022-3260-f227-ef06" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="101d-7fe0-4055-aec7" name="Khorne Berzerkers" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6892-43b4-6ab6-8a0b" name="5 Khorne Berzerkers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="960f-a9d9-dfb1-37b0" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ca08-e9e0-4c38-045b" name="Khorne Lord of Skulls" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="525.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4803-a4ee-c9c7-4f8d" name="Kharn the Betrayer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="39e1-9b1b-2c26-2e19" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a72f-515f-1d3f-e588" name="Lord Invocatus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5c37-13c5-0426-363f" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cd38-81d1-20ce-a4f6" name="World Eaters Lord on Juggernaut" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="9014-53d5-9905-5305" name="Berzerker Warband" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b7ef-bc10-0202-62bf" name="World Eaters Master of Executions" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="a64b-07ac-e912-9e0b" name="Berzerker Warband" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="18f3-8f3e-6300-0550" name="World Eaters Terminator Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="3905-228b-5c23-123d" name="5 World Eaters Terminators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dd98-e385-46b1-e23d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="641d-3da8-050a-26c0" name="Berzerker Warband" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f211-2c35-89ec-d380" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="3f91-78b7-d6f6-a13a" name="Battle-Lust" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ee9e-51f2-42ea-b9f2" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fb15-7989-aedf-9205" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="948f-476c-c161-129c" name="Berzerker Glaive" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e72e-be1b-8ef5-476b" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c3f7-3026-8516-8de5" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="4ba1-e699-cb17-d8be" name="Favoured of Khorne" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1f42-f9bf-9002-424f" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fd94-c18c-bf96-c385" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="bab6-ad28-4ff7-bc8f" name="Helm of Brazen Ire" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cde9-b3b0-bebc-29db" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0cfc-34f3-b319-16ea" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

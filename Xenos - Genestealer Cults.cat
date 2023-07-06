@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="cb1e-8896-9f51-8deb" name="Xenos - Genestealer Cults" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="90cd-b18e-995e-33c4" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4996-479f-a98e-48c3" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4c5e-1260-34ed-b80b" name="Aberrants" hidden="false" collective="false" import="true" targetId="8e91-a1ec-ba32-b9bd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="758d-8a9c-e175-2271" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b123-f58b-b1f6-90c8" name="Abominant" hidden="false" collective="false" import="true" targetId="a44e-78f8-f680-680d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="25d1-2e56-d8de-70d7" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="687e-04f9-86e7-4837" name="Achilles Ridgerunners" hidden="false" collective="false" import="true" targetId="db3d-aa6e-ca52-1a30" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7ace-5ca3-c5c0-a702" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e9ea-212a-d3db-0223" name="Acolyte Hybrids" hidden="false" collective="false" import="true" targetId="f7fb-0ad8-666c-8d99" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="391b-03e6-bb9d-af76" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="45ed-789a-5b0a-22cb" name="Acolyte Iconward" hidden="false" collective="false" import="true" targetId="7f4f-60fa-39ce-5562" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4798-5d7b-9378-7580" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="675f-050a-ef7a-0552" name="Atalan Jackals" hidden="false" collective="false" import="true" targetId="2dcc-8e93-3663-053a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ab76-31cb-6991-d028" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="aed4-8dea-6a49-92c7" name="Biophagus" hidden="false" collective="false" import="true" targetId="750f-1e2f-f935-36e6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3a7d-d140-ecd6-a124" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="af51-eda1-4a7c-79cd" name="Clamavus" hidden="false" collective="false" import="true" targetId="904f-9f6c-0dff-b944" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b866-ad47-9b8e-e858" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0351-4d98-b6de-19fa" name="Goliath Rockgrinder" hidden="false" collective="false" import="true" targetId="4942-a643-4ff6-8ddc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5319-6386-d209-8bb4" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5bd1-ac5b-bb6f-03bf" name="Goliath Truck" hidden="false" collective="false" import="true" targetId="f921-bcbb-6722-357f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="617d-9d7c-f968-aea8" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a55d-55d2-03dd-bc33" name="Hybrid Metamorphs" hidden="false" collective="false" import="true" targetId="cc66-14d3-1150-db2e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fefd-ed1b-879b-d64a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="12be-8f87-ede7-eddf" name="Jackal Alphus" hidden="false" collective="false" import="true" targetId="847b-430e-7b43-80cc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0760-4270-acff-12a8" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="067f-eefd-f807-62d0" name="Kelermorph" hidden="false" collective="false" import="true" targetId="65b8-fcdc-9137-a191" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fb73-7d85-881f-adc4" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c616-f5ea-5e4d-c2d5" name="Locus" hidden="false" collective="false" import="true" targetId="4bba-814d-385f-246f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3e20-2ae1-cbee-3dfc" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ff90-4463-2f94-b1aa" name="Magus" hidden="false" collective="false" import="true" targetId="ee94-7abb-a55c-b390" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d976-c423-efe8-aa88" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="eeeb-13aa-83c9-455c" name="Neophyte Hybrids" hidden="false" collective="false" import="true" targetId="bae2-5507-003a-ff61" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="028c-c19c-9bc2-91ae" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2807-a1d0-7009-04a3" name="Nexos" hidden="false" collective="false" import="true" targetId="91d6-027c-b584-6221" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9fe4-e79a-da65-85b8" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1611-a6c4-41f6-707f" name="Patriarch" hidden="false" collective="false" import="true" targetId="be82-493d-dfd5-2e35" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d772-0414-d5de-78d8" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="24a7-ff94-9b02-9d67" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5788-0347-c863-3357" name="Primus" hidden="false" collective="false" import="true" targetId="284d-08d6-3dc7-7c86" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9ceb-d74d-7eb2-5780" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="86ec-4941-8741-3389" name="Purestrain Genestealers" hidden="false" collective="false" import="true" targetId="9893-8b20-004a-0297" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fdc1-e0e7-e52d-4f33" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="59ad-f847-a715-26ad" name="Reductus Saboteur" hidden="false" collective="false" import="true" targetId="f05c-4197-2c7e-a880" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e811-bf1e-1766-700f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="79e6-c7d4-f026-afa2" name="Sanctus" hidden="false" collective="false" import="true" targetId="a42e-28bf-4d71-bf63" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4672-7617-4217-6b9c" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="8e91-a1ec-ba32-b9bd" name="Aberrants" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="2146-d851-d6bb-4257" name="5 Aberrants" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5d78-63a2-62af-d717" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a44e-78f8-f680-680d" name="Abominant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="28fc-af32-923a-33d1" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="db3d-aa6e-ca52-1a30" name="Achilles Ridgerunners" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="b485-bfc1-fbf6-aca7" name="1 Achilles Ridgerunner" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="66d5-cbe2-2abb-3bc2" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f7fb-0ad8-666c-8d99" name="Acolyte Hybrids" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="8977-3bb6-6b8a-fa2e" name="5 Acolyte Hybrids" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7242-4673-1839-75bb" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7f4f-60fa-39ce-5562" name="Acolyte Iconward" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="6918-542d-1f61-98d2" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2dcc-8e93-3663-053a" name="Atalan Jackals" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6855-2478-5bfe-f508" name="5 Atalan Jackals" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="db3c-b708-cf7e-09b5" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="750f-1e2f-f935-36e6" name="Biophagus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ffe2-2e3a-b43f-dbfe" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="904f-9f6c-0dff-b944" name="Clamavus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="a2d3-0524-3ebe-f4ef" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4942-a643-4ff6-8ddc" name="Goliath Rockgrinder" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f921-bcbb-6722-357f" name="Goliath Truck" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cc66-14d3-1150-db2e" name="Hybrid Metamorphs" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="dd49-c875-72a6-f278" name="5 Hybrid Metamorphs" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="860e-d52c-393a-bc56" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="847b-430e-7b43-80cc" name="Jackal Alphus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="7e0e-9fda-5233-b5ca" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="65b8-fcdc-9137-a191" name="Kelermorph" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="d010-f8a9-1442-97f4" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4bba-814d-385f-246f" name="Locus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ba10-2b0d-5381-5e93" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ee94-7abb-a55c-b390" name="Magus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="24c3-3d1a-b60b-db49" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bae2-5507-003a-ff61" name="Neophyte Hybrids" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="3140-6fc6-b2e2-967d" name="10 Neophyte Hybrids" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3f16-5129-4c5d-d408" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="91d6-027c-b584-6221" name="Nexos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="a4ab-be33-df03-62c3" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="be82-493d-dfd5-2e35" name="Patriarch" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b808-2dcf-e0e0-5eb4" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="284d-08d6-3dc7-7c86" name="Primus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="6fa7-a56f-0d0d-3e1b" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9893-8b20-004a-0297" name="Purestrain Genestealers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="ede5-c721-b642-a347" name="5 Purestrain Genestealers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ff0d-0046-2b3b-8104" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f05c-4197-2c7e-a880" name="Reductus Saboteur" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ce45-fe05-ed78-2795" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a42e-28bf-4d71-bf63" name="Sanctus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="b1dc-86d4-08a0-ab1d" name="Ascension Day" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="cd2b-e318-11d5-67c6" name="Ascension Day" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dade-86ea-afed-8618" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="a571-5344-3fac-a054" name="Focus of Adoration" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c562-b640-76ab-4fc0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ea23-13f0-50eb-d8cf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0ce5-7549-d8ef-1584" name="Meticulous Planner" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="558e-5aa4-cff7-1eb0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8601-d611-910a-a54f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="eb89-7f84-53fd-f548" name="Prowling Agitant" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5697-d350-ab0d-65d5" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a992-511f-39e6-a332" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="6412-e120-2a8e-7884" name="Inscrutable Cunning" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7f9f-b202-f1dc-0dbc" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="53ff-77c6-1ef8-adae" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

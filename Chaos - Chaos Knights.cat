@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="315a-e07b-ef9a-5c6a" name="Chaos - Chaos Knights" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="c57e-43d9-0dd0-7aa9" name="Chaos Acastus Knight Asterius" hidden="false" collective="false" import="true" targetId="6502-098b-f373-e456" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c240-f5f7-bafc-697a" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="caf1-72cc-cc08-5118" name="Chaos Acastus Knight Porphyrion" hidden="false" collective="false" import="true" targetId="4246-8684-d8b7-f1b5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1888-05eb-b498-3861" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3b6b-f98a-86a1-43ec" name="Chaos Cerastus Knight Acheron" hidden="false" collective="false" import="true" targetId="997b-dcc9-ccd5-2d32" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="99c6-7226-2722-d2a9" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="75b8-243c-7a60-84d7" name="Chaos Cerastus Knight Atrapos" hidden="false" collective="false" import="true" targetId="a7f6-4932-9eb1-e6bc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5985-1d74-aa47-9511" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f884-318c-c8ab-12e1" name="Chaos Cerastus Knight Castigator" hidden="false" collective="false" import="true" targetId="f606-ae90-6032-9e6d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="38cf-ad2f-1f5a-ae3e" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b6c0-35e5-6a6e-8f35" name="Chaos Cerastus Knight Lancer" hidden="false" collective="false" import="true" targetId="d8b6-6957-fef6-df51" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b03d-29ac-1d3a-bb46" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0be3-92f8-67c0-3fcc" name="Chaos Questoris Knight Magaera" hidden="false" collective="false" import="true" targetId="a0fc-c093-a988-d91c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0fe3-41ff-3e69-61c2" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="90ce-2ea0-b17e-1b2b" name="Chaos Questoris Knight Styrix" hidden="false" collective="false" import="true" targetId="4ef8-8d28-eeac-2bf7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2eee-adc8-4a8b-1e5b" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7c27-d26b-d143-fecf" name="Knight Abominant" hidden="false" collective="false" import="true" targetId="c4fc-c37e-0ad1-0a8a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="af8c-b025-b99c-17ce" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="803b-813b-d04a-6156" name="Knight Desecrator" hidden="false" collective="false" import="true" targetId="f1e5-7126-499d-0f4c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="99a9-a947-13f4-979c" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ee98-e9b8-5718-99df" name="Knight Despoiler" hidden="false" collective="false" import="true" targetId="c619-19fa-1321-10eb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5645-3f34-7f31-6973" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3605-1b1f-85eb-b67a" name="Knight Rampager" hidden="false" collective="false" import="true" targetId="fe3d-7bbe-171b-b444" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="abba-f7f6-aff9-7282" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5059-c72c-e8fa-5625" name="Knight Tyrant" hidden="false" collective="false" import="true" targetId="8270-9908-799e-14b4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8639-02b9-7816-a982" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cd09-fd3a-ffea-87b9" name="War Dog Brigand" hidden="false" collective="false" import="true" targetId="24cb-1c17-0650-f222" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0b84-ebd7-7005-07f3" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="19b2-d0aa-65cd-f910" name="War Dog Executioner" hidden="false" collective="false" import="true" targetId="0d87-ade3-46a2-8199" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b4eb-9ae2-59b2-a9fd" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e55e-8564-d28f-e82e" name="War Dog Huntsman" hidden="false" collective="false" import="true" targetId="dc45-a9ae-1a7f-7650" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b379-f490-2a3b-555a" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cc12-f94c-0872-1e4a" name="War Dog Karnivore" hidden="false" collective="false" import="true" targetId="1a6b-d5ec-a27e-b3e8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4c01-1191-c1bd-d3ed" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="50b8-3681-a414-89b8" name="War Dog Moirax" hidden="false" collective="false" import="true" targetId="f403-7b56-dfe8-566c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1977-03b0-29c4-2472" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e1f6-a14a-93f6-cafa" name="War Dog Stalker" hidden="false" collective="false" import="true" targetId="5f93-1977-d5a9-e99f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="85cf-d95c-cb2d-0dfb" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8e8b-8b3b-0fab-ef5b" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0ab9-bece-9ced-508c" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="4017-579c-0b63-875b" name="Traitoris Lance" hidden="false" collective="false" import="true" type="upgrade">
+      <entryLinks>
+        <entryLink id="6eed-0fcb-7bb8-38ed" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1a4e-c3ca-3af5-19f0" type="max"/>
+            <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fbd6-68ef-6c8c-3124" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c4fc-c37e-0ad1-0a8a" name="Knight Abominant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="89c6-d8f9-5050-3596" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="455.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f1e5-7126-499d-0f4c" name="Knight Desecrator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="8414-3364-14ad-510f" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="450.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c619-19fa-1321-10eb" name="Knight Despoiler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="4bcf-1b78-b83a-c2a4" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="470.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fe3d-7bbe-171b-b444" name="Knight Rampager" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="5f7d-eba9-2242-7c33" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="395.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8270-9908-799e-14b4" name="Knight Tyrant" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="e16c-f392-8577-7607" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="4017-579c-0b63-875b" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="555.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="24cb-1c17-0650-f222" name="War Dog Brigand" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0d87-ade3-46a2-8199" name="War Dog Executioner" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dc45-a9ae-1a7f-7650" name="War Dog Huntsman" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1a6b-d5ec-a27e-b3e8" name="War Dog Karnivore" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5f93-1977-d5a9-e99f" name="War Dog Stalker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="3d4d-0f22-2d75-7553" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6502-098b-f373-e456" name="Chaos Acastus Knight Asterius" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="840.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4246-8684-d8b7-f1b5" name="Chaos Acastus Knight Porphyrion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="740.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="997b-dcc9-ccd5-2d32" name="Chaos Cerastus Knight Acheron" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="9bd3-4f68-7c75-31f9" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a7f6-4932-9eb1-e6bc" name="Chaos Cerastus Knight Atrapos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="69a4-531d-5895-333a" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f606-ae90-6032-9e6d" name="Chaos Cerastus Knight Castigator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="480.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d8b6-6957-fef6-df51" name="Chaos Cerastus Knight Lancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a0fc-c093-a988-d91c" name="Chaos Questoris Knight Magaera" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="687b-6212-1afc-c1ea" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="465.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4ef8-8d28-eeac-2bf7" name="Chaos Questoris Knight Styrix" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="c0c0-5886-a243-fac1" name="Traitoris Lance" hidden="false" collective="false" import="true" targetId="0f0f-ea3d-a360-9097" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="505.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f403-7b56-dfe8-566c" name="War Dog Moirax" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="1d2d-a9fd-d16d-92a2" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="0f0f-ea3d-a360-9097" name="Traitoris Lance" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <selectionEntries>
+        <selectionEntry id="bb52-862d-6060-149a" name="Lord of Dread" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="88b7-ebc5-f03d-15e0" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="aec7-af5d-4ea6-22e0" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d3d6-350c-ea86-b5a8" name="Aura of Terror" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f797-80ab-64d6-9718" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="67f8-b3b0-bbd0-9982" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0ec1-d89d-c644-568c" name="The Traitor&apos;s Mark" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4e69-9aba-d896-2bf2" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9d73-df82-0b07-69c9" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="efab-8c72-083a-6bb5" name="Panoply of the Cursed Knight" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8495-d32f-3397-57ed" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d9bb-ce40-8ef8-dae3" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

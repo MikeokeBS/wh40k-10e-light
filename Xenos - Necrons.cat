@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="c267-4d8f-826f-5b7d" name="Xenos - Necrons" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="90cd-b18e-995e-33c4" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4996-479f-a98e-48c3" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a424-b52d-7b27-adb8" name="Annihilation Barge" hidden="false" collective="false" import="true" targetId="72b3-7aca-31d0-ec8f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8400-8a05-6fc6-42a7" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e2e3-a303-7a14-d27c" name="Anrakyr the Traveller" hidden="false" collective="false" import="true" targetId="3bc2-1116-785b-7999" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="99ab-15b0-7a2b-4e2c" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="b182-fecd-b968-baa5" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="eab9-7556-7ef1-e0bd" name="C’tan Shard of the Deceiver" hidden="false" collective="false" import="true" targetId="6098-6e13-0f8f-6c6d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a63c-9748-0ed2-d6ed" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="3728-5422-b4c1-12f9" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4689-b197-9832-6300" name="C’tan Shard of the Nightbringer" hidden="false" collective="false" import="true" targetId="5c07-8d25-78fd-1cd8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e114-16a3-769e-5337" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="a082-5ceb-9023-c552" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d5de-cc12-273c-0c25" name="C’tan Shard of the Void Dragon" hidden="false" collective="false" import="true" targetId="154f-baca-3cb7-24c6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1ba1-aff3-383f-d1c1" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="87fb-5355-baaa-5ba4" name="Configuration" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4495-27dd-4fa7-be47" name="Canoptek Doomstalker" hidden="false" collective="false" import="true" targetId="8ce5-69e5-b564-cda8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6808-6bf4-8393-426d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fd94-e973-e299-ebb2" name="Canoptek Reanimator" hidden="false" collective="false" import="true" targetId="6961-8935-738e-4996" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="28a8-a43e-a609-39e5" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="acf8-37d8-9e5a-fc39" name="Canoptek Scarab Swarms" hidden="false" collective="false" import="true" targetId="9e3b-de36-a265-b48e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="35db-fdb9-1622-63fb" name="New CategoryLink" hidden="false" targetId="c55d-c25a-a9a9-3baf" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e627-5b7d-7a6a-7cc0" name="Canoptek Spyders" hidden="false" collective="false" import="true" targetId="37e1-d9c2-6d14-9ccf" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9099-9914-ffbd-aa3b" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7188-dc66-8a39-00ca" name="Canoptek Wraiths" hidden="false" collective="false" import="true" targetId="fd2e-8574-b95c-f3bd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c25d-fd27-c549-5e0e" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="45b3-fa3b-e704-4860" name="Catacomb Command Barge" hidden="false" collective="false" import="true" targetId="e6fe-90c6-3e38-6593" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="22a9-3169-cb9d-097d" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="358a-8574-23cf-d620" name="Chronomancer" hidden="false" collective="false" import="true" targetId="988b-ecd9-1a8f-2b0d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3f85-d21e-492e-72e4" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f1a1-b0cd-57fd-33e1" name="Convergence of Dominion" hidden="false" collective="false" import="true" targetId="c7f4-9771-5c1d-17f2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4fcd-7318-7cdd-69a5" name="New CategoryLink" hidden="false" targetId="56a8-7143-031e-072a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7c77-19f0-8d2e-9e52" name="Cryptothralls" hidden="false" collective="false" import="true" targetId="7a76-3c33-18b9-7a13" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="eaaf-0acf-b01f-3a52" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8fd4-400d-c6bb-43a3" name="Deathmarks" hidden="false" collective="false" import="true" targetId="c5a5-bf43-bf6a-f7e2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="798b-14ed-3d80-d38f" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="731e-632d-53e5-24bf" name="Doom Scythe" hidden="false" collective="false" import="true" targetId="6a75-ea64-7a4d-1314" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7677-04ad-8fe7-22d0" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4044-578b-44bc-9660" name="Doomsday Ark" hidden="false" collective="false" import="true" targetId="aa80-ad98-f1d6-f451" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8a21-cfea-2b54-fe3a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bba7-f9a5-bc1e-5538" name="Flayed Ones" hidden="false" collective="false" import="true" targetId="9008-4a51-8436-47d3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="05ca-bd28-bdbc-e74d" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7538-6a03-3a3c-c13b" name="Ghost Ark" hidden="false" collective="false" import="true" targetId="ff88-7526-4c3e-f163" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="09c0-1b2b-ec9c-f278" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7a33-1753-9228-a588" name="Hexmark Destroyer" hidden="false" collective="false" import="true" targetId="1b4a-e144-d121-5786" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1d5a-e0e5-5968-68e3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="196d-7297-f51d-9f50" name="Illuminor Szeras" hidden="false" collective="false" import="true" targetId="279b-ab69-4f14-bb58" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f1f3-1e71-ed2c-2be8" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="6260-b12a-bd01-b42f" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1d0f-480f-b6ec-cc19" name="Immortals" hidden="false" collective="false" import="true" targetId="6e50-e3e5-8f9a-2b66" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0513-589b-3212-b90c" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f4bf-785d-3b4a-9990" name="Imotekh the Stormlord" hidden="false" collective="false" import="true" targetId="e34d-b864-c9ed-e59e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cdf8-70ee-4040-5c65" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="044f-1637-c1d6-fd2c" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="00b6-cca8-e330-f4b8" name="Lokhust Destroyers" hidden="false" collective="false" import="true" targetId="1f49-eb44-0082-9dab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f407-e60a-34e4-b73e" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f943-fe1a-0eec-6619" name="Lokhust Heavy Destroyers" hidden="false" collective="false" import="true" targetId="daf7-d742-7a73-ec0f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="64c3-f9da-14fe-ef3b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1d1b-a9a1-0c92-02b6" name="Lokhust Lord" hidden="false" collective="false" import="true" targetId="7095-efa1-f6b4-dce8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7311-9b63-32c2-def6" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c3d0-b437-762c-4067" name="Lord" hidden="false" collective="false" import="true" targetId="25d4-bea2-e619-0665" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7444-2062-ab67-4b2e" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5ef3-c6d2-6ea6-55ef" name="Lychguard" hidden="false" collective="false" import="true" targetId="8944-dae6-a7cf-fc15" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="707e-ca05-a89d-9271" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="246a-b340-e363-a5fc" name="Monolith" hidden="false" collective="false" import="true" targetId="0639-2fad-753b-4053" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7b45-b6a9-316a-0659" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2cff-394d-79a2-f675" name="Necron Warriors" hidden="false" collective="false" import="true" targetId="cdcd-9108-5588-c5c0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="38f0-c48c-f61e-0580" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f41b-3d86-cde3-b571" name="Nemesor Zahndrekh" hidden="false" collective="false" import="true" targetId="3c5a-bb38-4195-92e1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="551f-9565-8dcb-ecf8" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="78fc-e199-3dac-aea9" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="de8c-cd4d-cf7f-00e0" name="Night Scythe" hidden="false" collective="false" import="true" targetId="35da-20ba-35f5-772b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b9d7-ee41-b4b7-db83" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d712-86af-26c2-67f6" name="Obelisk" hidden="false" collective="false" import="true" targetId="621f-e49a-9d41-edee" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1ab8-125e-c116-ad1e" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="95a0-2a10-077c-ab88" name="Ophydian Destroyers" hidden="false" collective="false" import="true" targetId="6181-eb29-88b1-1e5a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="da0c-aa01-ebd0-2989" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cb31-484d-9856-ffc4" name="Orikan the Diviner" hidden="false" collective="false" import="true" targetId="bbed-69ef-1299-5afa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f7d3-f4c0-fab1-6ca7" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="4d94-12d6-58e8-4094" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0492-75db-276b-432a" name="Overlord" hidden="false" collective="false" import="true" targetId="7d49-f5b6-f5ce-f454" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8a06-c63e-870b-6269" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8c52-fac5-ea48-3007" name="Plasmancer" hidden="false" collective="false" import="true" targetId="cb80-e1eb-80b7-a498" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d94b-1652-4f64-1697" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="240d-348e-a133-0bb7" name="Psychomancer" hidden="false" collective="false" import="true" targetId="b9c9-44d8-2af7-330d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2fac-39de-a1dd-f233" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e8eb-6223-7769-b536" name="Royal Warden" hidden="false" collective="false" import="true" targetId="bb2b-0f8c-036f-382d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e00f-8483-9265-383e" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c3a4-3784-2a74-0854" name="Skorpekh Destroyers" hidden="false" collective="false" import="true" targetId="38d1-139c-2a30-94cf" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4a5b-00ca-f679-0dde" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1ade-bea0-5db1-4ee7" name="Skorpekh Lord" hidden="false" collective="false" import="true" targetId="691a-4436-88f3-49db" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0596-0023-4bec-5fcb" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2c90-d9ae-f32d-4bcb" name="Technomancer" hidden="false" collective="false" import="true" targetId="d758-f776-e51a-e116" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2294-b43e-da04-74b3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="19a3-58f8-f415-4e9b" name="Tesseract Vault" page="" hidden="false" collective="false" import="true" targetId="7368-e916-5290-9cbe" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8245-3cd9-501e-4889" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c32d-6f12-97d9-98ed" name="The Silent King" hidden="false" collective="false" import="true" targetId="28ad-8456-8eb1-a924" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e8b3-1045-d165-5432" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="ac99-d812-1db5-52f1" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a40b-52de-1d20-390c" name="Tomb Blades" hidden="false" collective="false" import="true" targetId="2739-d0d4-2123-b3d7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2aa0-0870-5793-8413" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b154-c336-aa6e-c8a6" name="Transcendent C’tan" hidden="false" collective="false" import="true" targetId="4c9f-d12f-84d3-9ccb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="eb59-0449-0446-5ae6" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="714e-9c1a-406b-49eb" name="Trazyn the Infinite" hidden="false" collective="false" import="true" targetId="9e13-42e9-793b-9a51" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="52f8-5b1c-e63e-f1cc" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="091b-5c74-7df1-34a6" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="28b0-be0e-d515-a1d0" name="Triarch Praetorians" hidden="false" collective="false" import="true" targetId="079d-5163-d222-ae40" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fb37-e903-899e-367e" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="922d-ad2c-107c-042a" name="Triarch Stalker" hidden="false" collective="false" import="true" targetId="a62e-ca33-3e04-e3f1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9655-0dfc-28bf-4c1b" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b99a-cb72-68a3-8cf4" name="Vargard Obyron" hidden="false" collective="false" import="true" targetId="a901-d3ca-1001-91dd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6258-cc11-59ec-5954" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="9a49-f396-79c1-e7ed" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8c55-3082-c58b-5b43" name="Tesseract Ark" hidden="false" collective="false" import="true" targetId="4b7e-b087-dd79-00ea" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="73a8-1fa9-a773-9ade" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="902c-6d4a-a01e-d48d" name="Seraptek Heavy Construct" hidden="false" collective="false" import="true" targetId="d906-1c41-dfb8-0533" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5c71-c33d-2832-f15f" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2342-1392-2146-6c03" name="Canoptek Tomb Stalker" hidden="false" collective="false" import="true" targetId="f89f-b969-6b77-825f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ca20-4c6e-d57a-6e4b" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2686-74db-01d5-f086" name="Canoptek Tomb Sentinel" hidden="false" collective="false" import="true" targetId="5d1e-78f5-4911-aecf" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c731-f109-7e85-a696" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="208d-bbed-0dd8-b1f4" name="Canoptek Acanthrites" hidden="false" collective="false" import="true" targetId="2ff5-1e2c-549b-774a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9d2e-70c9-91b2-2ae9" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="72b3-7aca-31d0-ec8f" name="Annihilation Barge" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3bc2-1116-785b-7999" name="Anrakyr the Traveller" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2221-e4b4-34e5-ac57" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6098-6e13-0f8f-6c6d" name="C’tan Shard of the Deceiver" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e166-4fd6-7912-8cc6" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="265.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5c07-8d25-78fd-1cd8" name="C’tan Shard of the Nightbringer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a6ab-3e8a-d097-e9e0" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="255.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="154f-baca-3cb7-24c6" name="C’tan Shard of the Void Dragon" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a40f-2cb9-d397-7a60" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="270.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8ce5-69e5-b564-cda8" name="Canoptek Doomstalker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6961-8935-738e-4996" name="Canoptek Reanimator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9e3b-de36-a265-b48e" name="Canoptek Scarab Swarms" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="3cf7-a887-4be0-ffaa" name="3 Canoptek Scarabs" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="927f-dac0-d8d8-0253" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="37e1-d9c2-6d14-9ccf" name="Canoptek Spyders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="deb4-1616-8184-75be" name="1 Canoptek Spyder" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e93c-43f8-49bc-4fc5" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fd2e-8574-b95c-f3bd" name="Canoptek Wraiths" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="8701-60c8-d147-5822" name="3 Canoptek Wraiths" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0821-63f9-6f6c-ae15" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e6fe-90c6-3e38-6593" name="Catacomb Command Barge" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="191c-3bc1-ca06-ec40" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="988b-ecd9-1a8f-2b0d" name="Chronomancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="0d20-9145-a7c5-589a" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c7f4-9771-5c1d-17f2" name="Convergence of Dominion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="255.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7a76-3c33-18b9-7a13" name="Cryptothralls" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c5a5-bf43-bf6a-f7e2" name="Deathmarks" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="56eb-b5fc-670f-53a3" name="5 Deathmarks" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f5b9-dd61-cbaf-2a84" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6a75-ea64-7a4d-1314" name="Doom Scythe" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="225.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="aa80-ad98-f1d6-f451" name="Doomsday Ark" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="185.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9008-4a51-8436-47d3" name="Flayed Ones" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="08c3-5bf0-8e42-7961" name="5 Flayed Ones" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9dc7-c098-7f0d-ce96" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ff88-7526-4c3e-f163" name="Ghost Ark" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1b4a-e144-d121-5786" name="Hexmark Destroyer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="4781-d315-1dc8-b1b4" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="279b-ab69-4f14-bb58" name="Illuminor Szeras" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="694a-e989-81e4-900c" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6e50-e3e5-8f9a-2b66" name="Immortals" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="eece-4415-6266-4b5f" name="5 Immortals" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c44e-a8a2-f914-5474" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e34d-b864-c9ed-e59e" name="Imotekh the Stormlord" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0ef5-c2fc-4e04-a6f8" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1f49-eb44-0082-9dab" name="Lokhust Destroyers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="c750-d8da-bd07-bebe" name="1 Lokhust Destroyer" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="42a8-fba3-2f80-9d93" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d492-7a80-c1f5-4e74" name="6 Lokhust Destroyers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0cd4-29d4-660d-92ad" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="20bd-3ec1-a653-f3b9" name="2 Lokhust Destroyers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4a82-a9cb-400d-324c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="36a3-6f69-b217-9b6b" name="3 Lokhust Destroyers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="048d-9d50-2bf1-3963" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="daf7-d742-7a73-ec0f" name="Lokhust Heavy Destroyers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="e1c8-f428-06f1-7a2f" name="1 Lokhust Heavy Destroyer" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="84e3-7e33-3870-ffbb" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7095-efa1-f6b4-dce8" name="Lokhust Lord" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="32b3-dc7b-fc93-8dd6" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="25d4-bea2-e619-0665" name="Lord" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="6f95-8047-258c-12a0" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8944-dae6-a7cf-fc15" name="Lychguard" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="b95a-4c31-6ab6-7316" name="5 Lychguard" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8c13-eecd-09f6-d843" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0639-2fad-753b-4053" name="Monolith" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="385.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cdcd-9108-5588-c5c0" name="Necron Warriors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="52d4-fc82-2ebf-9ef0" name="10 Necron Warriors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ecfd-ce2b-f67e-8364" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3c5a-bb38-4195-92e1" name="Nemesor Zahndrekh" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6a99-f402-8c65-48fb" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="35da-20ba-35f5-772b" name="Night Scythe" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="621f-e49a-9d41-edee" name="Obelisk" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="325.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6181-eb29-88b1-1e5a" name="Ophydian Destroyers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="fa82-5fd6-50ea-e4b9" name="3 Ophydian Destroyers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f459-fc05-4511-0802" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bbed-69ef-1299-5afa" name="Orikan the Diviner" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3483-c65d-57fc-54a2" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7d49-f5b6-f5ce-f454" name="Overlord" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="3669-f864-e453-327a" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cb80-e1eb-80b7-a498" name="Plasmancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="e201-e134-1f3e-a83e" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b9c9-44d8-2af7-330d" name="Psychomancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="1d6b-88a4-b4de-374a" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bb2b-0f8c-036f-382d" name="Royal Warden" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="5358-d210-1db2-a443" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="38d1-139c-2a30-94cf" name="Skorpekh Destroyers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="b933-95a4-1e1d-7db3" name="3 Skorpekh Destroyers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3f14-ccfe-2d7b-95d0" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="691a-4436-88f3-49db" name="Skorpekh Lord" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="7a17-281b-017e-e087" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d758-f776-e51a-e116" name="Technomancer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="b726-c724-0305-571a" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7368-e916-5290-9cbe" name="Tesseract Vault" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="425.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="28ad-8456-8eb1-a924" name="The Silent King" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="433a-a606-f5d2-c79d" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="470.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2739-d0d4-2123-b3d7" name="Tomb Blades" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="3fae-e5ad-f181-3216" name="3 Tomb Blades" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="47be-0be1-7c04-ea05" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4c9f-d12f-84d3-9ccb" name="Transcendent C’tan" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="7c57-06c9-36d7-08b7" name="Awakened Dynasty" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="280.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9e13-42e9-793b-9a51" name="Trazyn the Infinite" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cd5d-7eb4-7650-c3f4" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="079d-5163-d222-ae40" name="Triarch Praetorians" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="09d0-4df8-26d5-1579" name="5 Triarch Praetorians" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="007c-88bd-ac28-0daf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a62e-ca33-3e04-e3f1" name="Triarch Stalker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a901-d3ca-1001-91dd" name="Vargard Obyron" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e58b-f962-c138-780f" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4b7e-b087-dd79-00ea" name="Tesseract Ark" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d906-1c41-dfb8-0533" name="Seraptek Heavy Construct" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="540.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f89f-b969-6b77-825f" name="Canoptek Tomb Stalker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5d1e-78f5-4911-aecf" name="Canoptek Tomb Sentinel" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2ff5-1e2c-549b-774a" name="Canoptek Acanthrites" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="ac67-194c-f987-8c58" name="3 Canoptek Acanthrites" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="443e-a327-e4ac-2b30" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="cd2b-e318-11d5-67c6" name="Awakened Dynasty" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dade-86ea-afed-8618" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="a571-5344-3fac-a054" name="Hypermaterial Ablator" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c562-b640-76ab-4fc0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ea23-13f0-50eb-d8cf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0ce5-7549-d8ef-1584" name="The Sovereign Coronal" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="558e-5aa4-cff7-1eb0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8601-d611-910a-a54f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="eb89-7f84-53fd-f548" name="Veil of Darkness" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5697-d350-ab0d-65d5" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a992-511f-39e6-a332" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="6412-e120-2a8e-7884" name="Sempiternal Weave" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7f9f-b202-f1dc-0dbc" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="53ff-77c6-1ef8-adae" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

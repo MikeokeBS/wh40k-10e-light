@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="9f68-948f-29bc-682e" name="Imperium - Grey Knights" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="acb0-b18a-f77a-62e9" name="Castellan Crowe" hidden="false" collective="false" import="true" targetId="c342-8f61-887a-0953" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4f1a-cdfb-3458-49bd" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="9da9-af63-e149-3b17" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cd45-9020-56ff-2890" name="Paladin Squad" hidden="false" collective="false" import="true" targetId="5bab-de6c-29c9-997e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d736-e8db-2731-cfbe" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c3d0-5c39-f705-2c6b" name="Grand Master" hidden="false" collective="false" import="true" targetId="0605-a494-1ffc-e551" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7cb8-cd4c-79a9-1f4c" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6faa-ac2a-2b5f-c36d" name="Purgation Squad" hidden="false" collective="false" import="true" targetId="0dee-e023-413b-29fc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0d17-8e24-448d-b13b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2e37-0aeb-3d7d-137d" name="Grand Master in Nemesis Dreadknight" hidden="false" collective="false" import="true" targetId="bd15-a579-960d-b98b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8a0e-f92b-c2cf-7f59" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9239-59f8-380e-c8cf" name="Purifier Squad" hidden="false" collective="false" import="true" targetId="c622-fe95-48d7-7d0e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="70b0-ba64-1d37-2a41" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="748f-39c4-cb5f-d9c8" name="Servitors" hidden="false" collective="false" import="true" targetId="2709-79b9-7ac6-2ee6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="00ae-b829-88e0-11df" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a572-c257-5b66-2d38" name="Nemesis Dreadknight" hidden="false" collective="false" import="true" targetId="5a01-cbb0-f497-7e13" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a132-4111-fc15-6287" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7b91-25ad-b76b-3d54" name="Strike Squad" hidden="false" collective="false" import="true" targetId="798e-1a6d-0a81-4569" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1243-ac3b-dd34-e40d" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c3a6-03a9-5cf9-ddec" name="Grey Knights Venerable Dreadnought" hidden="false" collective="false" import="true" targetId="bf07-e166-70fe-480d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="034d-912f-fc1f-063e" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a1b7-28b2-8504-ec4a" name="Brother-Captain" hidden="false" collective="false" import="true" targetId="393f-59e1-be42-f543" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d65d-bb78-f546-9889" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3a5c-2e60-f1d6-e87d" name="Brother-Captain Stern" hidden="false" collective="false" import="true" targetId="ae62-b876-4889-24a6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c90c-f1ed-77dc-6ca9" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="2f52-2d24-fbdc-4614" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="48b2-c384-640c-613a" name="Kaldor Draigo" hidden="false" collective="false" import="true" targetId="5e54-0a81-317a-54eb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3e68-390a-d964-8d9c" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="813e-0b0e-2e84-f587" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="524e-ea42-0b51-b8df" name="Grand Master Voldus" hidden="false" collective="false" import="true" targetId="61d8-91e8-556a-f6d2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="83e9-d73c-58a7-da8a" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="5029-0777-c285-d922" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bfe3-d759-104a-d358" name="Brotherhood Chaplain" hidden="false" collective="false" import="true" targetId="a540-b89f-72d7-b1b1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fcc6-1a39-e07b-6130" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6f55-286f-5138-b728" name="Interceptor Squad" hidden="false" collective="false" import="true" targetId="0d5a-e494-c2a4-2828" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a98b-e50c-2736-9c23" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ef18-e366-75b4-4beb" name="Grey Knights Land Raider Banisher" hidden="false" collective="false" import="true" targetId="ae18-d529-9f76-f810" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ce85-ae18-2ab9-dd06" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8b2c-4d74-452a-97d3" name="Grey Knights Land Raider Crusader" hidden="false" collective="false" import="true" targetId="1677-a88c-1fa1-8901" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="64c8-8826-a086-04ad" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b898-4510-e99d-4828" name="Grey Knights Land Raider Redeemer" hidden="false" collective="false" import="true" targetId="b726-3734-9fdc-c2a5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ff29-728d-fab8-d9a1" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="db03-fad9-d00a-6e6b" name="Brotherhood Librarian" hidden="false" collective="false" import="true" targetId="4a2c-ac74-6359-b5f9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="80e8-e7e8-8fc9-5d48" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="84ce-aba0-6cf3-9537" name="Brotherhood Champion" hidden="false" collective="false" import="true" targetId="bdf7-fdb8-4969-a4b8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b8c6-42fa-32a9-52c1" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="21aa-0ccc-d14e-b375" name="Grey Knights Stormraven Gunship" hidden="false" collective="false" import="true" targetId="80bc-0fed-efc3-fa0e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d540-0cfa-0b1e-be9e" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9b93-2c48-1d7b-feff" name="Grey Knights Stormhawk Interceptor" hidden="false" collective="false" import="true" targetId="63eb-0282-5b0b-46c5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2a5e-30f3-1e43-b9a9" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cb87-1d08-8c99-0af8" name="Grey Knights Rhino" hidden="false" collective="false" import="true" targetId="ecef-8cbc-f98e-602d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6652-69d9-0abb-b513" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7d53-c1ba-0587-3c36" name="Grey Knights Razorback" hidden="false" collective="false" import="true" targetId="306f-49ba-3bb8-874d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="69f3-2552-e421-00fa" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3d44-bffa-1a27-a255" name="Grey Knights Stormtalon Gunship" hidden="false" collective="false" import="true" targetId="ef55-c174-63e6-0483" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fb13-bac1-cad8-c554" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="651a-5232-2aaa-8849" name="Brotherhood Techmarine" hidden="false" collective="false" import="true" targetId="4bfa-2daa-8ca6-e5f6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b32e-43ca-1dfa-208d" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="68cf-f3b2-0cdf-5938" name="Brotherhood Terminator Squad" hidden="false" collective="false" import="true" targetId="66b9-f025-fbff-51c1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ee59-f1d6-6703-eee0" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9b6a-3d86-c8c9-f1aa" name="Grey Knights Thunderhawk Gunship" hidden="false" collective="false" import="true" targetId="6b02-184a-8f0a-363c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8ea5-4d45-f126-a55c" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="false"/>
+        <categoryLink id="2e63-8e9b-2149-44ff" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="69f9-60eb-d445-f84e" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="444e-2abf-55f8-dc06" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4de0-a9e4-7175-5626" name="Grey Knights Land Raider" hidden="false" collective="false" import="true" targetId="85a3-dd78-8db8-52d6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="207c-148b-e473-0e4d" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="c342-8f61-887a-0953" name="Castellan Crowe" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="eaa9-32cf-4956-6c5c" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0605-a494-1ffc-e551" name="Grand Master" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="da3a-63b1-0a8c-d6ce" name="Teleport Strike Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bd15-a579-960d-b98b" name="Grand Master in Nemesis Dreadknight" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="3066-3bc9-df6d-6a9c" name="Teleport Strike Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="245.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5bab-de6c-29c9-997e" name="Paladin Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="e940-5058-29e9-f51a" name="5 Paladins" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c995-1baa-2623-96c8" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="255.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0dee-e023-413b-29fc" name="Purgation Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="9171-06f0-d895-c1cb" name="5 Purgations" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ac0d-8543-cf5f-058c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="190.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c622-fe95-48d7-7d0e" name="Purifier Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="551e-acef-d1e7-19cf" name="5 Purifiers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d291-c506-eb8d-602d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2709-79b9-7ac6-2ee6" name="Servitors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5a01-cbb0-f497-7e13" name="Nemesis Dreadknight" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="215.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="798e-1a6d-0a81-4569" name="Strike Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="15f9-03a7-ef2b-a530" name="5 Strike Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="21f4-5a4d-3ceb-40ea" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bf07-e166-70fe-480d" name="Grey Knights Venerable Dreadnought" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="393f-59e1-be42-f543" name="Brother-Captain" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="2c2f-f2c1-2443-b319" name="Teleport Strike Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ae62-b876-4889-24a6" name="Brother-Captain Stern" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cf8f-c682-4aee-d7b8" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a540-b89f-72d7-b1b1" name="Brotherhood Chaplain" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="f397-a48c-d4db-2439" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="61d8-91e8-556a-f6d2" name="Grand Master Voldus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7afb-5740-73a2-40bd" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5e54-0a81-317a-54eb" name="Kaldor Draigo" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2190-562f-0177-f02b" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0d5a-e494-c2a4-2828" name="Interceptor Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1af0-25e5-3186-52cd" name="3 Interceptors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="269b-ede5-a4e8-b349" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ae18-d529-9f76-f810" name="Grey Knights Land Raider Banisher" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="255.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1677-a88c-1fa1-8901" name="Grey Knights Land Raider Crusader" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="250.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b726-3734-9fdc-c2a5" name="Grey Knights Land Raider Redeemer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="290.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4a2c-ac74-6359-b5f9" name="Brotherhood Librarian" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="e293-8886-2f05-a53b" name="Teleport Strike Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bdf7-fdb8-4969-a4b8" name="Brotherhood Champion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ae77-aaf4-28ea-a3b4" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="306f-49ba-3bb8-874d" name="Grey Knights Razorback" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ecef-8cbc-f98e-602d" name="Grey Knights Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="63eb-0282-5b0b-46c5" name="Grey Knights Stormhawk Interceptor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="80bc-0fed-efc3-fa0e" name="Grey Knights Stormraven Gunship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="265.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ef55-c174-63e6-0483" name="Grey Knights Stormtalon Gunship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="170.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4bfa-2daa-8ca6-e5f6" name="Brotherhood Techmarine" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="621c-2d64-f10f-fdea" name="Gladius Task Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" targetId="fbe7-9e27-0923-d0ce" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="66b9-f025-fbff-51c1" name="Brotherhood Terminator Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="ea18-5e93-cd46-4367" name="5 Brotherhood Terminators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3901-da00-0b3a-486c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="225.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6b02-184a-8f0a-363c" name="Grey Knights Thunderhawk Gunship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="805.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="85a3-dd78-8db8-52d6" name="Grey Knights Land Raider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="270.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="fbe7-9e27-0923-d0ce" name="Teleport Strike Force" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="030a-6b71-c4ad-95d7" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="d077-eeb4-9780-47be" name="Domina Liber Daemonica" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4175-96e3-6968-7213" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1361-4c94-d6de-031f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="22ca-9390-3881-c4e5" name="First to the Fray" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5572-3d68-2830-04cc" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8591-13cd-2b82-fb3a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="90c8-0b88-e5b1-c860" name="Inescapable Wrath" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fe19-4dc6-7f1f-5b80" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="41a9-e005-a3f8-bca2" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="7974-4dfa-e39d-d163" name="Sigil of Exigence" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e3f5-9aa3-9f0b-0b8f" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="19b5-84d1-6acd-a885" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

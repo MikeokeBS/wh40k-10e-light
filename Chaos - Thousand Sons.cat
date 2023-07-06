@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="fdb2-c40c-3b9d-047a" name="Chaos - Thousand Sons" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <costTypes>
+    <costType id="495b-29e0-eb18-5aa3" name="Cabal" defaultCostLimit="-1.0" hidden="false"/>
+  </costTypes>
+  <entryLinks>
+    <entryLink id="247f-afca-d9f2-b852" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5482-29c7-3e30-2645" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6b51-5dc8-a62f-70e1" name="Kindred Sorcery" hidden="false" collective="false" import="true" targetId="66ce-1b72-0c48-de63" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8cef-1922-fc3f-5479" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="99ca-6db2-0a5b-027e" name="Ahriman" hidden="false" collective="false" import="true" targetId="341c-f97d-3e90-0213" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7996-d7a0-124a-f304" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="210c-2fb5-d0c0-97d6" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d670-06f2-2af1-366e" name="Ahriman on Disc of Tzeentch" hidden="false" collective="false" import="true" targetId="2f1c-6cae-8514-6ad7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="823d-81a3-f5fd-8c8b" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="2619-4aad-ab10-8524" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="aed3-428a-f97f-2c8e" name="Thousand Sons Land Raider" hidden="false" collective="false" import="true" targetId="14ce-ba89-7b09-8a71" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="01bd-d57b-c33f-2d9c" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6378-55b2-b228-4eb0" name="Thousand Sons Predator Annhilator" hidden="false" collective="false" import="true" targetId="f593-541b-088e-503b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="48b8-a123-50e3-074b" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="413c-f378-d161-1d1e" name="Thousand Sons Predator Destructor" hidden="false" collective="false" import="true" targetId="b3af-4d6f-743f-353b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fe97-decb-b547-d5ce" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f4a9-013d-d8fd-d2ed" name="Thousand Sons Rhino" hidden="false" collective="false" import="true" targetId="c8ea-235f-4a52-da98" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="592d-1aa4-3225-ca20" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9823-d39b-5429-24f8" name="Thousand Sons Chaos Spawn" hidden="false" collective="false" import="true" targetId="dd58-851d-0844-40b4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="18f7-78a7-57ab-7fac" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="159b-9dc8-2a72-4464" name="Thousand Sons Vindicator" hidden="false" collective="false" import="true" targetId="70a2-69d2-5a0a-0e50" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a3d8-53a1-6513-1150" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d818-2279-56b1-487d" name="Thousand Sons Defiler" hidden="false" collective="false" import="true" targetId="facb-b80e-b02b-9d7d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2452-618f-b2cd-be9f" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="41b4-43f5-0d82-2083" name="Exalted Sorcerer" hidden="false" collective="false" import="true" targetId="0e3b-e191-e7a0-0771" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="25a5-a776-054a-c7a0" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="083f-34ad-4044-2f11" name="Cult of Magic" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+    </entryLink>
+    <entryLink id="d392-f8f0-2af6-370a" name="Exalted Sorcerer on Disc of Tzeentch" hidden="false" collective="false" import="true" targetId="036b-9563-f38b-a677" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="07b5-3a98-07ef-babe" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="7166-92e2-3597-c9cb" name="Cult of Magic" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+    </entryLink>
+    <entryLink id="ec7b-8fbc-6812-ce61" name="Thousand Sons Forgefiend" hidden="false" collective="false" import="true" targetId="7d63-bf88-ef50-2780" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e5db-35ac-9181-35db" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8466-d94c-62fb-05f6" name="Thousand Sons Helbrute" hidden="false" collective="false" import="true" targetId="1ce0-5a71-da4a-0a63" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6fad-158f-fdc9-8f47" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5555-e19f-b09c-0e72" name="Thousand Sons Heldrake" hidden="false" collective="false" import="true" targetId="ccaf-c999-8b6f-ae6e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="331e-f5ee-1c78-5b9d" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9d60-2387-5fc9-eacd" name="Infernal Master" hidden="false" collective="false" import="true" targetId="256a-c3b8-7a17-f222" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b884-d1c4-ad49-f88e" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="13dc-67df-9cd2-6b89" name="Cult of Magic" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+    </entryLink>
+    <entryLink id="89a8-fda3-3a65-0e0e" name="Magnus the Red" hidden="false" collective="false" import="true" targetId="2357-d4ef-7b64-5dfa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fdea-0221-f2eb-3722" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="1110-6aee-29c9-7734" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8f6e-8663-33b1-e0ea" name="Thousand Sons Maulerfiend" hidden="false" collective="false" import="true" targetId="984c-4ebe-1b81-3373" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bb42-dcf7-c0a5-7fbc" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="438c-715d-9eca-985e" name="Mutalith Vortex Beast" hidden="false" collective="false" import="true" targetId="37bd-94f7-8066-7905" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c429-a3ca-8fb9-f1cf" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6ae0-db50-f808-56e1" name="Rubric Marines" hidden="false" collective="false" import="true" targetId="0d5d-2bdc-917d-826b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e5c6-3b6c-ebb7-6dd6" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="1.0"/>
+      </costs>
+    </entryLink>
+    <entryLink id="d16d-b00a-8b3f-1579" name="Scarab Occult Terminators" hidden="false" collective="false" import="true" targetId="5cad-75d3-ff25-5a9b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="994d-9e8d-cbf3-0d5c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="1.0"/>
+      </costs>
+    </entryLink>
+    <entryLink id="4728-927e-b145-77ff" name="Thousand Sons Sorcerer" hidden="false" collective="false" import="true" targetId="1ec0-8570-dc08-ceb7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="97fe-566b-9c5a-a742" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="2bc3-e02c-cc3a-b6e6" name="Cult of Magic" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+    </entryLink>
+    <entryLink id="bea5-aeba-9516-5209" name="Thousand Sons Sorcerer in Terminator Armour" hidden="false" collective="false" import="true" targetId="31a6-d806-eaf9-1cd5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="997e-766a-5f5e-2ff7" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3430-6bc3-ed30-39aa" name="Cult of Magic" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+    </entryLink>
+    <entryLink id="ed7b-810b-749e-ccc9" name="Thousand Sons Cultists" hidden="false" collective="false" import="true" targetId="3b2a-c2cd-437b-3384" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1384-6d09-57e8-38a8" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d227-fe63-3950-6b04" name="Thousand Sons Daemon Prince with Wings" hidden="false" collective="false" import="true" targetId="5155-7960-a84f-d997" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a34b-d82d-f824-be2a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="1c06-f2cc-8c18-637f" name="Cult of Magic" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+    </entryLink>
+    <entryLink id="95b7-0899-27a0-ab50" name="Thousand Sons Daemon Prince" hidden="false" collective="false" import="true" targetId="aa24-734e-45e5-a93a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d286-7348-1889-a5f3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="2bcd-682d-9521-c1e7" name="Cult of Magic" hidden="false" collective="false" import="true" targetId="641d-3da8-050a-26c0" type="selectionEntryGroup"/>
+      </entryLinks>
+    </entryLink>
+    <entryLink id="38d5-4169-b0b0-50cb" name="Tzaangor Enlightened" hidden="false" collective="false" import="true" targetId="7d59-e8d4-4f8f-7f42" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6772-cbff-b435-fd9c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5900-52b7-b36c-97db" name="Tzaangor Shaman" hidden="false" collective="false" import="true" targetId="1227-d35d-cb0e-7a9a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8ba0-6725-8d3b-5d14" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1bef-3fa7-c588-6702" name="Tzaangors" hidden="false" collective="false" import="true" targetId="0742-ea84-2209-82ab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bf17-6629-857f-131b" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="66ce-1b72-0c48-de63" name="Kindred Sorcery" hidden="false" collective="false" import="true" type="upgrade">
+      <entryLinks>
+        <entryLink id="a726-f71d-cb4b-467e" name="Kindred Sorcery" hidden="false" collective="false" import="true" targetId="59a2-e05c-e4c7-0e29" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="341c-f97d-3e90-0213" name="Ahriman" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2afb-94ee-3e4d-a247" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="3.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2f1c-6cae-8514-6ad7" name="Ahriman on Disc of Tzeentch" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8a00-028f-ba82-fd2f" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="3.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0e3b-e191-e7a0-0771" name="Exalted Sorcerer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="036b-9563-f38b-a677" name="Exalted Sorcerer on Disc of Tzeentch" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="256a-c3b8-7a17-f222" name="Infernal Master" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2357-d4ef-7b64-5dfa" name="Magnus the Red" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="410.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="4.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="37bd-94f7-8066-7905" name="Mutalith Vortex Beast" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0d5d-2bdc-917d-826b" name="Rubric Marines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="9d01-2ea6-89cf-51fb" name="5 Rubric Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e633-c87d-9f82-7d1b" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dd58-851d-0844-40b4" name="Thousand Sons Chaos Spawn" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5cad-75d3-ff25-5a9b" name="Scarab Occult Terminators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="32fe-3c6d-962e-2e74" name="5 Scarab Occult Terminators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3739-6b63-8a26-73da" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="205.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3b2a-c2cd-437b-3384" name="Thousand Sons Cultists" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="be24-3652-b2b7-0fcd" name="10 Thousand Sons Cultists" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ca76-a3a3-539c-1859" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="aa24-734e-45e5-a93a" name="Thousand Sons Daemon Prince" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="210.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5155-7960-a84f-d997" name="Thousand Sons Daemon Prince with Wings" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="190.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="facb-b80e-b02b-9d7d" name="Thousand Sons Defiler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7d63-bf88-ef50-2780" name="Thousand Sons Forgefiend" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1ce0-5a71-da4a-0a63" name="Thousand Sons Helbrute" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ccaf-c999-8b6f-ae6e" name="Thousand Sons Heldrake" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="14ce-ba89-7b09-8a71" name="Thousand Sons Land Raider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="250.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="984c-4ebe-1b81-3373" name="Thousand Sons Maulerfiend" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f593-541b-088e-503b" name="Thousand Sons Predator Annhilator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b3af-4d6f-743f-353b" name="Thousand Sons Predator Destructor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c8ea-235f-4a52-da98" name="Thousand Sons Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1ec0-8570-dc08-ceb7" name="Thousand Sons Sorcerer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="31a6-d806-eaf9-1cd5" name="Thousand Sons Sorcerer in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="2.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="70a2-69d2-5a0a-0e50" name="Thousand Sons Vindicator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7d59-e8d4-4f8f-7f42" name="Tzaangor Enlightened" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="9188-37eb-f45f-d195" name="3 Tzaangor Enlightened" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8edb-d956-67e2-8dad" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1227-d35d-cb0e-7a9a" name="Tzaangor Shaman" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0742-ea84-2209-82ab" name="Tzaangors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="efa0-22ae-1806-818c" name="10 Tzaangor" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5759-fe4c-a954-1fc3" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="641d-3da8-050a-26c0" name="Cult of Magic" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f211-2c35-89ec-d380" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="3f91-78b7-d6f6-a13a" name="Arcane Vortex" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ee9e-51f2-42ea-b9f2" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fb15-7989-aedf-9205" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="948f-476c-c161-129c" name="Athenaean Scrolls" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e72e-be1b-8ef5-476b" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c3f7-3026-8516-8de5" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="1.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="4ba1-e699-cb17-d8be" name="Lord of Forbidden Lore" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1f42-f9bf-9002-424f" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fd94-c18c-bf96-c385" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="bab6-ad28-4ff7-bc8f" name="Umbralefic Crystal" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cde9-b3b0-bebc-29db" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0cfc-34f3-b319-16ea" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="59a2-e05c-e4c7-0e29" name="Kindred Sorcery" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d1d8-8e93-4a95-08f6" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="854b-3895-c95e-f612" name="Malevolent Charge" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3c25-8212-fdd7-8b8e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="74f5-0834-3135-7512" name="Psychic Maelstrom" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="857f-4c0e-f769-306d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="e3ff-83dc-ef26-23c1" name="Wrath of the Immaterium" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="794f-37aa-8fea-97fd" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Cabal" typeId="495b-29e0-eb18-5aa3" value="0.0"/>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

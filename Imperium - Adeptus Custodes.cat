@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="d139-b116-5ed2-c9a4" name="Imperium - Adeptus Custodes" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="afd2-5d5f-cf8e-db63" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0299-74dd-7584-8222" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e3a4-47f2-2858-9a3b" name="Aleya" hidden="false" collective="false" import="true" targetId="2dd2-e172-5d20-30ff" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2f83-b3a9-7da4-1fe9" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="9b43-c845-5759-d46f" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c0d2-b76c-80df-db8e" name="Allarus Custodians" hidden="false" collective="false" import="true" targetId="a912-2512-f269-330f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="63a2-53be-2672-835c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="03e4-48c3-0de0-0529" name="Agamatus Custodians" hidden="false" collective="false" import="true" targetId="a68f-9838-fcb5-ad0d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="41cd-36e7-efd5-0aec" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4f68-f2b1-2b3b-c3bd" name="Witchseekers" hidden="false" collective="false" import="true" targetId="b972-eb0a-0024-9fa0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dbc8-6922-8a5f-a1ea" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="86ee-3bb8-68d3-c8f8" name="Vigilators" hidden="false" collective="false" import="true" targetId="f38a-846d-29b9-b28a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b9dd-8d3f-442b-f7fd" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ac69-86f4-f49d-df4a" name="Anathema Psykana Rhino" hidden="false" collective="false" import="true" targetId="4a10-9e2d-2153-44e7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="561f-20c1-f1fb-dcd1" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7336-17a7-2b1b-ccd2" name="Blade Champion" hidden="false" collective="false" import="true" targetId="035c-4b78-f246-77d2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5a61-c5c5-f6de-3b18" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="86b6-7fa0-f39b-dab5" name="Contemptor-Galatus Dreadnought" hidden="false" collective="false" import="true" targetId="1d00-a696-de0c-74c4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="24b4-1d47-b282-0920" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="61b3-db7d-7c16-828b" name="Contemptor-Achillus Dreadnought" hidden="false" collective="false" import="true" targetId="ad46-31ca-2d28-a8e8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0ea1-9ba9-9b89-fb9c" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0b3c-a6ef-ff1b-45de" name="Caladius Grav-tank" hidden="false" collective="false" import="true" targetId="225b-5c32-aa40-8e81" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dab1-1941-16be-591f" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0a4f-9779-4c74-ca9f" name="Custodian Guard" hidden="false" collective="false" import="true" targetId="1e9d-1138-8c7b-63f7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b41f-2a29-8484-8443" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e510-54f0-55eb-64c6" name="Knight-Centura" hidden="false" collective="false" import="true" targetId="e99a-51ff-2777-3b73" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="82fb-d2d6-e22d-4ef7" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="df64-e1af-7c64-7fc7" name="Custodian Wardens" hidden="false" collective="false" import="true" targetId="59dc-079a-f7d3-38fe" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d65f-7926-6e5c-f20a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d0f1-6002-718d-4bf7" name="Orion Assault Dropship" hidden="false" collective="false" import="true" targetId="3fde-5a8a-13af-967a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7165-e840-1f46-4fd4" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9143-b43e-56ad-7acc" name="Custodian Guard with Adrasite and Pyrithite Spears" hidden="false" collective="false" import="true" targetId="b865-47e1-b6db-0cc9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="df22-7741-dd51-c984" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f2b8-6256-256f-2374" name="Coronus Grav-carrier" hidden="false" collective="false" import="true" targetId="7f71-6566-4e89-ad1a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="03d5-2a4d-5f29-43f1" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b7f4-4ff3-2a76-75b1" name="Prosecutors" hidden="false" collective="false" import="true" targetId="a222-65b5-5e74-6b8f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fcdc-ec8b-fc0e-7442" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="94a8-a849-66e4-2548" name="Shield-Captain" hidden="false" collective="false" import="true" targetId="e698-9672-4dd1-06f5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6b8d-c67d-3ded-402f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="aead-a240-7cc1-5370" name="Shield-Captain in Allarus Terminator Armour" hidden="false" collective="false" import="true" targetId="b017-8330-23bf-cb27" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7013-00be-6a13-516c" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="59a1-03ab-7d95-af26" name="Shield-Captain on Dawneagle Jetbike" hidden="false" collective="false" import="true" targetId="51e2-3ad7-d078-7d07" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="54b9-ba8d-8bc7-ceb4" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e1bd-d9c5-a1f2-f7be" name="Trajann Valoris" hidden="false" collective="false" import="true" targetId="3f9f-dc18-2ded-ee4e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9928-8841-aefb-c7a1" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="4d63-03e3-8c02-04d9" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="34a1-703f-e75a-88b4" name="Valerian" hidden="false" collective="false" import="true" targetId="0da0-29c4-3e76-6ab4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="83ba-45c1-cd6d-26c1" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="5546-7f47-b850-158c" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6ce8-48d0-8ed8-08b2" name="Venerable Contemptor Dreadnought" hidden="false" collective="false" import="true" targetId="0aef-645a-6ad8-d262" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="05ed-9b93-a137-265d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a923-ee13-ed91-5262" name="Venerable Land Raider" hidden="false" collective="false" import="true" targetId="dc60-3a3f-8d3a-d9b2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9c50-be81-5ad1-7be9" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ed63-7196-5817-aa36" name="Vertus Praetors" hidden="false" collective="false" import="true" targetId="27e0-48ad-5ba7-8265" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2b8d-0047-fcaa-9ccc" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f139-366c-c572-eaec" name=" Aquilon Custodians" hidden="false" collective="false" import="true" targetId="6b85-e47b-5e6c-908a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b4fa-d7e3-8045-b614" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d7f2-1c07-25eb-819c" name=" Ares Gunship" hidden="false" collective="false" import="true" targetId="3937-f7b4-9b38-fbec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6c9b-a44c-88f7-0e46" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a77f-f86e-17fc-7bf8" name="Pallas Grav-attack" hidden="false" collective="false" import="true" targetId="800e-f7b7-c1b1-5005" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9f71-a5d4-fd62-65a2" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="78df-a176-599a-15c1" name="Venatari Custodians" hidden="false" collective="false" import="true" targetId="5914-0255-9702-2cb5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ff7f-4021-70c6-7799" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7c38-1acc-f96a-c860" name="Telemon Heavy Dreadnought" hidden="false" collective="false" import="true" targetId="8ef8-9e0b-ad52-f632" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6fdf-62cf-5c49-d101" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="00ce-2e8e-4119-ee98" name="Sagittarum Custodians" hidden="false" collective="false" import="true" targetId="6429-dbdb-2797-9696" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6a7f-d133-d370-3e8e" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="2dd2-e172-5d20-30ff" name="Aleya" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e7c-b131-059e-107f" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a912-2512-f269-330f" name="Allarus Custodians" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="8821-3fff-3ed1-7079" name="2 Allarus Custodians" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ada8-f447-b620-7a9a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="7560-c692-21f4-4d8b" name="3 Allarus Custodians" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5a5a-1450-fa93-24bd" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2afb-0457-e5ac-a107" name="5 Allarus Custodians" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c24c-8f8f-8a20-19db" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="325.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="4cc2-0c5d-1749-4cc1" name="6 Allarus Custodians" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3267-4bb1-aea0-ce64" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="390.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4a10-9e2d-2153-44e7" name="Anathema Psykana Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="035c-4b78-f246-77d2" name="Blade Champion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="7d86-4e40-2f32-29b4" name="Shield Host" hidden="false" collective="false" import="true" targetId="83b2-17d3-abb2-b00b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1d00-a696-de0c-74c4" name="Contemptor-Galatus Dreadnought" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="175.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ad46-31ca-2d28-a8e8" name="Contemptor-Achillus Dreadnought" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="225b-5c32-aa40-8e81" name="Caladius Grav-tank" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="215.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1e9d-1138-8c7b-63f7" name="Custodian Guard" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="7f41-d1e3-8f5d-27ca" name="5 Custodian Guard" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8cb2-8206-8952-2050" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="225.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="fecf-5b2d-360c-8718" name="4 Custodian Guard" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5333-b53e-a27e-26f9" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="439d-5c81-d6ec-809a" name="10 Custodian Guard" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4bcf-284c-d556-dd4e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="450.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="5e7b-a86d-eac1-8426" name="9 Custodian Guard" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0a10-1598-03e4-8af4" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="405.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="59dc-079a-f7d3-38fe" name="Custodian Wardens" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <selectionEntries>
+        <selectionEntry id="ce3e-2a76-d8b6-e80e" name="3 Custodian Wardens" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c561-1425-7c74-d5a1" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e99a-51ff-2777-3b73" name="Knight-Centura" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ee94-f05d-e91c-8dce" name="Shield Host" hidden="false" collective="false" import="true" targetId="83b2-17d3-abb2-b00b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3fde-5a8a-13af-967a" name="Orion Assault Dropship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="690.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b865-47e1-b6db-0cc9" name="Custodian Guard with Adrasite and Pyrithite Spears" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="325.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7f71-6566-4e89-ad1a" name="Coronus Grav-carrier" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a222-65b5-5e74-6b8f" name="Prosecutors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="5946-08a6-ca26-3953" name="4 Prosecutors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2a1b-2f44-9351-7461" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="5c14-00fa-2ade-c884" name="5 Prosecutors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dbba-34d7-8f63-8f1c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="aaf0-88fa-f21c-3390" name="9 Prosecutors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6314-1f84-9f46-635b" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="e17f-7892-6221-41dc" name="10 Prosecutors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="058a-8684-132d-1a9f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e698-9672-4dd1-06f5" name="Shield-Captain" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="bc8b-ab48-9e1d-faa7" name="Shield Host" hidden="false" collective="false" import="true" targetId="83b2-17d3-abb2-b00b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b017-8330-23bf-cb27" name="Shield-Captain in Allarus Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="e13f-97fb-92d6-d8fe" name="Shield Host" hidden="false" collective="false" import="true" targetId="83b2-17d3-abb2-b00b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="51e2-3ad7-d078-7d07" name="Shield-Captain on Dawneagle Jetbike" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="99a8-0533-26a6-115b" name="Shield Host" hidden="false" collective="false" import="true" targetId="83b2-17d3-abb2-b00b" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3f9f-dc18-2ded-ee4e" name="Trajann Valoris" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e6af-f28a-6920-8c27" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0da0-29c4-3e76-6ab4" name="Valerian" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="50d7-a067-e3be-7254" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0aef-645a-6ad8-d262" name="Venerable Contemptor Dreadnought" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="185.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dc60-3a3f-8d3a-d9b2" name="Venerable Land Raider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="260.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="27e0-48ad-5ba7-8265" name="Vertus Praetors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="2dbe-e070-027f-7d1f" name="2 Vertus Praetors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="15d1-217c-7e3f-be14" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="6cd1-efd6-b314-0f96" name="3 Vertus Praetors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="380b-fc35-d07d-9e18" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="270.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="38ef-6604-ace4-d575" name="5 Vertus Praetors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="743a-75a8-b719-496a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="450.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="9711-942b-3229-04d3" name="6 Vertus Praetors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a51a-b74c-e044-1d3c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="540.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6b85-e47b-5e6c-908a" name=" Aquilon Custodians" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="90e5-b4a0-c984-5808" name="3 Aquilon Custodians" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3e61-80a9-c989-c4f3" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="230.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3937-f7b4-9b38-fbec" name=" Ares Gunship" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="580.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="800e-f7b7-c1b1-5005" name="Pallas Grav-attack" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6429-dbdb-2797-9696" name="Sagittarum Custodians" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="250.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8ef8-9e0b-ad52-f632" name="Telemon Heavy Dreadnought" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="235.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5914-0255-9702-2cb5" name="Venatari Custodians" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="2bbb-c199-f988-a809" name="3 Venatari Custodians" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="731c-e76a-e1d2-31b9" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="235.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a68f-9838-fcb5-ad0d" name="Agamatus Custodians" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6973-dd97-8d2d-a503" name="3 Agamatus Custodians" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6f5c-b1a1-5e24-e164" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="280.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b972-eb0a-0024-9fa0" name="Witchseekers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="3011-7f76-b464-d2fd" name="4 Witchseekers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="01fb-4f7c-0091-3eaf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="a71f-9f69-a940-9f4e" name="5 Witchseekers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="682f-79bb-36d4-0d73" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d7e2-abc1-9a7d-20ae" name="9 Witchseekers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6756-cf83-394b-f3d9" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="91e9-d4da-ca53-b90a" name="10 Witchseekers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="65d5-a771-2a94-879c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f38a-846d-29b9-b28a" name="Vigilators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="421d-3edb-1d67-2d1d" name="4 Vigilators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1fb8-74bd-3435-a871" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0fe2-4232-ee5c-06d3" name="5 Vigilators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e4e3-025e-6404-0a94" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ce86-27e5-eedf-142a" name="9 Vigilators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="692d-09ef-d876-1365" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="1ea0-3091-4f65-7489" name="10 Vigilators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7f8f-ae04-488e-935c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="83b2-17d3-abb2-b00b" name="Shield Host" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c985-87b6-6ca8-6bb9" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="f28b-d278-b308-7643" name="Ceaseless Hunter" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="789a-37d8-3d90-3358" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a116-3261-5ec9-e70c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="a326-7b59-7ba5-d74b" name="Inspirational Exemplar" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f860-cc18-21e0-f740" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9d96-7ecf-0e50-8ff2" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="87a9-7401-c836-f1bf" name="Unstoppable Destroyer" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f97c-c30b-ce9a-6785" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f62d-c743-1639-f203" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="8954-2b9b-b5b1-e97e" name="Veiled Blade" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="38d9-6bce-e3c9-a449" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3cd8-6249-813e-be3d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

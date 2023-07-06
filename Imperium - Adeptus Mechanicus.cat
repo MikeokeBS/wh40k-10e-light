@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="3d09-5a0d-aad2-62b2" name="Imperium - Adeptus Mechanicus" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="ace5-f995-7964-fb34" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9a83-bcc2-6b40-0941" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e98c-9717-d293-177f" name="Archaeopter Fusilave" hidden="false" collective="false" import="true" targetId="8e65-7162-d3d8-b4b5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5440-c023-285b-36be" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c315-462f-aadc-7dd0" name="Archaeopter Stratoraptor" hidden="false" collective="false" import="true" targetId="0b21-62f2-05a0-4caa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6938-8e05-2c72-745b" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fadb-6d9c-df27-14bf" name="Archaeopter Transvector" hidden="false" collective="false" import="true" targetId="dcef-fa88-da3b-dced" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b789-9291-db79-d21e" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="238f-39c7-ae46-ec89" name="Belisarius Cawl" hidden="false" collective="false" import="true" targetId="f921-dc34-260e-384a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9f3e-3601-505e-b7b9" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="83f5-7965-0c18-0dd6" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="57d5-9825-b1d8-7a91" name="Corpuscarii Electro-Priests" hidden="false" collective="false" import="true" targetId="ff79-4411-caaa-487d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ad84-e419-6b8f-b278" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e555-1a5e-11e1-d9a5" name="Cybernetica Datasmith" hidden="false" collective="false" import="true" targetId="e4aa-01fb-47b6-196a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="514a-edf7-d8ce-e8bd" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="59df-2506-4bb8-7e4a" name="Fulgurite Electro-Priests" hidden="false" collective="false" import="true" targetId="9796-e370-fe56-2fd9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2609-3192-26d3-c55b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9b0f-83f6-0512-a87c" name="Ironstrider Ballistarii" hidden="false" collective="false" import="true" targetId="9076-3eb0-a53f-9136" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ce89-4f3f-49c6-2c46" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e3a9-ece1-44fa-fb65" name="Kastelan Robots" hidden="false" collective="false" import="true" targetId="8b58-90ab-0e40-339f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="52b2-c0a3-0093-5db0" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="22af-3e20-3b70-e6e9" name="Kataphron Breachers" hidden="false" collective="false" import="true" targetId="6b4a-e4e1-b0b5-024e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1262-004c-c9f2-6cbb" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9439-c76c-ace9-9483" name="Kataphron Destroyers" hidden="false" collective="false" import="true" targetId="b2c3-bbd5-fa2b-042a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="66e8-ca7a-16b1-14a8" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="64f0-0d68-0435-134c" name="Onager Dunecrawler" hidden="false" collective="false" import="true" targetId="bd29-cd81-2ee6-afb5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="333b-47aa-be14-3e54" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7b5d-eaf6-d25e-b437" name="Pteraxii Skystalkers" hidden="false" collective="false" import="true" targetId="2671-d262-59dd-e23e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="40d2-e280-be55-b06f" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e813-e528-2c78-31e6" name="Pteraxii Sterylizors" hidden="false" collective="false" import="true" targetId="9587-2aef-16ce-ff29" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="199c-365f-4028-b84f" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1b72-ec16-622e-0d48" name="Serberys Raiders" hidden="false" collective="false" import="true" targetId="8648-0b2f-bc2c-48fa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ef7b-1cb0-165d-edff" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8766-9468-285b-cb6e" name="Serberys Sulphurhounds" hidden="false" collective="false" import="true" targetId="24e0-c2a1-e549-cf20" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3ea7-a532-fdc3-ec4d" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="49ca-4f42-b05e-b085" name="Servitors" hidden="false" collective="false" import="true" targetId="d04f-d84e-9a7a-3369" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4324-2598-dfb1-69c0" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7a80-087c-9aac-890c" name="Sicarian Infiltrators" hidden="false" collective="false" import="true" targetId="4182-4bc0-4c31-d6f5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e5b8-64b9-d938-a362" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ac1c-622b-1026-cc5e" name="Sicarian Ruststalkers" hidden="false" collective="false" import="true" targetId="8902-2de2-b283-9a54" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4b45-c9b0-fc49-62df" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9838-089a-1584-440e" name="Skitarii Marshal" hidden="false" collective="false" import="true" targetId="5479-8512-0389-95fe" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="933e-1e12-fa92-a4f0" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="26c2-1f2d-d616-b0c5" name="Skitarii Vanguard" hidden="false" collective="false" import="true" targetId="d0d9-b0f3-0a73-6c91" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a06f-25f4-f20e-741d" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6ac4-dd92-d9e6-0a0e" name="Skorpius Disintegrator" hidden="false" collective="false" import="true" targetId="b343-2702-a84c-e3a0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ce20-edef-bd2e-1067" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8cb7-3128-fed9-c01e" name="Skorpius Dunerider" hidden="false" collective="false" import="true" targetId="a4df-8a3e-d500-1838" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9ff7-bfb7-21a2-520b" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3b8b-b15c-6f81-484b" name="Tech-Priest Dominus" hidden="false" collective="false" import="true" targetId="c9a7-716d-bb23-f29c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="691b-7848-0011-26af" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4797-ca84-7c69-8c3e" name="Tech-Priest Manipulus" hidden="false" collective="false" import="true" targetId="336b-8550-7c50-00e3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9f68-98c5-59dd-d237" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b68e-9235-28f9-0b79" name="Tech-Priest Enginseer" hidden="false" collective="false" import="true" targetId="a3a3-a7d9-9f42-b776" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1f99-cf61-6d9d-b423" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7b18-e658-dabd-7cbb" name="Skitarii Rangers" hidden="false" collective="false" import="true" targetId="07c4-a5ac-2bad-f93d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1408-2241-dd28-98eb" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="267e-ed6b-0c69-0355" name="Sydonian Dragoons" hidden="false" collective="false" import="true" targetId="dae6-2364-4671-f5df" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7c16-b66a-0014-82bf" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6fd3-5028-9c5a-dd54" name="Technoarcheologist" hidden="false" collective="false" import="true" targetId="2fde-7bcf-06f3-5661" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0abb-abdd-79a6-ba1c" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="8e65-7162-d3d8-b4b5" name="Archaeopter Fusilave" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0b21-62f2-05a0-4caa" name="Archaeopter Stratoraptor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dcef-fa88-da3b-dced" name="Archaeopter Transvector" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f921-dc34-260e-384a" name="Belisarius Cawl" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="54eb-2776-4a86-497d" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="185.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ff79-4411-caaa-487d" name="Corpuscarii Electro-Priests" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="5cb2-b6d0-4437-020c" name="5 Corpuscarii Electro-Priests" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="93d5-0629-2302-c3a2" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e4aa-01fb-47b6-196a" name="Cybernetica Datasmith" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="c3a5-905d-1064-3c0a" name="Rad-Cohort" hidden="false" collective="false" import="true" targetId="6c48-ccd1-a161-7cda" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9796-e370-fe56-2fd9" name="Fulgurite Electro-Priests" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1574-785b-ed62-873e" name="5 Fulgurite Electro-Priests" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4299-64ca-e5fa-8e75" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9076-3eb0-a53f-9136" name="Ironstrider Ballistarii" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="8942-9d40-96c5-0a43" name="1 Ironstrider Ballistarii" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2391-7b98-5a25-cdf7" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8b58-90ab-0e40-339f" name="Kastelan Robots" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="cbf2-49a2-22d7-8114" name="2 Kastelan Robots" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cf16-c5f2-6ef6-45ec" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6b4a-e4e1-b0b5-024e" name="Kataphron Breachers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="e1ff-6408-355d-f836" name="3 Kataphron Breachers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="88ce-7740-60c1-efbd" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b2c3-bbd5-fa2b-042a" name="Kataphron Destroyers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="a7da-12fb-70c1-a54e" name="3 Kataphron Destroyers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9cf6-673d-316f-65c6" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bd29-cd81-2ee6-afb5" name="Onager Dunecrawler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2671-d262-59dd-e23e" name="Pteraxii Skystalkers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="5ffd-5c4e-2d21-fee4" name="5 Pteraxii Skystalkers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="210a-4965-c614-bd2c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9587-2aef-16ce-ff29" name="Pteraxii Sterylizors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="7554-bf1b-742c-4879" name="5 Pteraxii Sterylizors" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c2ef-65a2-db05-af83" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8648-0b2f-bc2c-48fa" name="Serberys Raiders" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="749a-0d96-a410-e888" name="Serberys Raiders" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="daf0-f886-cb5d-fff0" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="24e0-c2a1-e549-cf20" name="Serberys Sulphurhounds" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1cbd-8030-5b05-4c26" name="Serberys Sulphurhounds" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="662f-19a5-1c22-19ae" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d04f-d84e-9a7a-3369" name="Servitors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4182-4bc0-4c31-d6f5" name="Sicarian Infiltrators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="ab77-f7b6-3440-124d" name="5 Sicarian Infiltrators" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e860-86db-d665-000c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8902-2de2-b283-9a54" name="Sicarian Ruststalkers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="74ec-fb9c-ff1c-ca51" name="5 Sicarian Ruststalkers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="078d-f448-ca4e-fd27" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5479-8512-0389-95fe" name="Skitarii Marshal" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="68b4-954d-18e8-8cf0" name="Rad-Cohort" hidden="false" collective="false" import="true" targetId="6c48-ccd1-a161-7cda" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="07c4-a5ac-2bad-f93d" name="Skitarii Rangers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d0d9-b0f3-0a73-6c91" name="Skitarii Vanguard" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b343-2702-a84c-e3a0" name="Skorpius Disintegrator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a4df-8a3e-d500-1838" name="Skorpius Dunerider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dae6-2364-4671-f5df" name="Sydonian Dragoons" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="48cf-cb91-e686-1024" name="1 Sydonian Dragoon" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="34d5-0eb0-d21e-e2d7" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c9a7-716d-bb23-f29c" name="Tech-Priest Dominus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="4791-8d18-d805-cfea" name="Rad-Cohort" hidden="false" collective="false" import="true" targetId="6c48-ccd1-a161-7cda" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a3a3-a7d9-9f42-b776" name="Tech-Priest Enginseer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="9bf4-a075-c7a8-0080" name="Rad-Cohort" hidden="false" collective="false" import="true" targetId="6c48-ccd1-a161-7cda" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="336b-8550-7c50-00e3" name="Tech-Priest Manipulus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="d6d5-d14a-75dc-450a" name="Rad-Cohort" hidden="false" collective="false" import="true" targetId="6c48-ccd1-a161-7cda" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2fde-7bcf-06f3-5661" name="Technoarcheologist" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="49a9-05aa-4705-1fc9" name="Rad-Cohort" hidden="false" collective="false" import="true" targetId="6c48-ccd1-a161-7cda" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="6c48-ccd1-a161-7cda" name="Rad-Cohort" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fba3-829f-e6e2-5b06" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="c881-2626-33cb-4979" name="Archived Purge Protocols" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a339-e658-1f55-d02f" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="87da-9495-ba52-7f85" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="10.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="a4a8-037f-bd5e-60e5" name="Excoriating Emanation" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9271-2663-be84-4991" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1ead-07c1-adfe-bebe" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="a643-2968-d9ec-caf4" name="Master Annihilator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4459-dfca-e0a0-c2f9" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7c4c-6771-b404-c22a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="35.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2d21-f473-ab08-d79d" name="Omni-steriliser" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5f6d-7501-a992-719c" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="197a-4953-705c-bae0" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

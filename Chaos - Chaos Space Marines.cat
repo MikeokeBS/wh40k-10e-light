@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="8041-cf3b-419b-66e4" name="Chaos - Chaos Space Marines" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="30a6-a599-c20a-0956" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a514-8296-ae0e-2543" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="97b1-7004-34aa-f698" name="Abaddon the Despoiler" hidden="false" collective="false" import="true" targetId="7fcf-d5aa-1996-1cab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="774b-475b-3d9f-ad2d" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="fd22-1fd5-ba61-240f" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="436b-2fb1-3a90-7433" name="Haarken Worldclaimer" hidden="false" collective="false" import="true" targetId="015f-ddd6-2507-096a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0d19-d14d-0b57-2967" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+        <categoryLink id="ad0c-40b6-605b-fedf" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2a79-bba9-b0e7-7c6a" name="Huron Blackheart" hidden="false" collective="false" import="true" targetId="0436-0518-c238-9351" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1577-f93e-3694-5d07" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="52f6-dde9-7fb1-fad9" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="03e4-ad26-0a9b-6fe0" name="Heretic Astartes Daemon Prince" hidden="false" collective="false" import="true" targetId="e1c2-1726-22d9-c5a4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5c9c-ae60-2985-d868" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="929e-7a19-2f85-657f" name="Heretic Astartes Daemon Prince with Wings" hidden="false" collective="false" import="true" targetId="d536-9193-ac18-de58" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="36c4-8714-93d1-207f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3254-d0df-67e1-8d18" name="Fabius Bile" hidden="false" collective="false" import="true" targetId="ad96-ffc5-b32f-3b74" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="585e-241a-5279-b381" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="1509-03cc-e96e-0d6e" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5c87-4922-6f78-ab6c" name="Cypher" hidden="false" collective="false" import="true" targetId="22fa-767c-c4e9-5ce5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8ae4-bae6-2c33-fa48" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="c71c-731a-71b7-5452" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="49cd-b39f-192a-ca6c" name="Master of Possession" hidden="false" collective="false" import="true" targetId="3842-7048-5e97-ceaa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9f1b-01aa-1b12-7cb1" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="85f6-053f-8db6-cd40" name="Chaos Lord" hidden="false" collective="false" import="true" targetId="919b-e859-8a7f-5ab3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6e3b-9eec-3186-48f9" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="49d3-7fa3-ba44-b72b" name="Chaos Lord in Terminator Armour" hidden="false" collective="false" import="true" targetId="6b81-9bc3-91a7-6a64" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="68b5-c819-a14e-ca95" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="82f4-79e3-cc4b-6b2a" name="Sorcerer" hidden="false" collective="false" import="true" targetId="fb7f-20eb-a4b5-cced" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f9b8-d121-69bd-cdbb" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c62f-66e6-96dc-4fb1" name="Sorcerer in Terminator Armour" hidden="false" collective="false" import="true" targetId="cbeb-5243-d96b-538e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a3e6-7d26-ef6f-9a34" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ca42-09d2-bc26-1c56" name="Lucius the Eternal" hidden="false" collective="false" import="true" targetId="ece9-0265-7faf-4ede" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="614c-34d3-dbfa-a2d7" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="a169-41e5-bfa6-000c" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b65b-6716-658a-edea" name="Lord Discordant on Helstalker" hidden="false" collective="false" import="true" targetId="d297-64ce-7604-c470" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8820-ca2d-e574-371a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ae4b-561f-25ef-66cf" name="Warpsmith" hidden="false" collective="false" import="true" targetId="21eb-2c21-29c7-b80b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8af1-6918-ee80-f8d0" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="927b-a05d-821c-03e1" name="Exalted Champion" hidden="false" collective="false" import="true" targetId="f451-4b46-e5ab-c550" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0147-85c6-5081-28f2" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cc1c-8f1a-176e-223d" name="Dark Apostle" hidden="false" collective="false" import="true" targetId="b9f2-3660-9ada-26f3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="70d4-335c-b732-1ab1" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7cb1-61e8-d7c8-fb9a" name="Dark Commune" hidden="false" collective="false" import="true" targetId="0960-adec-db34-d199" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b7aa-b99c-b2ce-296b" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c0b4-88f9-6490-c3c7" name="Legionaries" hidden="false" collective="false" import="true" targetId="1496-27ad-fdf7-91f4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c626-9024-fb44-45df" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1da8-28b6-c062-8293" name="Cultist Mob" hidden="false" collective="false" import="true" targetId="3d92-6ddd-e8f0-c1f1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4de0-0ebf-1656-7002" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="adde-f9c6-2335-7e99" name="Accursed Cultists" hidden="false" collective="false" import="true" targetId="db16-d48b-e40b-8b42" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ace2-966f-1588-9b1a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2869-5edc-49d7-4822" name="Chaos Terminator Squad" hidden="false" collective="false" import="true" targetId="add7-7930-4649-7087" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5477-199c-4b50-e375" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e2e9-33e0-c4c4-6780" name="Master of Executions" hidden="false" collective="false" import="true" targetId="6ac0-6cec-e0d4-a383" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e58c-a7a3-592e-c9c8" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e745-2e86-78f5-909b" name="Possessed" hidden="false" collective="false" import="true" targetId="f157-de19-e085-4ce2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d9f8-86ea-b215-9a88" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8d9c-7fb0-09c8-1d0d" name="Chosen" hidden="false" collective="false" import="true" targetId="543c-3866-886d-cef4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e0b0-f5ff-e72e-7dbc" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9a5d-8b7c-3b87-bbe0" name="Noise Marines" hidden="false" collective="false" import="true" targetId="db42-12b1-31be-7333" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="877a-46d2-1b4f-9d3a" name="New CategoryLink" hidden="false" targetId="f366-37c5-868e-072b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6325-e1d1-8324-c81c" name="Khorne Berzerkers" hidden="false" collective="false" import="true" targetId="1a51-971b-565a-96ff" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e9cc-3341-71f6-b7b5" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f807-c884-27cf-462f" name="Rubric Marines" hidden="false" collective="false" import="true" targetId="abc7-ff06-9d18-8bc1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c4ab-1c3f-c625-30e6" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0177-02d4-2ea2-80f0" name="Plague Marines" hidden="false" collective="false" import="true" targetId="b374-d8a3-163e-4b87" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f0eb-6740-b97e-e445" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c8ea-ed49-83ed-e6db" name="Venomcrawler" hidden="false" collective="false" import="true" targetId="01be-2630-c0b9-6e61" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b7cd-4551-2bab-601a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5b27-a4d9-6698-8631" name="Chaos Bikers" hidden="false" collective="false" import="true" targetId="ea46-4c65-66e4-d6d1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d940-4997-30f8-01ec" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3015-fe10-323f-08b6" name="Raptors" hidden="false" collective="false" import="true" targetId="c42c-4551-befb-00ec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6c73-34aa-0eb3-5b7f" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="48ab-902d-064f-0c3f" name="Warp Talons" hidden="false" collective="false" import="true" targetId="4afb-a055-81c4-d558" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="014a-33e3-d051-f2b4" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5909-9cb0-a02f-feea" name="Havocs" hidden="false" collective="false" import="true" targetId="c81e-5a7d-209d-6aaf" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d1fd-2ddc-2260-2fbc" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a356-bc27-37a4-e2a1" name="Obliterators" hidden="false" collective="false" import="true" targetId="1eed-e227-a98b-3d5c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2d06-8136-5727-b6d4" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9d68-919c-870f-31dc" name="Chaos Land Raider" hidden="false" collective="false" import="true" targetId="f9b5-7426-7ff4-26a9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4354-3efe-a35a-dbfb" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7609-75a6-9c80-beab" name="Chaos Predator Annihilator" hidden="false" collective="false" import="true" targetId="6c96-e5a0-5111-7249" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6a03-71f0-4cde-8347" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cf05-4a21-5098-a502" name="Chaos Predator Destructor" hidden="false" collective="false" import="true" targetId="6ec6-8b0e-1a56-06c4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9ca4-e7d9-c673-015a" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="40db-e784-8043-a94b" name="Chaos Vindicator" hidden="false" collective="false" import="true" targetId="8cec-5749-7b65-b726" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7878-e213-5a8f-20f3" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7d2d-d4e6-6645-9c37" name="Defiler" hidden="false" collective="false" import="true" targetId="e752-cdff-aca9-5da4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7733-b7a0-e981-ab20" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="24e1-3b98-b19a-9cdc" name="Forgefiend" hidden="false" collective="false" import="true" targetId="0608-6911-44e1-3d01" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fef0-82c9-e735-7eff" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a6f2-4771-35ac-520c" name="Helbrute" hidden="false" collective="false" import="true" targetId="0003-1dfa-cb13-f7f2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ea06-64bc-db13-3dee" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bcfb-64b6-515b-73f9" name="Heldrake" hidden="false" collective="false" import="true" targetId="2229-373c-334c-02ab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1366-9279-06f5-19c3" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5a73-0ca7-69d9-3f19" name="Maulerfiend" hidden="false" collective="false" import="true" targetId="8553-bc4d-036b-9055" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="469b-5bcf-3b4c-86d9" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="239d-11b3-165d-a94d" name="Chaos Rhino" hidden="false" collective="false" import="true" targetId="95c7-80aa-0570-5a60" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0acd-92aa-cda4-0a36" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c12b-9c4c-d9a7-7251" name="Chaos Spawn" hidden="false" collective="false" import="true" targetId="a3ea-4010-6608-95d3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bf32-0d56-6b18-b9a9" name="New CategoryLink" hidden="false" targetId="2c1a-e7d4-3c6b-dbc3" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a597-4966-8657-6867" name="Khorne Lord of Skulls" hidden="false" collective="false" import="true" targetId="a176-3c5c-29d0-a604" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="78c3-d678-87c5-8427" name="New CategoryLink" hidden="false" targetId="541e-c6f4-5c40-45ec" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a3cd-feac-0fa3-15b3" name="Noctilith Crown" hidden="false" collective="false" import="true" targetId="ae2c-0a3e-08c7-3090" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1932-1b8c-ab1c-7a52" name="New CategoryLink" hidden="false" targetId="56a8-7143-031e-072a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e546-d75d-592e-b14e" name="Vashtorr the Arkifane" hidden="false" collective="false" import="true" targetId="f408-3331-fb44-bacb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="08e2-ccab-f9c5-d735" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3f03-1bd6-bb60-7252" name="Traitor Guardsmen Squad" hidden="false" collective="false" import="true" targetId="d8fe-0467-676a-ac2b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0fa4-ed6d-5418-df36" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="633b-bc1b-babb-ee0a" name="Fellgor Beastmen" hidden="false" collective="false" import="true" targetId="fb6f-3ca6-0559-a6d8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bba2-4b9f-6730-75a1" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9e42-0448-ba4a-681f" name="Traitor Enforcer" hidden="false" collective="false" import="true" targetId="a4d4-1f5b-c7b3-2641" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3e40-604b-a075-ed4a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="7fcf-d5aa-1996-1cab" name="Abaddon the Despoiler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7e29-2e38-fbaa-80bd" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="280.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="db16-d48b-e40b-8b42" name="Accursed Cultists" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="08e9-3044-857d-d882" name="8 Accursed Cultists" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a1c2-bc5d-9c13-1225" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ea46-4c65-66e4-d6d1" name="Chaos Bikers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="c894-57e0-9014-b431" name="3 Chaos Bikers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d406-4c1c-702d-8ab9" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="2b5a-fed3-b3d4-f18a" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f9b5-7426-7ff4-26a9" name="Chaos Land Raider" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="4f98-b196-7b93-a849" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="255.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="919b-e859-8a7f-5ab3" name="Chaos Lord" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="dcad-a2c5-33c0-210f" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="7911-eb7a-aa74-1ca1" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6b81-9bc3-91a7-6a64" name="Chaos Lord in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="dd97-9ce6-5dbe-be09" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="4750-109d-879d-7454" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6c96-e5a0-5111-7249" name="Chaos Predator Annihilator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="c23a-ac0a-044a-7b68" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6ec6-8b0e-1a56-06c4" name="Chaos Predator Destructor" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="032c-27ce-0da9-e941" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="95c7-80aa-0570-5a60" name="Chaos Rhino" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="e8de-d971-1193-3cd5" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a3ea-4010-6608-95d3" name="Chaos Spawn" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="8f85-d942-9ef2-13b6" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="add7-7930-4649-7087" name="Chaos Terminator Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1138-26f7-9d62-a57e" name="5 Chaos Terminators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bace-2077-c07b-46c8" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="928e-77cb-2a69-504b" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8cec-5749-7b65-b726" name="Chaos Vindicator" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="65c1-5c0f-ae98-a8c8" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="210.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="543c-3866-886d-cef4" name="Chosen" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="edd5-713e-1f4d-53fd" name="5 Chosen" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="93f5-7f28-c7e8-f56a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="6412-7803-716f-1188" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3d92-6ddd-e8f0-c1f1" name="Cultist Mob" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6588-7aa9-f308-f8c0" name="10 Cultists" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b7cc-9fdc-f842-e21d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="a40f-4a78-a009-66d1" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="22fa-767c-c4e9-5ce5" name="Cypher" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1402-55e8-12fb-a61e" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b9f2-3660-9ada-26f3" name="Dark Apostle" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="adb7-2185-74a9-ed9f" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="0d99-0cd3-4eca-7803" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0960-adec-db34-d199" name="Dark Commune" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="3b36-9c57-7b37-8754" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="9d1a-18dc-a0df-21ee" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e752-cdff-aca9-5da4" name="Defiler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="d242-5cd5-dd6d-8e0a" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="210.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f451-4b46-e5ab-c550" name="Exalted Champion" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ff3e-f92d-6e22-c1ef" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="d435-a601-669c-a7b8" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ad96-ffc5-b32f-3b74" name="Fabius Bile" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e83a-8023-d36b-5ed7" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fb6f-3ca6-0559-a6d8" name="Fellgor Beastmen" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="035b-6db3-69b6-5644" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0608-6911-44e1-3d01" name="Forgefiend" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="13a1-e74a-c703-f0d9" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="015f-ddd6-2507-096a" name="Haarken Worldclaimer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b377-4cb1-7683-edd2" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="120.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c81e-5a7d-209d-6aaf" name="Havocs" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="8b20-b7aa-442e-d530" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0003-1dfa-cb13-f7f2" name="Helbrute" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="a31d-d331-093e-036f" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2229-373c-334c-02ab" name="Heldrake" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="fdd0-f957-0f1c-0bc0" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="205.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e1c2-1726-22d9-c5a4" name="Heretic Astartes Daemon Prince" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="aa05-6099-da14-b421" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="c730-b590-8a44-82d8" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d536-9193-ac18-de58" name="Heretic Astartes Daemon Prince with Wings" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="31ed-6cc7-8dfb-1ab7" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="8a34-b6e2-d4d7-ad74" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0436-0518-c238-9351" name="Huron Blackheart" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4f7e-23fb-84de-043e" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a176-3c5c-29d0-a604" name="Khorne Lord of Skulls" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="480.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1496-27ad-fdf7-91f4" name="Legionaries" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="e8be-dcb9-fe69-8b2f" name="5 Legionaries" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4a89-c508-97c6-45ed" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="a002-4af7-9464-25c5" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d297-64ce-7604-c470" name="Lord Discordant on Helstalker" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="8cb9-8f42-a797-ad61" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="132a-3b60-cb69-1785" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ece9-0265-7faf-4ede" name="Lucius the Eternal" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="382f-6f20-617f-0f0f" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6ac0-6cec-e0d4-a383" name="Master of Executions" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="9a3b-e3e4-479a-855b" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="ae40-1f52-be48-2b3f" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3842-7048-5e97-ceaa" name="Master of Possession" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="e48b-edf6-4780-88d9" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="fa25-6da4-0200-0585" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8553-bc4d-036b-9055" name="Maulerfiend" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="84b5-e584-c2c9-f9c2" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ae2c-0a3e-08c7-3090" name="Noctilith Crown" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="db42-12b1-31be-7333" name="Noise Marines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="7ab4-d036-2a40-0ab4" name="5 Noise Marines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e766-0b02-48cc-ec7f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1eed-e227-a98b-3d5c" name="Obliterators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="97d2-6a14-7f3f-919a" name="2 Obliterators" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f271-4279-9f45-a352" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="160.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="5471-c9be-07f1-d15d" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f157-de19-e085-4ce2" name="Possessed" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="0dc8-07e5-4549-b3cc" name="5 Possessed" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2d4c-c18c-1a8c-4b66" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="145.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="09c7-1a5c-43d2-ba49" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c42c-4551-befb-00ec" name="Raptors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="5fe5-d0bd-5ec5-5988" name="5 Raptors" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3354-0981-391e-8b1c" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="06dc-548a-0b52-00de" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fb7f-20eb-a4b5-cced" name="Sorcerer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ebdd-fd8d-8f1d-6a9b" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="c3ec-484c-351b-2e1c" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cbeb-5243-d96b-538e" name="Sorcerer in Terminator Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="835b-daa8-7ced-73af" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="df92-7df0-f003-a2c2" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a4d4-1f5b-c7b3-2641" name="Traitor Enforcer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="cb93-33f5-8177-e915" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="16ad-7333-01af-5620" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d8fe-0467-676a-ac2b" name="Traitor Guardsmen Squad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="7c10-d180-3c9c-83b9" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f408-3331-fb44-bacb" name="Vashtorr the Arkifane" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e29a-069d-0fea-5bd1" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="225.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="01be-2630-c0b9-6e61" name="Venomcrawler" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="592b-ed45-29f1-c257" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="140.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4afb-a055-81c4-d558" name="Warp Talons" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+      <selectionEntries>
+        <selectionEntry id="1980-863d-fb15-bae8" name="5 Warp Talons" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7565-58fe-6ff5-4756" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="130.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="3b22-6002-0353-2b7b" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="21eb-2c21-29c7-b80b" name="Warpsmith" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="7c52-0a6b-8065-f486" name="Mark of Chaos" hidden="false" collective="false" import="true" targetId="cbc7-d56f-4cde-7dd4" type="selectionEntryGroup"/>
+        <entryLink id="c881-8ede-843d-4c04" name="Slaves to Darkness" hidden="false" collective="false" import="true" targetId="e4b6-cbbb-a4a0-1b68" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1a51-971b-565a-96ff" name="Khorne Berzerkers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="f826-bf51-b444-dc97" name="5 Khorne Berzerkers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7c11-23eb-2a5d-5736" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="abc7-ff06-9d18-8bc1" name="Rubric Marines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="23b6-cb39-d05a-cee2" name="5 Rubric Marines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f613-eeaa-c037-a06d" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b374-d8a3-163e-4b87" name="Plague Marines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="b83d-39c9-b063-f321" name="5 Plague Marines" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a4aa-9f51-721a-7654" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="e4b6-cbbb-a4a0-1b68" name="Slaves to Darkness" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="561d-d15d-1a26-8d2f" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="8508-30ce-801d-64f1" name="Eye of Tzeentch" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bb2f-934d-ceba-7ccf" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="83f6-05ab-e145-b6d9" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="30.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="9b0b-5353-14a2-101e" name="Intoxicating Elixir" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="55b5-126f-bda2-a39f" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="36c9-b51d-8540-0d3b" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="874b-9089-99c8-2d8d" name="Liber Hereticus" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2bf7-21bd-f3d4-f668" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0c30-3c2e-5ee0-4852" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="40.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="8ed9-d14c-b725-dad5" name="Orbs of Unlife" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="39f4-c45d-c97b-8b4b" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6f3c-805b-46d3-e410" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ae3d-4222-c0ec-8c79" name="Talisman of Burning Blood" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5ab8-2791-20bf-f938" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a4e6-7147-7ea7-c0b0" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="cbc7-d56f-4cde-7dd4" name="Mark of Chaos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="26ae-fb2a-a3cf-849d" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="00ba-00b1-8b86-c5fc" name="Khorne" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ca3c-6d78-3ea3-af10" name="Tzeentch" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="fb9d-fd61-4751-8af3" name="Nurgle" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="c0d8-ca58-daa7-3d7c" name="Slaanesh" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="c2f6-a0ce-3782-0e7f" name="Chaos Undivided" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="upgrade">
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>

@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="da04-4f7b-739f-59cd" name="Xenos - Orks" revision="2" battleScribeVersion="2.03" authorName="Mike Oke" library="false" gameSystemId="a8f6-dd2e-ea3b-1511" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="90cd-b18e-995e-33c4" name="Battle Size" hidden="false" collective="false" import="true" targetId="9f26-de51-fad4-5cec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4996-479f-a98e-48c3" name="New CategoryLink" hidden="false" targetId="19b8-16e6-407b-cc4d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="feec-39ab-154b-8c3a" name="Battlewagon" hidden="false" collective="false" import="true" targetId="ca15-833e-2e06-bd09" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7f5b-b0ee-c611-497a" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0a29-35ea-bc8a-554a" name="Beast Snagga Boyz" hidden="false" collective="false" import="true" targetId="f9fc-0fb9-7e77-43ab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a49a-7d4d-0132-e5b2" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6156-08ad-8b1e-8b0f" name="Beastboss" hidden="false" collective="false" import="true" targetId="7104-43b8-eaa1-7b77" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3f6f-82b5-13ce-a8df" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="512a-5975-5f78-276d" name="Beastboss on Squigosaur" hidden="false" collective="false" import="true" targetId="96d2-de62-f421-e696" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ef49-da47-136f-7703" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e27b-519f-04b6-834f" name="Big Mek in Mega Armour" hidden="false" collective="false" import="true" targetId="361c-c063-a251-337c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="eeb9-74dc-b0c0-df44" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="128a-137b-c6b4-7bbe" name="Big Mek with Kustom Force Field" hidden="false" collective="false" import="true" targetId="0b56-538e-ffb7-da88" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0611-5d5a-b2ff-4dc2" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cf0c-9399-7077-1388" name="Big Mek with Shokk Attack Gun" hidden="false" collective="false" import="true" targetId="c1f4-e743-30dd-a788" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ee8b-e2b9-ac93-8121" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="162d-0570-934a-8b32" name="Big’ed Bossbunka" hidden="false" collective="false" import="true" targetId="2087-0435-961c-e417" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9da9-96bc-aaff-00ff" name="New CategoryLink" hidden="false" targetId="56a8-7143-031e-072a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e4e3-4ea0-f527-bdef" name="Blitza-bommer" hidden="false" collective="false" import="true" targetId="a8eb-6bd2-1145-df6d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="eb9e-2837-d471-e685" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f16a-3b13-7b07-2456" name="Boomdakka Snazzwagon" hidden="false" collective="false" import="true" targetId="80ca-6a14-33f4-492b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="df29-35ef-6a30-e74f" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2e69-431e-4d21-b532" name="Boss Snikrot" hidden="false" collective="false" import="true" targetId="96ed-8177-9bb6-e43c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b451-a397-7542-37a9" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="8c22-e316-35f8-d271" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="da1d-8f3a-cf01-a744" name="Boss Zagstruk" hidden="false" collective="false" import="true" targetId="ed9a-c9bc-a1bb-998d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f46c-70de-54cb-c1c4" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="d117-6a90-fe84-75d1" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7e84-6bbf-5d19-a25c" name="Boyz" hidden="false" collective="false" import="true" targetId="6f50-da28-b393-8ebc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2b0c-18b5-2009-fbec" name="New CategoryLink" hidden="false" targetId="e396-eadd-d5ee-cec8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="07b4-298e-ad17-9c0e" name="Burna Boyz" hidden="false" collective="false" import="true" targetId="d094-787a-80b9-fead" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="69f4-5c97-9b9a-8cb4" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1034-78df-7665-25cf" name="Burna-bommer" hidden="false" collective="false" import="true" targetId="36c2-08f9-b51e-b567" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6b5b-fdd3-bf2b-a113" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0367-59de-4a74-6dd4" name="Dakkajet" hidden="false" collective="false" import="true" targetId="0d83-edc1-2ad2-4870" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6bff-69d4-de61-626e" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5e22-e5dc-2731-9c09" name="Deff Dread" hidden="false" collective="false" import="true" targetId="2174-d50d-a6c8-95d4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2550-7739-e112-ea95" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fa6e-2e42-5e08-87f1" name="Deffkilla Wartrike" hidden="false" collective="false" import="true" targetId="9b9a-3afe-cc1c-9f7d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ed69-c7ca-fecc-5a6a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c410-ef43-f8a3-8a25" name="Deffkoptas" hidden="false" collective="false" import="true" targetId="af9f-51ba-8213-e98d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fa1e-b45b-374d-5ba8" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c8d0-b491-359d-9bca" name="Flash Gitz" hidden="false" collective="false" import="true" targetId="e084-b04d-3d9b-c8fd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8798-873d-a5be-a44b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6288-b3f6-543c-4a08" name="Ghazghkull Thraka" hidden="false" collective="false" import="true" targetId="c96e-8a7c-f5da-3950" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6129-9ec2-8532-8f18" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="8a0b-9dc7-fa64-9242" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1b8a-1f96-f4a4-171e" name="Gorkanaut" hidden="false" collective="false" import="true" targetId="0b86-c104-37c8-2faa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d1bf-28d8-4b63-b115" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="11dc-b394-08d2-1089" name="Gretchin" hidden="false" collective="false" import="true" targetId="e477-0fb8-f65d-2cd8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b2cb-caf9-2d64-9b7a" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="addc-2403-fdea-cafe" name="Hunta Rig" hidden="false" collective="false" import="true" targetId="9b4d-bd1b-b685-613e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b44f-d0c8-7eff-4fba" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c641-6960-e4b1-b517" name="Kaptin Badrukk" hidden="false" collective="false" import="true" targetId="5145-fa5a-5f1c-cb6f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1742-5bce-251d-915a" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="ec91-fed7-3e1e-dd31" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9e67-23ba-4e1d-80b6" name="Kill Rig" hidden="false" collective="false" import="true" targetId="5a84-2266-c91b-b6aa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="19b3-9f0e-02f0-0741" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="af3d-0952-9d91-d800" name="Killa Kans" hidden="false" collective="false" import="true" targetId="094e-750f-88e2-ebbb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3ddb-73ad-0e95-9251" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d73e-4946-32b8-19b6" name="Kommandos" hidden="false" collective="false" import="true" targetId="64a8-0877-a1d4-27c8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="405a-5e76-b5eb-ffb3" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="399b-4e2b-2061-f84d" name="Kustom Boosta-blasta" hidden="false" collective="false" import="true" targetId="c885-d916-f42d-87a3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2046-947f-741d-4f97" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="20ae-cde3-c8b3-52d1" name="Lootas" hidden="false" collective="false" import="true" targetId="2dd4-c95f-dd19-ffe3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="53e4-2670-0f79-580b" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f60e-b16b-bfcf-60be" name="Mad Dok Grotsnik" hidden="false" collective="false" import="true" targetId="74c9-06f3-5ed4-fc84" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5a59-6f26-1d86-83be" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="17cb-5dce-79ff-43f5" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="25bb-50ce-5231-f444" name="Meganobz" hidden="false" collective="false" import="true" targetId="cf75-6bdc-bc64-700a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="911a-689b-79aa-7cf5" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0322-c8c6-3675-48b2" name="Megatrakk Scrapjet" hidden="false" collective="false" import="true" targetId="4ce4-4538-3f3c-4b8d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f99e-3e64-b371-3573" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="61da-0277-cbaa-a1b5" name="Mek" hidden="false" collective="false" import="true" targetId="5f3d-a58d-3295-f613" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a002-85a1-00a6-39bb" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="188f-7006-e520-4c3b" name="Mek Gunz" hidden="false" collective="false" import="true" targetId="3e32-ed15-5e83-f0ed" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d4a3-15fe-a26d-2e8b" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="397c-af64-c50f-5344" name="Mekboy Workshop" hidden="false" collective="false" import="true" targetId="64a9-5687-773f-a87c" type="selectionEntry"/>
+    <entryLink id="0615-e19e-1c54-72f5" name="Morkanaut" hidden="false" collective="false" import="true" targetId="d592-df31-16ad-3b3f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="15ca-4bb1-2625-f7b4" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="688f-5eed-2746-338b" name="Mozrog Skragbad" hidden="false" collective="false" import="true" targetId="acea-00b6-ae39-b317" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f385-7fb3-8bb0-7f0f" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="98ee-06ce-4808-4124" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9d90-e36c-a065-e830" name="Nob on Smasha Squig" hidden="false" collective="false" import="true" targetId="b8b2-a2b9-e0eb-584a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ad8b-bc4f-338c-d07a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="82cf-2a6f-fd0f-8a20" name="Nobz" hidden="false" collective="false" import="true" targetId="ede8-f8d2-658e-e836" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="906a-8c27-9ebf-7d6c" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f57d-2779-364e-2572" name="Nob with Waaagh! Banner" hidden="false" collective="false" import="true" targetId="2f3e-e6b4-484a-e150" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2321-a11d-534a-882d" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7369-ae8b-f0e2-b627" name="Painboss" hidden="false" collective="false" import="true" targetId="2a23-a9f9-7af9-3c49" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ef6e-c8c8-8a68-6d2a" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f2bb-2d07-c95d-d843" name="Painboy" hidden="false" collective="false" import="true" targetId="e895-097c-025d-ff98" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c593-7919-38ca-3895" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4874-363b-c4db-3df9" name="Rukkatrukk Squigbuggy" hidden="false" collective="false" import="true" targetId="7725-8ca5-24bc-8954" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b043-da4d-f67c-d47d" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9419-4ab3-367b-4ff9" name="Shokkjump Dragsta" hidden="false" collective="false" import="true" targetId="397c-1f3d-e733-6ae2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="62c8-4a30-1cfd-a798" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </entryLink>
+    <entryLink id="815d-aac5-5181-d7fc" name="Squighog Boyz" hidden="false" collective="false" import="true" targetId="5040-0f4f-122d-c381" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ac91-af06-862f-7eb1" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="553a-49eb-ec52-2927" name="Stompa" hidden="false" collective="false" import="true" targetId="939f-7f1d-3c09-f839" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="365c-e9f5-7f60-9e1c" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f1b4-eb53-ebe4-a939" name="Stormboyz" hidden="false" collective="false" import="true" targetId="6716-7f89-dfed-815b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="377b-4a8a-6b99-7717" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b1a6-c832-ebe1-5afe" name="Tankbustas" hidden="false" collective="false" import="true" targetId="8f85-4ad4-3ee1-86bd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="652d-1f4e-73eb-aaca" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="21ff-41f2-709a-23a9" name="Trukk" hidden="false" collective="false" import="true" targetId="3b63-3013-a45e-95f1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1a1f-df33-f10a-ea87" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="85a4-7d34-3981-f803" name="Warbikers" hidden="false" collective="false" import="true" targetId="37f4-832c-eb38-9ca2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0cea-6aa7-86a9-2f0d" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5e4d-e495-efb3-e41f" name="Warboss" hidden="false" collective="false" import="true" targetId="137e-7fe8-2361-22d4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="96ca-355f-0e2f-d5e4" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="06ab-adf5-0478-6ba7" name="Warboss in Mega Armour" hidden="false" collective="false" import="true" targetId="f48f-30f3-87e2-4fd4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="518e-fb8c-76ba-be2f" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ea6f-1427-5ee1-e7ba" name="Wazbom Blastajet" hidden="false" collective="false" import="true" targetId="d6cf-8995-8dc2-beaa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6980-ce76-c3c4-8ad2" name="New CategoryLink" hidden="false" targetId="539f-1ed0-2d90-599a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bbef-07e9-3edd-4be1" name="Weirdboy" hidden="false" collective="false" import="true" targetId="d7d9-730a-6b87-5eeb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6cee-c60d-247a-0ce3" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="67cf-643b-bf03-70b6" name="Wurrboy" hidden="false" collective="false" import="true" targetId="4f7c-5098-b4fd-4a76" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="aca5-f8b0-5573-5b12" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d9b9-2c6f-ca7a-7aed" name="Zodgrod Wortsnagga" hidden="false" collective="false" import="true" targetId="af8b-b068-631c-72a7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d207-abac-26d6-8183" name="New CategoryLink" hidden="false" targetId="852e-c795-2e7d-b332" primary="true"/>
+        <categoryLink id="0d40-696e-ee1c-2e3b" name="Character" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="false"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6aef-c08f-2022-0fb5" name="Big Trakk" hidden="false" collective="false" import="true" targetId="05cd-86a9-2b78-8dbe" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fea2-8aea-8176-0b6b" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5e82-3d66-bc76-4a70" name="Grot Mega-tank" hidden="false" collective="false" import="true" targetId="774c-7520-690f-a24a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5d60-1993-7762-7240" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="41b4-f4da-46d6-bab3" name="Grot Tanks" hidden="false" collective="false" import="true" targetId="fcf1-8f2f-007a-b820" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4ec5-a485-5d10-5ac8" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="81b8-4f1d-5fff-e4c7" name="Gargantuan Squiggoth" hidden="false" collective="false" import="true" targetId="f728-91b5-c70d-7f75" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7056-33a3-86a5-66f1" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e998-acf7-902d-2bfa" name="Kill Tank" hidden="false" collective="false" import="true" targetId="162d-3b43-a667-7510" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="af99-2f83-1ccc-54ca" name="New CategoryLink" hidden="false" targetId="3fa2-503f-eaa0-1827" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7abb-1b80-6741-725e" name="Mega Dread" hidden="false" collective="false" import="true" targetId="6867-ec62-4f82-206e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d412-1e8d-9b8f-73e7" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6d2e-4653-fbd8-2f63" name="Meka-dread" hidden="false" collective="false" import="true" targetId="c4a7-d501-1905-54cd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8c53-d177-cea5-8297" name="New CategoryLink" hidden="false" targetId="bda2-b32a-3f5b-862e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9fcc-d75b-1c82-0998" name="Nobz on Warbikes" hidden="false" collective="false" import="true" targetId="f48b-140f-174a-d9e7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c8d9-f75a-fde3-6359" name="New CategoryLink" hidden="false" targetId="b91a-4073-57e9-607b" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7ba5-4626-645c-4ff6" name="Squiggoth" hidden="false" collective="false" import="true" targetId="c3a5-0d15-fb3b-9bba" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="62b2-ca0b-0154-1d5c" name="New CategoryLink" hidden="false" targetId="4c72-75fb-cc79-7b8d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4300-ec03-ec6c-a3bd" name="Warboss on Warbike" hidden="false" collective="false" import="true" targetId="638b-4997-a815-2fbb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5f97-3284-dc64-9078" name="New CategoryLink" hidden="false" targetId="2bc4-8c19-bc7b-a70d" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="ca15-833e-2e06-bd09" name="Battlewagon" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="185.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7104-43b8-eaa1-7b77" name="Beastboss" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="adcc-3313-ff7c-3e56" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="96d2-de62-f421-e696" name="Beastboss on Squigosaur" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="b866-855c-8f32-3a3e" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="361c-c063-a251-337c" name="Big Mek in Mega Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ba28-aa52-451a-b95f" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0b56-538e-ffb7-da88" name="Big Mek with Kustom Force Field" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="ebbd-07cd-c5d6-3bc4" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c1f4-e743-30dd-a788" name="Big Mek with Shokk Attack Gun" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="01cc-0f8f-8602-9859" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2087-0435-961c-e417" name="Big’ed Bossbunka" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="96ed-8177-9bb6-e43c" name="Boss Snikrot" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="29d2-e805-ae33-45a9" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ed9a-c9bc-a1bb-998d" name="Boss Zagstruk" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9073-581a-c7fd-3a2a" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6f50-da28-b393-8ebc" name="Boyz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1d7d-7b7c-86ba-275a" name="10 Boyz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4052-08bf-174c-a54a" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d094-787a-80b9-fead" name="Burna Boyz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="287b-827c-5897-4c0a" name="1 Spanner and 4 Burna Boyz" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a432-c138-cb2d-c920" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="36c2-08f9-b51e-b567" name="Burna-bommer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0d83-edc1-2ad2-4870" name="Dakkajet" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2174-d50d-a6c8-95d4" name="Deff Dread" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9b9a-3afe-cc1c-9f7d" name="Deffkilla Wartrike" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="af9f-51ba-8213-e98d" name="Deffkoptas" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="bedf-1459-c514-2563" name="3 Deffkoptas" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="30d3-6263-9ea1-af26" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e084-b04d-3d9b-c8fd" name="Flash Gitz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="271a-3fe8-10e4-8e47" name="5 Flash Gitz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f5b7-7e82-8125-ebe0" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c96e-8a7c-f5da-3950" name="Ghazghkull Thraka" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7885-ff9b-9014-b1bd" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="235.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0b86-c104-37c8-2faa" name="Gorkanaut" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="295.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e477-0fb8-f65d-2cd8" name="Gretchin" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="0b9e-6216-771e-08fd" name="11 Gretchin" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="280c-7ffd-c8d2-466e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9b4d-bd1b-b685-613e" name="Hunta Rig" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="180.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5145-fa5a-5f1c-cb6f" name="Kaptin Badrukk" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="11d0-3b5c-dc16-7498" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5a84-2266-c91b-b6aa" name="Kill Rig" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="220.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="64a8-0877-a1d4-27c8" name="Kommandos" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c885-d916-f42d-87a3" name="Kustom Boosta-blasta" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2dd4-c95f-dd19-ffe3" name="Lootas" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="50fb-1a41-8c12-a100" name="1 Spanner and 4 Lootas" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7ae9-1e63-0341-c76e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="74c9-06f3-5ed4-fc84" name="Mad Dok Grotsnik" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="96b2-e14c-5131-d870" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cf75-6bdc-bc64-700a" name="Meganobz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="02d1-0478-97f7-bc16" name="2 Meganobz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8897-656f-c226-2982" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2f1d-fa79-d2cd-80c1" name="5 Meganobz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="89da-94f7-e925-52fb" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="165.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="441e-9237-22a6-790f" name="6 Meganobz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="06b9-78d0-2a50-abd6" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="200.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="3548-cfa5-8d29-c53c" name="3 Meganobz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="eb30-b4fd-4593-19c4" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="100.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4ce4-4538-3f3c-4b8d" name="Megatrakk Scrapjet" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5f3d-a58d-3295-f613" name="Mek" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="82f4-390c-81af-d5af" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3e32-ed15-5e83-f0ed" name="Mek Gunz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="59fb-6aed-0d81-0135" name="1 Mek Gun" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d3a6-4fbb-bbe0-8f59" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="45.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="64a9-5687-773f-a87c" name="Mekboy Workshop" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d592-df31-16ad-3b3f" name="Morkanaut" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="350.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="acea-00b6-ae39-b317" name="Mozrog Skragbad" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="28de-e9bd-ccb2-d887" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="195.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b8b2-a2b9-e0eb-584a" name="Nob on Smasha Squig" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="bf9f-f7b0-0630-70c9" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2f3e-e6b4-484a-e150" name="Nob with Waaagh! Banner" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="fd22-dc01-3f30-2d4e" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ede8-f8d2-658e-e836" name="Nobz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="aa4c-5ea2-cab0-b277" name="10 Nobz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d439-de34-448d-9ef0" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2a23-a9f9-7af9-3c49" name="Painboss" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="d177-d12c-e358-ff3b" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e895-097c-025d-ff98" name="Painboy" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="b426-ce1c-7c77-8572" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7725-8ca5-24bc-8954" name="Rukkatrukk Squigbuggy" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="397c-1f3d-e733-6ae2" name="Shokkjump Dragsta" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5040-0f4f-122d-c381" name="Squighog Boyz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="fc76-853d-21b9-0a71" name="3 Squighog Boyz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="413e-429d-1269-268e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="939f-7f1d-3c09-f839" name="Stompa" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="800.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6716-7f89-dfed-815b" name="Stormboyz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="c4f1-2550-8e22-11a6" name="5 Stormboyz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3f3d-6719-c287-52c8" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="65.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8f85-4ad4-3ee1-86bd" name="Tankbustas" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="135.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3b63-3013-a45e-95f1" name="Trukk" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="37f4-832c-eb38-9ca2" name="Warbikers" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="4af7-28ce-5f77-2606" name="3 Warbikers" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ad3a-bd86-d3d0-c4fc" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="137e-7fe8-2361-22d4" name="Warboss" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="d17e-eae6-2b4a-2c27" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f48f-30f3-87e2-4fd4" name="Warboss in Mega Armour" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="27a6-d941-9042-5daf" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d6cf-8995-8dc2-beaa" name="Wazbom Blastajet" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="175.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d7d9-730a-6b87-5eeb" name="Weirdboy" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="2f18-7c69-e720-89ed" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="55.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4f7c-5098-b4fd-4a76" name="Wurrboy" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="0650-5927-bcc0-dafa" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="af8b-b068-631c-72a7" name="Zodgrod Wortsnagga" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="21da-91f1-82d7-cb5a" type="max"/>
+      </constraints>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="05cd-86a9-2b78-8dbe" name="Big Trakk" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="774c-7520-690f-a24a" name="Grot Mega-tank" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="fcf1-8f2f-007a-b820" name="Grot Tanks" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="d980-0854-1221-b38e" name="4 Grot Tanks" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8c8e-3047-4281-9609" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="155.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f728-91b5-c70d-7f75" name="Gargantuan Squiggoth" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="440.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="162d-3b43-a667-7510" name="Kill Tank" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="305.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6867-ec62-4f82-206e" name="Mega Dread" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="225.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c4a7-d501-1905-54cd" name="Meka-dread" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="230.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f48b-140f-174a-d9e7" name="Nobz on Warbikes" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="094e-750f-88e2-ebbb" name="Killa Kans" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="1938-1639-eb4c-596a" name="3 Killa Kans" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f34d-5d72-492b-f56e" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c3a5-0d15-fb3b-9bba" name="Squiggoth" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="638b-4997-a815-2fbb" name="Warboss on Warbike" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <entryLinks>
+        <entryLink id="1c8c-a38b-a0a2-5a87" name="Waaagh! Tribe" hidden="false" collective="false" import="true" targetId="cd2b-e318-11d5-67c6" type="selectionEntryGroup"/>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="80ca-6a14-33f4-492b" name="Boomdakka Snazzwagon" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a8eb-6bd2-1145-df6d" name="Blitza-bommer" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="model">
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="115.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f9fc-0fb9-7e77-43ab" name="Beast Snagga Boyz" publicationId="5602-a76d-2811-707d" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="5ba7-8e54-8966-c8cd" name="10 Beast Snagga Boyz" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2671-9fd9-a355-4ea6" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="105.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="cd2b-e318-11d5-67c6" name="Waaagh! Tribe" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dade-86ea-afed-8618" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="a571-5344-3fac-a054" name="Follow Me Ladz" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c562-b640-76ab-4fc0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ea23-13f0-50eb-d8cf" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="25.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0ce5-7549-d8ef-1584" name="Kunnin’ But Brutal" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="558e-5aa4-cff7-1eb0" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8601-d611-910a-a54f" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="eb89-7f84-53fd-f548" name="Supa-Cybork Body" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5697-d350-ab0d-65d5" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a992-511f-39e6-a332" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="15.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="6412-e120-2a8e-7884" name="Headwoppa’s Killchoppa" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7f9f-b202-f1dc-0dbc" type="max"/>
+            <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="53ff-77c6-1ef8-adae" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="6dab-1e38-1f37-5d19" value="20.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>
